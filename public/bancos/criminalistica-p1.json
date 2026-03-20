@@ -1,0 +1,1870 @@
+{
+  "materia": "Criminalística I",
+  "parcial": "P1",
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Conceptos Fundamentales",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Cuál es la diferencia principal entre Criminalística y Criminología?",
+      "explicacion": "La Criminalística busca evidencias físicas en la escena para resolver el 'cómo'. La Criminología estudia el 'por qué' del comportamiento criminal analizando el entorno político, social, cultural y religioso.",
+      "opciones": [
+        "Ambas estudian el comportamiento criminal, pero desde distintas perspectivas sociales",
+        "La Criminalística es científica y operativa (el cómo); la Criminología es sociológica y estudia el comportamiento criminal (el por qué)",
+        "La Criminología procesa la escena del crimen; la Criminalística estudia al delincuente",
+        "Son sinónimos usados indistintamente en el sistema penal acusatorio"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 2,
+      "tema": "Conceptos Fundamentales",
+      "tipo": "TF",
+      "parcial": "P1",
+      "pregunta": "AFIRMACIÓN: 'Todo criminólogo es criminalista, pues ambas disciplinas comparten el mismo objeto de estudio: la escena del crimen.'",
+      "explicacion": "FALSO. La regla de oro del curso es: 'Todo criminalista debe saber un poco de criminología, mas no todo criminólogo es criminalista.' Son disciplinas distintas con objetos de estudio diferentes.",
+      "respuesta": false
+    },
+    {
+      "id": 3,
+      "tema": "Conceptos Fundamentales",
+      "tipo": "CD",
+      "parcial": "P1",
+      "pregunta": "Complete la regla de oro del curso:\n\n'Todo criminalista debe saber un poco de __________, mas no todo __________ es criminalista.'",
+      "explicacion": "Regla fundamental que delimita el campo de cada disciplina. El criminalista necesita nociones de criminología para formular hipótesis, pero su labor es técnico-científica, no sociológica.",
+      "respuesta": "criminología / criminólogo",
+      "palabrasClave": [
+        "criminología",
+        "criminólogo"
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Conceptos Fundamentales",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "Según la definición del Manual de Policía Judicial, la Criminalística es:",
+      "explicacion": "Definición oficial: ciencia auxiliar del Derecho (penal, civil, laboral, administrativo) que emplea recursos técnicos y científicos enfocados a la búsqueda y análisis del EMP y EF.",
+      "opciones": [
+        "Una disciplina sociológica que estudia el comportamiento del delincuente en su entorno",
+        "La ciencia auxiliar del Derecho que emplea recursos técnico-científicos para analizar EMP y EF, determinar la ocurrencia del delito, sus autores y causas",
+        "El conjunto de normas procesales que regulan la recolección de pruebas en Colombia",
+        "Una pseudociencia que complementa el testimonio humano en los juicios orales"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 5,
+      "tema": "Conceptos Fundamentales",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Qué significa que una disciplina científica se vuelva 'forense'?",
+      "explicacion": "Forense proviene del latín 'fors' (foro), el lugar donde los sabios debatían. Una disciplina se vuelve forense cuando su explicación científica adquiere un tinte jurídico/judicial. No significa 'muertos' ni 'cuerpos'.",
+      "opciones": [
+        "Que estudia exclusivamente cadáveres y cuerpos en descomposición",
+        "Que su dictamen científico adquiere un propósito jurídico y se introduce en un proceso judicial",
+        "Que es practicada únicamente por médicos legistas",
+        "Que trabaja exclusivamente para la Fiscalía General de la Nación"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 6,
+      "tema": "Conceptos Fundamentales",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "Un perito puede ser:",
+      "explicacion": "El perito es un experto en una determinada ciencia, arte, oficio o AFICIÓN. Ejemplo: alguien con afición al ajedrez puede actuar como perito en un caso relacionado. No se limita a títulos formales.",
+      "opciones": [
+        "Únicamente un profesional con título universitario en ciencias naturales",
+        "Solo médicos legistas o químicos adscritos a Medicina Legal",
+        "Un experto en una determinada ciencia, arte, oficio o afición relevante para el caso",
+        "Cualquier ciudadano mayor de edad que presenció el hecho"
+      ],
+      "respuesta": 2
+    },
+    {
+      "id": 7,
+      "tema": "Conceptos Fundamentales",
+      "tipo": "TF",
+      "parcial": "P1",
+      "pregunta": "AFIRMACIÓN: 'La prueba científica y la prueba testimonial tienen el mismo peso probatorio en el sistema penal acusatorio colombiano.'",
+      "explicacion": "FALSO. La prueba científica PREVALECE sobre el testimonio humano. Los humanos son emocionales y tienen sesgos, mientras que los instrumentos y laboratorios no. Feynman: 'El experimento es el único juez de la verdad científica.'",
+      "respuesta": false
+    },
+    {
+      "id": 8,
+      "tema": "Conceptos Fundamentales",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Cuál de los siguientes es un ejemplo de pseudociencia según el docente?",
+      "explicacion": "La astrología (junto con la brujería, quiromancia y parapsicología) son pseudociencias que no tienen cabida en la investigación legal. La criminalística se nutre exclusivamente de ciencias validadas.",
+      "opciones": [
+        "Toxicología forense",
+        "Dactiloscopia",
+        "Astrología",
+        "Palinología forense"
+      ],
+      "respuesta": 2
+    },
+    {
+      "id": 9,
+      "tema": "Clasificación de Ciencias",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿A qué categoría de ciencias pertenece la Criminología según la clasificación del docente?",
+      "explicacion": "La Criminología pertenece a las Ciencias Sociales, junto con Psicología, Sociología, Derecho y Antropología Cultural. Las Ciencias Naturales incluyen Física, Química, Biología, Geología y Astronomía.",
+      "opciones": [
+        "Ciencias Naturales",
+        "Ciencias Fundamentales",
+        "Ciencias Sociales",
+        "Pseudociencias"
+      ],
+      "respuesta": 2
+    },
+    {
+      "id": 10,
+      "tema": "Clasificación de Ciencias",
+      "tipo": "CD",
+      "parcial": "P1",
+      "pregunta": "Complete: Las Ciencias Fundamentales son __________, __________ e __________, y son esenciales porque dan soporte matemático y lógico a las demás ciencias.",
+      "explicacion": "Las Ciencias Fundamentales (Matemáticas, Estadística e Informática) son el soporte de las demás. Ejemplo: las matemáticas permiten calcular balística dentro de la física.",
+      "respuesta": "Matemáticas / Estadística / Informática",
+      "palabrasClave": [
+        "matemáticas",
+        "estadística",
+        "informática"
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Clasificación de Ciencias",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Cuál de los siguientes grupos corresponde CORRECTAMENTE a las Ciencias Naturales?",
+      "explicacion": "Las Ciencias Naturales son: Física, Química, Biología, Geología y Astronomía. Son las 'raíces del árbol' de la criminalística.",
+      "opciones": [
+        "Psicología, Sociología, Derecho, Criminología",
+        "Matemáticas, Estadística, Informática, Contabilidad",
+        "Física, Química, Biología, Geología, Astronomía",
+        "Toxicología, Balística, Dactiloscopia, Grafología"
+      ],
+      "respuesta": 2
+    },
+    {
+      "id": 12,
+      "tema": "Método Científico",
+      "tipo": "CD",
+      "parcial": "P1",
+      "pregunta": "El acrónimo del Método Científico aplicado en criminalística es O.P.H.E.A.R. Complete qué significa cada letra:\nO: __________\nP: __________\nH: __________\nE: __________\nA: __________\nR: __________",
+      "explicacion": "O=Observación, P=Planteamiento del problema, H=Hipótesis, E=Experimentación, A=Análisis, R=Resultados. Es el procedimiento central de la investigación criminal.",
+      "respuesta": "Observación / Planteamiento / Hipótesis / Experimentación / Análisis / Resultados",
+      "palabrasClave": [
+        "observación",
+        "planteamiento",
+        "hipótesis",
+        "experimentación",
+        "análisis",
+        "resultados"
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Método Científico",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Cuál es la diferencia entre una Hipótesis, una Teoría y una Ley científica?",
+      "explicacion": "Hipótesis=posible solución sin comprobar (variable). Teoría=sustento matemático/experimental pero no avalada al 100% (ej. relatividad de Einstein). Ley=comprobada al 100% universalmente (ej. gravedad, termodinámica).",
+      "opciones": [
+        "Son sinónimos que representan distintos grados de formalidad lingüística",
+        "La Hipótesis no está comprobada; la Teoría tiene sustento pero no está avalada al 100%; la Ley está comprobada universalmente al 100%",
+        "La Ley es provisional; la Teoría es definitiva; la Hipótesis es la conclusión final",
+        "Solo la Ley tiene valor en un juicio; la Hipótesis y la Teoría son rechazadas como prueba"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 14,
+      "tema": "Método Científico",
+      "tipo": "TF",
+      "parcial": "P1",
+      "pregunta": "AFIRMACIÓN: 'En criminalística, el investigador trabaja con probabilidades como el abogado, ya que la ciencia nunca puede dar certeza absoluta.'",
+      "explicacion": "FALSO. El criminalista busca CERTEZA científica, no probabilidades. El abogado maneja probabilidades para construir teorías del caso. La diferencia certeza vs. probabilidad es uno de los principios fundamentales del curso.",
+      "respuesta": false
+    },
+    {
+      "id": 15,
+      "tema": "Método Científico",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Qué es la 'intuición' o 'malicia indígena' del investigador según Giraldo Rojas?",
+      "explicacion": "Giraldo valida científicamente la intuición como 'conocimiento intuitivo o inmediato de una verdad sin razonamientos lógicos paso a paso'. Es crucial en la práctica criminalística y complementa el método científico.",
+      "opciones": [
+        "Una percepción irracional que debe ser descartada en la investigación científica",
+        "El conocimiento inmediato de una verdad sin el concurso de razonamientos lógicos paso a paso, validado científicamente",
+        "Una suposición basada en estereotipos culturales del investigador",
+        "La capacidad del perito de inventar hipótesis sin fundamento empírico"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 16,
+      "tema": "EMP y Evidencia Física",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "El Art. 275 del CPP define los EMP y EF. ¿Cuál de las siguientes categorías NO está incluida en ese artículo?",
+      "explicacion": "El Art. 275 define 8 categorías de EMP/EF: huellas/rastros, armas/instrumentos, dinero/bienes del delito, elementos de registros/allanamientos, documentos, grabaciones/videos, mensajes de datos, y demás elementos similares. Las declaraciones juradas son prueba testimonial, no EMP.",
+      "opciones": [
+        "Huellas, rastros, manchas, residuos y vestigios",
+        "Mensajes de datos (correo electrónico, internet) según Ley 527/1999",
+        "Declaraciones juradas ante notario público",
+        "Grabaciones, fotografías, videos y cámaras de vigilancia"
+      ],
+      "respuesta": 2
+    },
+    {
+      "id": 17,
+      "tema": "EMP y Evidencia Física",
+      "tipo": "TF",
+      "parcial": "P1",
+      "pregunta": "AFIRMACIÓN: 'EMP (Elemento Material Probatorio) y Evidencia Física son términos distintos que designan conceptos diferentes en el CPP colombiano.'",
+      "explicacion": "FALSO. El CPP los utiliza como términos SINÓNIMOS. Durante la fase de juzgamiento (Art. 382), se les denomina 'Medios de Conocimiento', categoría que también incluye la prueba testimonial y pericial.",
+      "respuesta": false
+    },
+    {
+      "id": 18,
+      "tema": "EMP y Evidencia Física",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Qué es la evidencia efímera y cómo se documenta?",
+      "explicacion": "La evidencia efímera (fuego, olores, calor) no puede embalarse ni ingresar a cadena de custodia formal. Se documenta con análisis organoléptico: tacto, olfato, vista, oído del investigador.",
+      "opciones": [
+        "Evidencia que desaparece en 24 horas; se documenta con cadena de custodia urgente",
+        "Evidencia que se desvanece y no puede embalarse; se documenta mediante análisis organoléptico usando los sentidos",
+        "Evidencia digital que requiere peritos especializados en informática forense",
+        "Evidencia que solo puede recolectarse con autorización del fiscal"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 19,
+      "tema": "EMP y Evidencia Física",
+      "tipo": "CC",
+      "parcial": "P1",
+      "pregunta": "CASO: Un investigador llega a una bodega donde funciona un laboratorio clandestino de cocaína. Al ingresar detecta un fuerte olor a éter y acetona, siente calor en los recipientes y observa vapores blancos emanando de una mezcla. No puede recolectar los vapores ni el olor.\n\n¿Cómo denomina la criminalística a este tipo de evidencia, y qué procedimiento debe aplicar el investigador para documentarla válidamente?",
+      "explicacion": "Es evidencia EFÍMERA: positiva pero que se desvanece. No puede embalarse. El investigador aplica ANÁLISIS ORGANOLÉPTICO: documenta mediante sus sentidos (olfato=olor a éter/acetona, tacto=calor en recipientes, vista=vapores). Debe quedar en la narrativa del informe.",
+      "respuesta": "Evidencia efímera - análisis organoléptico",
+      "palabrasClave": [
+        "efímera",
+        "organoléptico"
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Cadena de Custodia",
+      "tipo": "CD",
+      "parcial": "P1",
+      "pregunta": "El acrónimo nemotécnico CAPRICIAS corresponde a los 9 requisitos de la cadena de custodia. Complete:\nC: __________\nA: __________\nP: __________\nR: __________\nI: __________\nC: __________\nI: __________\nA: __________\nS: __________",
+      "explicacion": "Los 9 requisitos CAPRICIAS garantizan que la prueba sea válida en juicio: Capacidad Demostrativa, Autenticidad, Preservación, Registro, Identidad, Continuidad, Integridad, Almacenamiento, Seguridad.",
+      "respuesta": "Capacidad Demostrativa / Autenticidad / Preservación / Registro / Identidad / Continuidad / Integridad / Almacenamiento / Seguridad",
+      "palabrasClave": [
+        "capacidad",
+        "autenticidad",
+        "preservación",
+        "registro",
+        "identidad",
+        "continuidad",
+        "integridad",
+        "almacenamiento",
+        "seguridad"
+      ]
+    },
+    {
+      "id": 21,
+      "tema": "Cadena de Custodia",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Cuáles son los 8 pasos del ciclo de la cadena de custodia en su orden correcto?",
+      "explicacion": "El ciclo correcto es: 1.Hallazgo → 2.Recolección → 3.Embalaje → 4.Rotulado → 5.Transporte → 6.Análisis → 7.Almacenamiento → 8.Disposición final. El orden es fundamental para la trazabilidad.",
+      "opciones": [
+        "Recolección → Embalaje → Hallazgo → Rotulado → Análisis → Transporte → Almacenamiento → Disposición final",
+        "Hallazgo → Recolección → Embalaje → Rotulado → Transporte → Análisis → Almacenamiento → Disposición final",
+        "Hallazgo → Análisis → Recolección → Embalaje → Transporte → Rotulado → Almacenamiento → Disposición final",
+        "Recolección → Hallazgo → Rotulado → Embalaje → Análisis → Transporte → Disposición final → Almacenamiento"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 22,
+      "tema": "Cadena de Custodia",
+      "tipo": "TF",
+      "parcial": "P1",
+      "pregunta": "AFIRMACIÓN: 'El embalaje primario de un EMP puede ser abierto por cualquier funcionario que necesite verificar el contenido durante el transporte.'",
+      "explicacion": "FALSO. El embalaje primario solo puede ser abierto por el PERITO DESIGNADO para su estudio, salvo excepciones por motivos de seguridad. Abrirlo sin autorización viola la cadena de custodia.",
+      "respuesta": false
+    },
+    {
+      "id": 23,
+      "tema": "Cadena de Custodia",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Qué garantiza el requisito de CONTINUIDAD en la cadena de custodia?",
+      "explicacion": "CONTINUIDAD: forma cronológica ininterrumpida que permite realizar trazabilidad de los diferentes actores que intervinieron. Si hay un 'vacío' en la cadena (nadie sabe quién tuvo el elemento en cierto momento), se rompe la continuidad y puede viciarse la prueba.",
+      "opciones": [
+        "Que el EMP no sufra alteraciones físicas durante el almacenamiento",
+        "La trazabilidad cronológica ininterrumpida de todos los actores que intervinieron con el elemento",
+        "Que el laboratorio esté certificado y acreditado",
+        "Que el fiscal autorice cada movimiento del EMP"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 24,
+      "tema": "Cadena de Custodia",
+      "tipo": "CC",
+      "parcial": "P1",
+      "pregunta": "CASO: El investigador A recolecta y embala una evidencia. La traslada al laboratorio pero no diligencia el formato de registro de cadena de custodia. En laboratorio, el perito B abre el embalaje primario sin dejar constancia del estado en que lo recibió.\n\n¿Cuántos requisitos CAPRICIAS se violan en este escenario y cuáles son?",
+      "explicacion": "Se violan: REGISTRO (no se documentó el formato) y CONTINUIDAD (no hay trazabilidad del traslado). Adicionalmente, el perito debería dejar constancia del estado del embalaje al recibirlo (Art. 260 CPP). Esto puede viciarse como prueba en juicio.",
+      "respuesta": "Registro y Continuidad",
+      "palabrasClave": [
+        "registro",
+        "continuidad"
+      ]
+    },
+    {
+      "id": 25,
+      "tema": "Cadena de Custodia",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "El FPJ 007 es:",
+      "explicacion": "El FPJ 007 es el Rótulo EMP y EF. Garantiza identidad y autenticidad de los elementos. Requiere: NUNC (Número Único de Noticia Criminal), número de prueba, fecha, hora y descripción del elemento.",
+      "opciones": [
+        "El formulario de solicitud de análisis de laboratorio",
+        "El rótulo oficial de cadena de custodia para EMP y EF que requiere NUNC, número de prueba, fecha, hora y descripción",
+        "El formato de inspección del lugar de los hechos",
+        "La orden judicial para practicar una exhumación"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 26,
+      "tema": "Principios Criminalísticos",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "El Principio de Unicidad establece que:",
+      "explicacion": "Principio de Unicidad: nada en el universo es totalmente idéntico. Ejemplo: dos gramos de cocaína nunca pesarán matemáticamente lo mismo bajo rigor microscópico. Esto es la base de la individualización de evidencias.",
+      "opciones": [
+        "Cada investigación criminal debe tener un único investigador responsable",
+        "Nada en el universo es totalmente idéntico; siempre existen diferencias microscópicas entre elementos aparentemente iguales",
+        "El único método válido de identificación es la huella dactilar",
+        "Un EMP solo puede pertenecer a un proceso judicial a la vez"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 27,
+      "tema": "Principios Criminalísticos",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "En un caso de homicidio, el arma utilizada fue un cuchillo de cocina que el agresor tomó de la cocina de la víctima. Según el Principio de Uso, ¿bajo qué categoría se clasifica el agente?",
+      "explicacion": "El Principio de Uso se clasifica en: Físico (fuego, electricidad), Químico (venenos, ácidos), Biológico (serpientes, bacterias), Mecánico (armas de fuego, armas blancas: cortantes, punzantes, contundentes) y Psicológico. Un cuchillo es agente MECÁNICO.",
+      "opciones": [
+        "Físico",
+        "Biológico",
+        "Químico",
+        "Mecánico"
+      ],
+      "respuesta": 3
+    },
+    {
+      "id": 28,
+      "tema": "Principios Criminalísticos",
+      "tipo": "TF",
+      "parcial": "P1",
+      "pregunta": "AFIRMACIÓN: 'El Principio de Intercambio de Locard y el Principio de Transferencia son sinónimos: ambos describen el mismo fenómeno de traspaso de evidencia.'",
+      "explicacion": "FALSO. Son distintos: INTERCAMBIO (Locard)=bidireccional, A transfiere a B Y B transfiere a A mutuamente. TRANSFERENCIA=unidireccional, solo A transfiere a B (o B a A). El intercambio exige evidencia documentada en AMBAS direcciones.",
+      "respuesta": false
+    },
+    {
+      "id": 29,
+      "tema": "Principios Criminalísticos",
+      "tipo": "CC",
+      "parcial": "P1",
+      "pregunta": "CASO: En la investigación de la muerte de una modelo, se halló un vello púbico en la víctima con perfil genético incompatible con ella. El análisis determinó que pertenecía al jardinero del lugar, quien tuvo contacto físico con la víctima durante el hecho.\n\n¿Qué principio criminalístico explica cómo ese vello llegó a la víctima, y qué pregunta crítica debe hacerse el investigador para establecer si se trata de intercambio o transferencia?",
+      "explicacion": "El vello explica el Principio de LOCARD. Para determinar si fue INTERCAMBIO (bidireccional) o TRANSFERENCIA (unidireccional), el investigador debe preguntar: ¿se buscaron y encontraron evidencias de la víctima en el agresor? (cabello, fibras, fluidos). Si solo se probó una dirección, técnicamente es transferencia, no intercambio.",
+      "respuesta": "Intercambio o transferencia de Locard / ¿Qué dejó la víctima en el agresor?",
+      "palabrasClave": [
+        "locard",
+        "intercambio",
+        "transferencia"
+      ]
+    },
+    {
+      "id": 30,
+      "tema": "Principios Criminalísticos",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "El Principio de Correspondencia de Caracteres permite:",
+      "explicacion": "Principio de Correspondencia de Caracteres: son las marcas que deja el agente (Principio de Uso) en el cuerpo o superficie. Permite el nexo causal. Ejemplos: marca de la suela de un zapato labrado, figura de un anillo al golpear, forma de un arma en la piel.",
+      "opciones": [
+        "Comparar el ADN de dos muestras para determinar parentesco",
+        "Establecer un nexo causal entre el agente y el resultado, mediante las marcas específicas que deja el agente sobre la superficie",
+        "Reconstruir la trayectoria balística de un proyectil",
+        "Determinar la hora de la muerte mediante el livor mortis"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 31,
+      "tema": "Principios Criminalísticos",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "El Principio de Reconstrucción se apoya en los sistemas de fijación de la escena. ¿Cuáles son los 4 sistemas básicos en Colombia?",
+      "explicacion": "Los 4 sistemas básicos de fijación en Colombia son: Fotografía, Topografía, Video y Narrativa. Los métodos modernos adicionales incluyen drones y estaciones totales. Toda fotografía debe tener georreferenciación.",
+      "opciones": [
+        "Drones, satélites, estación total y GPS",
+        "Fotografía, topografía, video y narrativa",
+        "Fotografía, ADN, narrativa y dactiloscopia",
+        "Video, entrevistas, fotografía y análisis de laboratorio"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 32,
+      "tema": "Normatividad CPP",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "El Art. 251 del CPP regula:",
+      "explicacion": "Art. 251 CPP = Sistemas de Identificación (métodos). Art. 275 = EMP y Evidencia Física (definición). Art. 254 = Cadena de Custodia. Confundir estos artículos es el error más común señalado por el docente.",
+      "opciones": [
+        "Los Elementos Materiales Probatorios y Evidencia Física",
+        "Los sistemas de identificación: huellas digitales, carta dental, ADN, sangre, semen, cabellos, voz, escritura, pisadas",
+        "El sistema de cadena de custodia",
+        "Las facultades del imputado durante la investigación"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 33,
+      "tema": "Normatividad CPP",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "Según el Art. 253 del CPP, para un reconocimiento en fila de personas se requiere:",
+      "explicacion": "Art. 253: reconocimiento en fila requiere MÍNIMO 7 personas con similitud morfológica, sin sugerencias al testigo, y el imputado elige su posición en la fila. El Art. 252 (fotos) también requiere mínimo 7 imágenes.",
+      "opciones": [
+        "Mínimo 5 personas con similitud morfológica y el imputado elige su posición",
+        "Mínimo 7 personas con similitud morfológica, sin sugerencias, y el imputado elige su posición",
+        "Mínimo 10 personas y autorización previa del juez de garantías",
+        "Solo el imputado y testigos de la defensa, con autorización del fiscal"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 34,
+      "tema": "Normatividad CPP",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Qué facultades otorga el Art. 267 del CPP a quien advierte que se le adelanta una investigación (no imputado aún)?",
+      "explicacion": "Art. 267: quien no es imputado aún puede buscar, identificar empíricamente, recoger y embalar EMP/EF, y contratar peritos particulares. Art. 268 extiende estas mismas facultades al ya imputado.",
+      "opciones": [
+        "Solo puede observar las diligencias pero no recolectar evidencia por su cuenta",
+        "Puede buscar, identificar empíricamente, recoger y embalar EMP, y hacerlos examinar por peritos particulares para su defensa",
+        "Puede acceder a la escena del crimen con autorización del fiscal",
+        "No tiene ninguna facultad investigativa hasta ser formalmente imputado"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 35,
+      "tema": "Normatividad CPP",
+      "tipo": "CC",
+      "parcial": "P1",
+      "pregunta": "CASO: El fiscal quiere obtener una muestra de escritura manual de un indiciado para cotejarla con un documento falsificado. El indiciado se niega rotundamente a dar su consentimiento.\n\n¿Cuál es el procedimiento legal correcto según el CPP, y qué artículo lo regula?",
+      "explicacion": "Art. 249 CPP: la obtención de muestras (grafotecnia, fluidos, voz, pisadas) sin consentimiento requiere audiencia ante el JUEZ DE CONTROL DE GARANTÍAS. El fiscal no puede ordenarlo unilateralmente porque afecta derechos fundamentales.",
+      "respuesta": "Audiencia ante Juez de Control de Garantías - Art. 249",
+      "palabrasClave": [
+        "juez de control de garantías",
+        "audiencia",
+        "249"
+      ]
+    },
+    {
+      "id": 36,
+      "tema": "Normatividad CPP",
+      "tipo": "TF",
+      "parcial": "P1",
+      "pregunta": "AFIRMACIÓN: 'El Art. 205 del CPP establece que nadie puede traspasar la cinta amarilla de aislamiento de la escena, ni siquiera los abogados de las partes.'",
+      "explicacion": "VERDADERO. El Art. 205 (también citado como Art. 143 en algunas clases) prohíbe traspasar la cinta amarilla. Hacerlo acarrea multas de 1 a 50 salarios mínimos legales o arresto de hasta 5 días, incluso para abogados.",
+      "respuesta": true
+    },
+    {
+      "id": 37,
+      "tema": "Normatividad CPP",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "El Art. 245 del CPP sobre obtención de ADN del indiciado establece que el cotejo con bases de datos requiere:",
+      "explicacion": "Art. 245: la orden expresa la emite el FISCAL. Pero el cotejo con bancos de datos requiere revisión del JUEZ DE CONTROL DE GARANTÍAS dentro de 36 horas. Es una garantía adicional por la sensibilidad del perfil genético.",
+      "opciones": [
+        "Solo autorización del fiscal mediante orden escrita",
+        "Revisión del Juez de Control de Garantías dentro de 36 horas",
+        "Consentimiento escrito del indiciado y su defensor",
+        "Autorización de la Corte Constitucional"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 38,
+      "tema": "Normatividad CPP",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Qué establece el Art. 207 del CPP?",
+      "explicacion": "Art. 207: el Programa Metodológico de Investigación. Es la planeación y delimitación funcional de las actividades investigativas que lidera el fiscal junto con la policía judicial para estructurar el caso.",
+      "opciones": [
+        "Los métodos de identificación permitidos",
+        "El programa metodológico de investigación que debe crear el fiscal junto con la policía judicial",
+        "El procedimiento para exhumaciones",
+        "Las facultades del perito en el juicio oral"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 39,
+      "tema": "Normatividad CP",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Qué tres elementos debe tener una conducta para ser considerada PUNIBLE según el Art. 9 del Código Penal?",
+      "explicacion": "Art. 9 CP: la conducta punible debe ser TÍPICA (estar descrita en el código), ANTIJURÍDICA (contraria al ordenamiento jurídico) y CULPABLE (atribuible al sujeto). Faltar cualquiera de los tres elimina la punibilidad.",
+      "opciones": [
+        "Ser peligrosa, documentada y denunciada",
+        "Ser típica, antijurídica y culpable",
+        "Ser violenta, premedita y documentada",
+        "Ser cometida por un mayor de edad, con dolo y sin causa justificada"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 40,
+      "tema": "Normatividad CP",
+      "tipo": "TF",
+      "parcial": "P1",
+      "pregunta": "AFIRMACIÓN: 'Un hecho que moralmente parece grave puede ser investigado y sancionado penalmente aunque no esté tipificado en el Código Penal.'",
+      "explicacion": "FALSO. 'Lo que no está escrito en el código NO EXISTE como delito.' Es el principio de legalidad (nullum crimen sine lege). El CP establece el QUÉ (define delitos); sin tipificación, no hay delito aunque el hecho sea moralmente reprochable.",
+      "respuesta": false
+    },
+    {
+      "id": 41,
+      "tema": "Normatividad CP",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "El Art. 339A del Código Penal reconoce que los animales son:",
+      "explicacion": "Art. 339A CP: tipifica los delitos contra la vida y la integridad física y emocional de los animales. Reconoce a los animales como SERES SINTIENTES. Es uno de los artículos más recientes en materia de protección animal.",
+      "opciones": [
+        "Objetos de propiedad sin protección penal especial",
+        "Seres sintientes con protección penal contra maltrato y daño físico/emocional",
+        "Evidencia física que puede ser EMP en una investigación",
+        "Sujetos procesales con capacidad para ser víctimas en un juicio"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 42,
+      "tema": "Identificación y Cuarteta Básica",
+      "tipo": "CD",
+      "parcial": "P1",
+      "pregunta": "La Cuarteta Básica de Identificación en Antropología Forense está compuesta por:\n1. __________\n2. __________\n3. __________\n4. __________",
+      "explicacion": "La Cuarteta Básica son los 4 elementos que la antropología forense busca determinar en restos humanos: Sexo, Edad, Etnia y Talla (estatura). Nota: ya NO se usa el término 'raza'; se usa 'etnia'.",
+      "respuesta": "Sexo / Edad / Etnia / Talla",
+      "palabrasClave": [
+        "sexo",
+        "edad",
+        "etnia",
+        "talla"
+      ]
+    },
+    {
+      "id": 43,
+      "tema": "Identificación y Cuarteta Básica",
+      "tipo": "CC",
+      "parcial": "P1",
+      "pregunta": "CASO: En la morgue llegan restos óseos parciales. El perito determina: persona adulta mayor, de origen afrodescendiente, estatura aproximada 1.68m. Sin embargo, la morfología pélvica y craneal no permite concluir el sexo biológico con certeza.\n\n¿Cómo debe registrar el campo 'Sexo' en el formato oficial, y qué consecuencia tendría registrar un sexo equivocado para la cadena de custodia?",
+      "explicacion": "El campo Sexo debe registrarse como 'I' (INDETERMINADO). Registrar un sexo equivocado rompe el requisito de IDENTIDAD de la cadena de custodia (CAPRICIAS), puede generar inconsistencias entre el EMP y los documentos, y dar a la defensa argumento de sustitución o alteración del elemento.",
+      "respuesta": "I de Indeterminado / vicia la cadena de custodia por romper la identidad",
+      "palabrasClave": [
+        "indeterminado",
+        "cadena de custodia",
+        "identidad"
+      ]
+    },
+    {
+      "id": 44,
+      "tema": "Identificación y Cuarteta Básica",
+      "tipo": "TF",
+      "parcial": "P1",
+      "pregunta": "AFIRMACIÓN: 'En neonatos se toman huellas dactilares (de los dedos de la mano) inmediatamente después del parto porque los bebés nacen con las manos abiertas.'",
+      "explicacion": "FALSO. Los bebés nacen con las manos ANQUILOSADAS (cerradas), lo que impide tomar huellas dactilares claras. Por eso se utilizan huellas PLANTARES (del pie) antes de cortar el cordón umbilical.",
+      "respuesta": false
+    },
+    {
+      "id": 45,
+      "tema": "Identificación y Cuarteta Básica",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Cuál es la diferencia legal entre nombre de pila, alias y seudónimo?",
+      "explicacion": "Nombre de pila=registrado legalmente. Alias=apodo criminal (tiene relevancia investigativa). Seudónimo=nombre artístico (ej. cantante). La distinción es importante para identificar correctamente al indiciado en los formatos.",
+      "opciones": [
+        "Son términos sinónimos; todos se refieren al nombre oficial de la persona",
+        "Nombre de pila: registrado legalmente. Alias: apodo criminal. Seudónimo/nombre artístico: identidad alternativa no criminal",
+        "Alias y seudónimo son iguales; solo el nombre de pila tiene valor legal",
+        "El alias tiene valor legal cuando es conocido públicamente"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 46,
+      "tema": "Historia y Pioneros",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Quién es considerado el Padre de la Criminalística y en qué fecha se celebra el Día del Criminalista?",
+      "explicacion": "HANNS GROSS, juez austriaco, es el Padre de la Criminalística. Autor del 'Manual del Juez' y creador de la 'Maleta Forense' con 15 disciplinas integradas. El Día del Criminalista se celebra el 12 de diciembre en su honor.",
+      "opciones": [
+        "Edmond Locard — 26 de agosto",
+        "Hanns Gross — 12 de diciembre",
+        "Alphonse Bertillon — 1 de marzo",
+        "Juan Vucetich — 15 de septiembre"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 47,
+      "tema": "Historia y Pioneros",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "Edmond Locard es reconocido mundialmente por dos aportaciones. ¿Cuáles son?",
+      "explicacion": "Locard: (1) Principio de intercambio (toda persona que entra en contacto con otra deja y lleva rastros). (2) Frase: 'El tiempo que pasa es la verdad que huye' — énfasis en procesar rápido la escena porque la memoria y la evidencia se deterioran.",
+      "opciones": [
+        "El sistema AFIS de huellas y la creación del primer laboratorio forense del mundo",
+        "El principio de intercambio y su frase: 'El tiempo que pasa es la verdad que huye'",
+        "La antropometría forense y el retrato hablado",
+        "La toxicología moderna y el test de Marsh"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 48,
+      "tema": "Historia y Pioneros",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "Cesare Lombroso es recordado en criminalística por una contribución y una crítica severa. ¿Cuáles son?",
+      "explicacion": "Lombroso aportó a la ANTROPOMETRÍA forense (mediciones del cuerpo). Pero es muy criticado por etiquetar y estigmatizar personas como delincuentes basándose en rasgos físicos ('labios gruesos=mentiroso', 'nariz aguileña=criminal'). Su determinismo biológico es rechazado hoy.",
+      "opciones": [
+        "Contribución: la toxicología forense. Crítica: usó venenos en experimentos no éticos",
+        "Contribución: antropometría forense. Crítica: estigmatizaba a personas como criminales por sus rasgos físicos",
+        "Contribución: la dactiloscopia. Crítica: vendió sus descubrimientos a policías privados",
+        "Contribución: el retrato hablado. Crítica: mezcló ciencia con pseudociencias religiosas"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 49,
+      "tema": "Historia y Pioneros",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "Mateo Orfila es el Padre de la Toxicología. ¿En qué caso histórico demostró su valor científico?",
+      "explicacion": "Orfila, en el juicio a Marie Lafarge (Francia, 1839-1840), usó el 'Test de Marsh' en los restos exhumados del esposo para probar que el arsénico era de envenenamiento, no de minerales naturales del ataúd. Primera gran victoria de la toxicología forense.",
+      "opciones": [
+        "El caso Jack el Destripador en Londres, usando análisis de fluidos biológicos",
+        "El juicio a Marie Lafarge en Francia (1839-1840), usando el test de Marsh para detectar arsénico en restos exhumados",
+        "El caso de la corona de oro en Grecia, demostrando fraude mediante desplazamiento de agua",
+        "El juicio de Núremberg, identificando responsables mediante grafología"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 50,
+      "tema": "Historia y Pioneros",
+      "tipo": "CC",
+      "parcial": "P1",
+      "pregunta": "CASO HISTÓRICO: Un investigador del siglo VII a.C. se enfrenta a un homicidio en un cultivo. No hay testigos. Reúne todas las herramientas de los campesinos y las deja expuestas por varias horas. Las moscas se posan exclusivamente en una hoz, atraídas por rastros de sangre invisibles al ojo humano.\n\n¿Qué principio criminalístico moderno ilustra este caso, y qué base de datos forense actual emplea un principio similar para resolver casos?",
+      "explicacion": "El cuento de los segadores ilustra el PRINCIPIO DE TRANSFERENCIA (la sangre de la víctima quedó en la hoz del asesino). Hoy el sistema AFIS (huellas dactilares) y CODIS (ADN) aplican principios similares: la evidencia biológica o dactilar transferida al objeto o escena identifica al autor.",
+      "respuesta": "Principio de Transferencia / AFIS o bases biológicas",
+      "palabrasClave": [
+        "transferencia",
+        "intercambio",
+        "locard"
+      ]
+    },
+    {
+      "id": 51,
+      "tema": "Armas y Balística",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "Según la Ley 2535 de 1993, Art. 5, ¿cuál es la definición técnica y legal de 'arma'?",
+      "explicacion": "Ley 2535/1993, Art. 5: arma es el instrumento fabricado con el PROPÓSITO de producir amenaza, lesión o muerte. Un cuchillo de cocina o un bate NO son armas por naturaleza; son herramientas. Solo se convierten en armas si se alteran para causar daño.",
+      "opciones": [
+        "Todo objeto capaz de causar daño, incluyendo herramientas del hogar",
+        "Todo instrumento fabricado con el propósito específico de producir amenaza, lesión o muerte a una persona",
+        "Únicamente las armas de fuego registradas ante el Estado",
+        "Cualquier objeto contundente usado en la comisión de un delito"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 52,
+      "tema": "Armas y Balística",
+      "tipo": "TF",
+      "parcial": "P1",
+      "pregunta": "AFIRMACIÓN: 'Las armas traumáticas no son consideradas armas de fuego porque no usan pólvora sino gas comprimido.'",
+      "explicacion": "FALSO. Tanto las armas convencionales como las armas traumáticas son consideradas ARMAS DE FUEGO científicamente porque su mecanismo de acción es el mismo: fuerza creada por expansión de gases.",
+      "respuesta": false
+    },
+    {
+      "id": 53,
+      "tema": "Armas y Balística",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Cuál es la diferencia técnica entre deflagración y combustión en el contexto de las armas de fuego?",
+      "explicacion": "DEFLAGRACIÓN=reacción química rápida de la pólvora que genera gases expansivos para propulsar el proyectil. COMBUSTIÓN=reacción exotérmica constante (ej. llama de una vela). Decir que las armas 'usan combustión' es el error técnico más común que el docente corrige.",
+      "opciones": [
+        "Son sinónimos; ambas describen la reacción de la pólvora al disparar",
+        "Deflagración=reacción química rápida que propulsa el proyectil. Combustión=reacción exotérmica constante (como una vela). La pólvora produce deflagración, no combustión",
+        "Combustión es más rápida que deflagración; por eso las armas modernas usan combustión",
+        "Deflagración ocurre en armas de fuego largas; combustión en armas cortas"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 54,
+      "tema": "Crimen vs Delito",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Cuál es la diferencia entre CRIMEN y DELITO según la distinción operativa?",
+      "explicacion": "CRIMEN=categoría operacional y fáctica. Es el evento investigado, incluso antes de saber si jurídicamente es delito. DELITO=categoría jurídica que requiere tipicidad + antijuridicidad + culpabilidad. El investigador trabaja con el crimen; el juez determina si hay delito.",
+      "opciones": [
+        "Crimen es más grave que delito; ambos son categorías del Código Penal",
+        "Crimen=categoría fáctica/operacional (el hecho ocurrido). Delito=categoría jurídica (conducta típica, antijurídica y culpable)",
+        "Delito es el término correcto; crimen es un anglicismo que debe evitarse",
+        "Crimen incluye solo homicidios; delito incluye todas las conductas punibles"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 55,
+      "tema": "Crimen vs Delito",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Cuáles son los tres macroprocesos que estructuran la investigación criminal?",
+      "explicacion": "Los 3 macroprocesos: (1) INVESTIGACIÓN CRIMINAL=proceso fáctico (qué pasó, quién). (2) INVESTIGACIÓN JUDICIAL=proceso probatorio (convertir evidencia en prueba legal). (3) CRIMINALÍSTICA=disciplina auxiliar técnico-científica que alimenta a las dos anteriores.",
+      "opciones": [
+        "Criminalística de campo, de laboratorio y estadística",
+        "Investigación Criminal, Investigación Judicial y Criminalística",
+        "Inspección de escena, análisis de laboratorio y juicio oral",
+        "Indagación, investigación formal y juicio"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 56,
+      "tema": "Análisis de Escena",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Qué es el Livor Mortis y para qué sirve en la investigación?",
+      "explicacion": "LIVOR MORTIS (livideces): marcas causadas por el asentamiento gravitacional de la sangre cuando el corazón deja de funcionar. Si las marcas NO coinciden con la posición del cuerpo, el cadáver fue MOVIDO: hay 'posición original' (donde murió) y 'posición atípica' (donde se encontró).",
+      "opciones": [
+        "La rigidez cadavérica causada por el cese de la actividad celular",
+        "Las marcas de asentamiento gravitacional de la sangre tras la muerte; si no coinciden con la posición del cuerpo, indica que la escena fue alterada",
+        "El proceso de descomposición avanzada del cuerpo",
+        "La temperatura del cuerpo al momento de la muerte"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 57,
+      "tema": "Análisis de Escena",
+      "tipo": "TF",
+      "parcial": "P1",
+      "pregunta": "AFIRMACIÓN: 'Si un cuerpo recibe una herida después de muerto (post mortem), habrá sangrado abundante porque la sangre ya está coagulada.'",
+      "explicacion": "FALSO. Una lesión POST MORTEM produce sangrado MÍNIMO O NULO porque no hay actividad cardíaca ni bombeo. Esto permite al investigador distinguir si las heridas fueron causadas antes o después de la muerte, cambiando completamente la hipótesis del caso.",
+      "respuesta": false
+    },
+    {
+      "id": 58,
+      "tema": "Análisis de Escena",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Cómo debe embalarse un documento (nota suicida, billete falso) para enviarlo al laboratorio?",
+      "explicacion": "Un documento se embala ESTIRADO en sobre de manila. NUNCA se dobla, perfora, grapa ni pega. Cualquier alteración destruye su capacidad demostrativa para el análisis grafológico o documentológico.",
+      "opciones": [
+        "Doblado en cuatro partes dentro de una bolsa plástica con cierre hermético",
+        "Estirado en un sobre de manila; no se puede doblar, perforar, grapar ni pegar",
+        "Fotografiado y destruido el original para evitar contaminación",
+        "Plastificado para protegerlo de la humedad durante el transporte"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 59,
+      "tema": "Nomenclatura Forense",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Cuál es el término técnico correcto para referirse a una persona que murió a manos de otro (víctima de homicidio)?",
+      "explicacion": "INTERFECTO=persona que murió a manos de otro. OCCISO=muerte violenta (más general). DIFUNTO/FALLECIDO=términos neutros para muerte natural. AJUSTICIADO=ejecutado. EXTINTO=término jurídico. PUTREFACTO=descomposición avanzada. RESTOS HUMANOS=sin integridad corporal.",
+      "opciones": [
+        "Difunto",
+        "Occiso",
+        "Interfecto",
+        "Extinto"
+      ],
+      "respuesta": 2
+    },
+    {
+      "id": 60,
+      "tema": "Nomenclatura Forense",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Qué término técnico se usa cuando el cuerpo hallado presenta un proceso avanzado de descomposición?",
+      "explicacion": "PUTREFACTO=cuerpo con proceso avanzado de descomposición. CUERPO SIN VIDA=descripción técnica inicial (primeras horas post mortem). RESTOS HUMANOS=sin integridad corporal (solo huesos o partes). Cada término tiene precisión técnica y jurídica.",
+      "opciones": [
+        "Occiso",
+        "Interfecto",
+        "Putrefacto",
+        "Ajusticiado"
+      ],
+      "respuesta": 2
+    },
+    {
+      "id": 61,
+      "tema": "Documentología",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Cuál es la diferencia entre un documento DUBITADO y uno INDUBITADO?",
+      "explicacion": "DUBITADO=documento cuya autenticidad está en duda (se sospecha falsificado). INDUBITADO=el auténtico que se usa como base de comparación para el análisis grafológico o documentológico. La coteja de ambos permite determinar si hay falsificación.",
+      "opciones": [
+        "Dubitado=documento original; indubitado=copia certificada",
+        "Dubitado=autenticidad en duda (posible falsificación); indubitado=auténtico usado como base de comparación",
+        "Indubitado=documento sellado por notario; dubitado=documento digital",
+        "Son sinónimos; ambos se refieren a documentos cuya procedencia se investiga"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 62,
+      "tema": "Procedimientos Forenses",
+      "tipo": "CD",
+      "parcial": "P1",
+      "pregunta": "Las 3 'F' del criminalista son principios documentales esenciales. Complete:\nF1: __________ (numerar las hojas para evitar pérdida de documentos)\nF2: __________ (registrar el momento exacto para la línea de tiempo)\nF3: __________ (validar la autenticidad y responsabilidad del perito)",
+      "explicacion": "Las 3F: FOLIAR (numerar hojas), FECHA (registrar momento exacto) y FIRMAR (validar autenticidad y responsabilidad). Son los principios mínimos de toda documentación forense. Sin ellas, un documento puede ser impugnado en juicio.",
+      "respuesta": "Foliar / Fecha / Firmar",
+      "palabrasClave": [
+        "foliar",
+        "fecha",
+        "firmar"
+      ]
+    },
+    {
+      "id": 63,
+      "tema": "Tecnología Forense",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Qué sistema de bases de datos se usa en Colombia/internacional para identificación por huellas dactilares, y está conectado con Interpol?",
+      "explicacion": "AFIS=Automated Fingerprint Identification System (huellas dactilares, conectado con Interpol). CODIS=genética/ADN. IBIS=balística (cotejo de vainillas y proyectiles). VICAP=programa del FBI para perfilar criminales por Modus Operandi.",
+      "opciones": [
+        "CODIS",
+        "IBIS",
+        "AFIS",
+        "VICAP"
+      ],
+      "respuesta": 2
+    },
+    {
+      "id": 64,
+      "tema": "Tecnología Forense",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "La Ley 906 de 2004 (SPOA) representó un cambio de paradigma en Colombia porque:",
+      "explicacion": "Ley 906/2004 (SPOA): nuevo paradigma investigativo. Introdujo oralidad, contradicción directa de prueba pericial y primacía de la evidencia física sobre el testimonio. Obligó a que la investigación sea puramente científica. La cadena de custodia ya era obligatoria desde la Ley 600/2000.",
+      "opciones": [
+        "Eliminó el rol del fiscal y lo reemplazó por la policía judicial",
+        "Introdujo el sistema penal oral acusatorio, dando primacía a la investigación técnico-científica frente al testimonio e introdujo la contradicción directa de la prueba pericial",
+        "Creó el Instituto Nacional de Medicina Legal y Ciencias Forenses",
+        "Estableció la cadena de custodia como obligatoria por primera vez en Colombia"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 65,
+      "tema": "Prueba Pericial",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Por qué un perito no puede usar términos como 'una pizca', 'al ojo' o 'agua caliente' en su declaración en juicio?",
+      "explicacion": "La clave es la REPRODUCIBILIDAD (Art. 420 CPP). Si el método no es exacto (gramos, mililitros, grados centígrados), la contraparte no puede replicarlo para verificarlo, y la prueba se cae. 'Una pizca' de un perito puede ser diferente a la 'pizca' de otro.",
+      "opciones": [
+        "Porque el juez no entiende el lenguaje coloquial",
+        "Porque viola el Art. 420 del CPP que prohíbe el lenguaje informal",
+        "Porque el procedimiento científico debe ser reproducible, y los términos subjetivos impiden que la contraparte replique exactamente el experimento",
+        "Porque el lenguaje informal desacredita al perito ante el jurado"
+      ],
+      "respuesta": 2
+    },
+    {
+      "id": 66,
+      "tema": "Prueba Pericial",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "Al recolectar contenido gástrico (vómito) como EMP, ¿qué cantidad debe recolectarse y por qué?",
+      "explicacion": "El contenido gástrico debe recolectarse en su TOTALIDAD. Las sustancias quelantes (chicharrón, carbón activado) pueden encapsular/repeler toxinas. Si se toma solo una parte, el veneno puede quedar en el residuo descartado. Error fatal que eliminaría la prueba toxicológica.",
+      "opciones": [
+        "Solo una muestra con hisopo; el resto contamina la evidencia",
+        "La totalidad del vómito; porque sustancias quelantes como grasas o carbón activado pueden encapsular las toxinas y si se toma solo una parte se puede omitir el veneno",
+        "Máximo 3 gramos; cantidades mayores destruyen los equipos de laboratorio",
+        "5 mililitros en tubo estéril; es la cantidad estándar para análisis toxicológico"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 67,
+      "tema": "Prueba Pericial",
+      "tipo": "CC",
+      "parcial": "P1",
+      "pregunta": "CASO: En un juicio por homicidio con veneno, el perito toxicólogo declara que determinó la presencia de arsénico 'usando un método estándar a una temperatura apropiada con la cantidad necesaria de muestra'. La defensa solicita al juez que rechace la prueba.\n\n¿Es válida la solicitud de la defensa y por qué? ¿Qué artículo del CPP respalda la decisión?",
+      "explicacion": "La solicitud es VÁLIDA. El perito usó términos subjetivos ('temperatura apropiada', 'cantidad necesaria') que impiden la reproducibilidad del experimento. La defensa no puede replicar el procedimiento para verificarlo. Art. 420 CPP exige exactitud técnica en la prueba pericial. El juez debe valorar esta deficiencia.",
+      "respuesta": "Sí es válida / falta reproducibilidad / Art. 420 CPP",
+      "palabrasClave": [
+        "reproducibilidad",
+        "420",
+        "subjetivo"
+      ]
+    },
+    {
+      "id": 68,
+      "tema": "Análisis de Escena",
+      "tipo": "TF",
+      "parcial": "P1",
+      "pregunta": "AFIRMACIÓN: 'El lado derecho de un cadáver es el lado derecho desde la perspectiva del investigador que está de frente al cuerpo.'",
+      "explicacion": "FALSO. Los planos y costados se determinan siempre con respecto al ELEMENTO O CUERPO ESTUDIADO, no desde la perspectiva del observador. El lado izquierdo del cadáver es su PROPIO brazo izquierdo, independientemente de dónde esté parado el investigador.",
+      "respuesta": false
+    },
+    {
+      "id": 69,
+      "tema": "Normatividad CPP",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "El Art. 256 del CPP sobre 'macroelementos' establece que naves, aeronaves y vehículos:",
+      "explicacion": "Art. 256: macroelementos (naves, aeronaves, vehículos) se FOTOGRAFÍAN y FILMAN. Ese registro fotográfico/videográfico sustituye al elemento físico durante el juicio. No se pueden llevar físicamente al estrado, pero la documentación visual tiene plena validez probatoria.",
+      "opciones": [
+        "Siempre deben ser trasladados físicamente al almacén de evidencias",
+        "Se fotografían y filman, y eso sustituye al elemento físico en el juicio",
+        "Requieren orden judicial especial para ser decomisados como EMP",
+        "No pueden ser considerados EMP por su tamaño"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 70,
+      "tema": "Conceptos Fundamentales",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "En la metáfora del Árbol de la Criminalística, ¿qué representan las raíces, el tronco y el follaje respectivamente?",
+      "explicacion": "Árbol de la Criminalística: RAÍCES=ciencias exactas y naturales (física, química, biología, matemáticas) que nutren la investigación. TRONCO=Criminalística (campo + laboratorio). FOLLAJE/FRUTOS/RAMAS=disciplinas forenses especializadas (toxicología, balística, grafología, dactiloscopia, etc.).",
+      "opciones": [
+        "Raíces=normas legales; Tronco=Policía Judicial; Follaje=jueces y fiscales",
+        "Raíces=ciencias exactas y naturales; Tronco=Criminalística (campo y laboratorio); Follaje=disciplinas forenses especializadas",
+        "Raíces=historia de la criminalística; Tronco=método científico; Follaje=casos resueltos",
+        "Raíces=Criminología; Tronco=Criminalística; Follaje=Derecho Penal"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 71,
+      "tema": "Sistema Judicial",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Cuál es el rol del juez en el sistema penal acusatorio según el docente?",
+      "explicacion": "El juez es un ÁRBITRO, no un investigador. Viste de negro como símbolo de neutralidad e imparcialidad. Su labor es evaluar que los procedimientos de ambas partes (Fiscalía y Defensa) cumplan la ley. El 'principio de igualdad de armas' garantiza que ambas partes compitan en las mismas condiciones.",
+      "opciones": [
+        "Investigar los hechos junto con la Fiscalía para encontrar la verdad",
+        "Árbitro imparcial que evalúa que los procedimientos de Fiscalía y Defensa cumplan la ley; no investiga",
+        "Ordenar la recolección de pruebas adicionales cuando las partes no presentan suficiente evidencia",
+        "Dirigir al equipo de policía judicial en la escena del crimen"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 72,
+      "tema": "Sistema Judicial",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "Un perito no puede participar en un proceso si tiene parentesco con alguna de las partes hasta el cuarto grado. ¿Qué parentesco representa el CUARTO grado de consanguinidad?",
+      "explicacion": "Grados de consanguinidad: 1°=padres/hijos, 2°=abuelos/hermanos, 3°=bisabuelos/tíos/sobrinos, 4°=primos hermanos. Los cónyuge, suegros y cuñados son parentesco por AFINIDAD (no consanguinidad). Hasta el 4° grado hay impedimento para actuar como perito.",
+      "opciones": [
+        "Esposo/a (cónyuge)",
+        "Abuelo/a",
+        "Primo/a hermano/a",
+        "Cuñado/a"
+      ],
+      "respuesta": 2
+    },
+    {
+      "id": 73,
+      "tema": "Procedimientos Forenses",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Qué significa PIPH en el contexto de la criminalística de campo?",
+      "explicacion": "PIPH=Prueba de Identificación Preliminar Homologada. Es el procedimiento realizado en el lugar de los hechos para identificar sustancias preliminarmente (ej. si un polvo blanco es cocaína) antes de enviarlo al laboratorio para análisis definitivo.",
+      "opciones": [
+        "Protocolo de Inspección Pericial y Hallazgo",
+        "Prueba de Identificación Preliminar Homologada; procedimiento en el lugar para identificar sustancias preliminarmente",
+        "Procedimiento de Intervención Policial Homologado",
+        "Plan de Investigación Pericial y Hallazgo"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 74,
+      "tema": "Conceptos Fundamentales",
+      "tipo": "CD",
+      "parcial": "P1",
+      "pregunta": "Complete la frase de Richard Feynman que el docente dictó como obligatoria:\n\n'La prueba de todo conocimiento científico es el __________. El __________ es el único juez de la __________ científica.'",
+      "explicacion": "Frase completa de Feynman: 'La prueba de todo conocimiento científico es el EXPERIMENTO. El EXPERIMENTO es el único juez de la VERDAD científica.' Esta frase encapsula por qué la prueba científica prevalece sobre el testimonio.",
+      "respuesta": "experimento / experimento / verdad",
+      "palabrasClave": [
+        "experimento",
+        "verdad"
+      ]
+    },
+    {
+      "id": 75,
+      "tema": "Normatividad CPP",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "El Art. 247 del CPP sobre Inspección Corporal establece que debe estar presente obligatoriamente:",
+      "explicacion": "Art. 247: el fiscal puede ordenar inspección corporal con motivos razonables, pero debe estar presente el DEFENSOR. Esta presencia garantiza el derecho de defensa y evita abusos en el procedimiento.",
+      "opciones": [
+        "El médico forense del INMLCF",
+        "El defensor del indiciado",
+        "El juez de control de garantías",
+        "Un representante de la Procuraduría"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 76,
+      "tema": "Conceptos Fundamentales",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Qué es el Iter Criminis?",
+      "explicacion": "Iter Criminis=el camino del crimen. Ilustrado con Caín y Abel: envidia (ideación) → planificación → ejecución. Permite al investigador reconstruir la conducta del agresor desde antes de la acción hasta después. Concepto clave en criminología y derecho penal.",
+      "opciones": [
+        "El registro fotográfico del camino hacia la escena del crimen",
+        "El camino del crimen: la ideación, planeación y ejecución de un hecho delictivo",
+        "El protocolo de inspección del lugar de los hechos",
+        "La trayectoria balística de un proyectil"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 77,
+      "tema": "Normatividad CPP",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "El Art. 213 del CPP sobre Inspección del Lugar de los Hechos establece que:",
+      "explicacion": "Art. 213: la escena no siempre implica un homicidio. Los investigadores procesan el lugar bajo este artículo ante CUALQUIER hecho que requiera investigación, incluyendo desastres naturales donde hay que indagar responsabilidades civiles o penales.",
+      "opciones": [
+        "Solo aplica cuando hay una víctima mortal",
+        "Aplica en cualquier lugar donde se requiera investigar, incluyendo desastres naturales donde se indague responsabilidades",
+        "Requiere autorización previa del juez de garantías en todos los casos",
+        "Solo puede realizarla el fiscal, no la policía judicial"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 78,
+      "tema": "Conceptos Fundamentales",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "En un tiroteo, el investigador debe distinguir vainillas del mismo calibre de una piedra pequeña mezclada entre ellas. Esto entrena lo que Giraldo llama:",
+      "explicacion": "Giraldo habla del 'UMBRAL DE DIFERENCIAS': la capacidad entrenada de distinguir a simple vista estímulos diminutos. Ejemplo: diferenciar piedras pequeñas de vainillas en un tiroteo. Una evidencia HETEROGÉNEA (elemento distinto en un conjunto homogéneo) puede ser el indicador clave del caso.",
+      "opciones": [
+        "El principio de unicidad aplicado al campo",
+        "El 'umbral de diferencias' para distinguir estímulos diminutos entre elementos aparentemente homogéneos",
+        "El análisis organoléptico visual de la escena",
+        "La pertinencia de la prueba en la recolección selectiva"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 79,
+      "tema": "Sistema Judicial",
+      "tipo": "TF",
+      "parcial": "P1",
+      "pregunta": "AFIRMACIÓN: 'El parentesco por afinidad incluye a los cónyuges, suegros, cuñados, nueras y yernos, y surge por el matrimonio o vínculos legales.'",
+      "explicacion": "VERDADERO. El parentesco por AFINIDAD surge del matrimonio o vínculos legales e incluye: cónyuge, suegros, cuñados, nueras, yernos. Se diferencia del de CONSANGUINIDAD (lazos de sangre: padres, hijos, abuelos, hermanos, tíos, primos). La adopción también genera vínculos de afinidad.",
+      "respuesta": true
+    },
+    {
+      "id": 81,
+      "tema": "Principios Criminalísticos",
+      "tipo": "CD",
+      "parcial": "P1",
+      "pregunta": "Liste los 8 principios fundamentales de la Criminalística en orden:\n1. Principio de __________\n2. Principio de __________\n3. Principio de __________\n4. Principio de __________\n5. Principio de __________\n6. Principio de __________\n7. Principio de __________\n8. Principio de __________",
+      "explicacion": "Los 8 principios: 1.Unicidad, 2.Uso, 3.Producción, 4.Correspondencia de Caracteres, 5.Reconstrucción, 6.Intercambio (Locard), 7.Transferencia, 8.Certeza vs Probabilidad. Cada uno cumple una función en la cadena lógica de la investigación.",
+      "respuesta": "Unicidad / Uso / Producción / Correspondencia / Reconstrucción / Intercambio / Transferencia / Certeza",
+      "palabrasClave": [
+        "unicidad",
+        "uso",
+        "producción",
+        "correspondencia",
+        "reconstrucción",
+        "intercambio",
+        "transferencia",
+        "certeza"
+      ]
+    },
+    {
+      "id": 82,
+      "tema": "Principios Criminalísticos",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "El Principio de PRODUCCIÓN establece que:",
+      "explicacion": "Principio de PRODUCCIÓN: es el RESULTADO que genera el Principio de Uso. Ejemplo: si el uso fue un cuchillo (mecánico), la producción es la herida incisa. Si el uso fue fuego (físico), la producción es la quemadura. Uso → Producción → Correspondencia es la cadena lógica.",
+      "opciones": [
+        "Se refiere al agente o instrumento usado para cometer el hecho",
+        "Es el resultado o daño que genera el agente de uso sobre el cuerpo o superficie (herida, fractura, quemadura, equimosis)",
+        "Son las marcas específicas que deja el agente en la superficie",
+        "Es la reconstrucción de la dinámica del hecho"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 83,
+      "tema": "Principios Criminalísticos",
+      "tipo": "CC",
+      "parcial": "P1",
+      "pregunta": "CASO: Un agresor golpea a su víctima con un martillo metálico con mango de madera. La víctima presenta una herida abierta con la forma circular de la cabeza del martillo impresa en la piel.\n\nIdentifique: a) Principio de Uso y su categoría, b) Principio de Producción, c) Principio de Correspondencia de Caracteres.",
+      "explicacion": "a) PRINCIPIO DE USO: agente MECÁNICO (arma blanca contundente = martillo). b) PRINCIPIO DE PRODUCCIÓN: herida abierta/contusa en la piel. c) PRINCIPIO DE CORRESPONDENCIA DE CARACTERES: la forma circular de la cabeza del martillo impresa en la herida permite el nexo causal con el arma específica.",
+      "respuesta": "Uso: mecánico (martillo) / Producción: herida abierta / Correspondencia: huella circular del martillo",
+      "palabrasClave": [
+        "mecánico",
+        "producción",
+        "correspondencia"
+      ]
+    },
+    {
+      "id": 84,
+      "tema": "Principios Criminalísticos",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "El Principio de Uso se divide en 5 categorías. ¿Cuál de los siguientes es un ejemplo de agente PSICOLÓGICO?",
+      "explicacion": "Las 5 categorías del Principio de Uso: Físico (fuego, electricidad, calor), Químico (venenos, ácidos, drogas), Biológico (bacterias, veneno de serpiente), Mecánico (armas de fuego, armas blancas), y PSICOLÓGICO (sugestión, inducción, manipulación mental).",
+      "opciones": [
+        "Un ácido que quema la piel",
+        "Una pistola que dispara un proyectil",
+        "La inducción o sugestión que lleva a una persona a actuar en contra de su voluntad",
+        "Una bacteria que genera infección letal"
+      ],
+      "respuesta": 2
+    },
+    {
+      "id": 85,
+      "tema": "Principios Criminalísticos",
+      "tipo": "TF",
+      "parcial": "P1",
+      "pregunta": "AFIRMACIÓN: 'El Principio de Reconstrucción se basa únicamente en el testimonio de los testigos presenciales, ya que son quienes vivieron el hecho.'",
+      "explicacion": "FALSO. El Principio de Reconstrucción se basa en las EVIDENCIAS RECOLECTADAS y los SISTEMAS DE FIJACIÓN (fotografía, topografía, video y narrativa). El testimonio humano es subjetivo y emotivo; la reconstrucción científica usa evidencia física objetiva.",
+      "respuesta": false
+    },
+    {
+      "id": 86,
+      "tema": "Principios Criminalísticos",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "Un investigador analiza una escena de envenenamiento. La víctima murió por ingerir arsénico mezclado en su comida. ¿Cuál es el Principio de Uso y su categoría correcta?",
+      "explicacion": "El arsénico es un veneno, por tanto el Principio de Uso corresponde a agente QUÍMICO. La categoría se determina por la NATURALEZA del agente, no por cómo se administra. Venenos, ácidos y drogas son siempre categoría Química.",
+      "opciones": [
+        "Principio de Uso — Físico (por ser una sustancia sólida)",
+        "Principio de Uso — Mecánico (por ser administrado con cubiertos)",
+        "Principio de Uso — Químico (veneno/sustancia tóxica)",
+        "Principio de Uso — Biológico (por actuar sobre el sistema biológico)"
+      ],
+      "respuesta": 2
+    },
+    {
+      "id": 87,
+      "tema": "Principios Criminalísticos",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Cuál es la diferencia clave entre el Principio de Certeza (criminalística) y el manejo de la Probabilidad (derecho)?",
+      "explicacion": "El CRIMINALISTA busca certeza: resultados con margen de incertidumbre mínimo y comprobado científicamente. El ABOGADO maneja probabilidades: construye teorías del caso, genera duda razonable. Un perito en estrado dice 'la muestra contiene cocaína', no 'probablemente es cocaína'.",
+      "opciones": [
+        "La certeza es del 100% en criminalística; la probabilidad nunca supera el 50%",
+        "El criminalista reporta con certeza científica (margen mínimo de incertidumbre comprobado); el abogado usa probabilidades para construir teorías del caso y generar duda razonable",
+        "La certeza la determina el juez; la probabilidad la determina el fiscal",
+        "Son equivalentes; ambos actores buscan el mismo nivel de convicción"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 88,
+      "tema": "Principios Criminalísticos",
+      "tipo": "CC",
+      "parcial": "P1",
+      "pregunta": "CASO: En una escena de pelea, se encuentran: a) fibras de la camisa del agresor en las uñas de la víctima, b) sangre de la víctima en la ropa del agresor, c) cabello del agresor entre los dedos de la víctima.\n\n¿Este escenario ilustra el Principio de Intercambio o de Transferencia? Justifique.",
+      "explicacion": "Es PRINCIPIO DE INTERCAMBIO (Locard): la relación es BIDIRECCIONAL. La víctima dejó evidencia en el agresor (fibras en uñas de la víctima provienen del agresor, sangre de la víctima en el agresor) Y el agresor dejó evidencia en la víctima (cabello del agresor en los dedos de la víctima). Ambas direcciones están documentadas.",
+      "respuesta": "Intercambio - bidireccional - víctima dejó en agresor y agresor dejó en víctima",
+      "palabrasClave": [
+        "intercambio",
+        "bidireccional"
+      ]
+    },
+    {
+      "id": 89,
+      "tema": "Principios Criminalísticos",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "El Principio de Unicidad tiene aplicación directa en la dactiloscopia. ¿Por qué?",
+      "explicacion": "El Principio de UNICIDAD establece que nada en el universo es totalmente idéntico. Aplicado a dactiloscopia: no existen dos huellas dactilares iguales, ni entre gemelos idénticos. Esta es la base científica que hace de la huella dactilar el método de identificación más confiable.",
+      "opciones": [
+        "Porque todas las personas tienen 10 dedos con huellas similares",
+        "Porque no existen dos huellas dactilares idénticas en el universo, incluso entre gemelos idénticos",
+        "Porque las huellas dactilares cambian con la edad",
+        "Porque solo la policía judicial puede analizar huellas dactilares"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 90,
+      "tema": "Principios Cadena de Custodia",
+      "tipo": "CD",
+      "parcial": "P1",
+      "pregunta": "CAPRICIAS son los 9 principios/requisitos de la Cadena de Custodia. Escriba qué significa cada letra:\nC: __________\nA: __________\nP: __________\nR: __________\nI: __________\nC: __________\nI: __________\nA: __________\nS: __________",
+      "explicacion": "CAPRICIAS: C=Capacidad Demostrativa, A=Autenticidad, P=Preservación, R=Registro, I=Identidad, C=Continuidad, I=Integridad, A=Almacenamiento, S=Seguridad. Estos 9 requisitos garantizan que la prueba sea válida y aceptada en juicio.",
+      "respuesta": "Capacidad Demostrativa / Autenticidad / Preservación / Registro / Identidad / Continuidad / Integridad / Almacenamiento / Seguridad",
+      "palabrasClave": [
+        "capacidad",
+        "autenticidad",
+        "preservación",
+        "registro",
+        "identidad",
+        "continuidad",
+        "integridad",
+        "almacenamiento",
+        "seguridad"
+      ]
+    },
+    {
+      "id": 91,
+      "tema": "Principios Cadena de Custodia",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Qué garantiza el principio de AUTENTICIDAD en la cadena de custodia?",
+      "explicacion": "AUTENTICIDAD: correspondencia objetiva de los elementos materiales probatorios hallados, recolectados y embalados para extraer su capacidad demostrativa. Garantiza que el elemento que llega al juicio es exactamente el mismo que se encontró en la escena, sin sustitución.",
+      "opciones": [
+        "Que el laboratorio donde se analiza la evidencia está certificado",
+        "La correspondencia objetiva entre los EMP hallados, recolectados y embalados para extraer su capacidad demostrativa — que el elemento es lo que dice ser",
+        "Que el perito que analiza la evidencia tiene título universitario",
+        "Que el fiscal autorizó la recolección del elemento"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 92,
+      "tema": "Principios Cadena de Custodia",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "El principio de CAPACIDAD DEMOSTRATIVA se refiere a:",
+      "explicacion": "CAPACIDAD DEMOSTRATIVA: cualidad o aptitud de un elemento que al ser analizado aporta información con VOCACIÓN PROBATORIA. No toda evidencia hallada tiene capacidad demostrativa; solo aquella que es pertinente y útil para el proceso judicial.",
+      "opciones": [
+        "La habilidad del perito para explicar sus hallazgos en juicio",
+        "La cualidad o aptitud de un elemento que, al ser analizado, aporta información con vocación probatoria útil para el proceso",
+        "El número de testigos que pueden declarar sobre la evidencia",
+        "La capacidad del almacén de evidencias para guardar el elemento"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 93,
+      "tema": "Principios Cadena de Custodia",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Qué garantiza el principio de INTEGRIDAD en la cadena de custodia?",
+      "explicacion": "INTEGRIDAD: garantiza que los EMP no presentan ALTERACIONES en las partes que los componían al momento de su hallazgo o recolección. Ejemplo: si se recolecta un arma con sangre, debe llegar al laboratorio con esa sangre intacta, sin alteraciones externas.",
+      "opciones": [
+        "Que el investigador actúa con honestidad moral",
+        "Que los elementos no presentan alteraciones en las partes que los componían al momento de su hallazgo o recolección",
+        "Que el embalaje está sellado y rotulado correctamente",
+        "Que la evidencia fue recolectada por personal capacitado"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 94,
+      "tema": "Principios Cadena de Custodia",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "El principio de PRESERVACIÓN en la cadena de custodia implica:",
+      "explicacion": "PRESERVACIÓN: aplicación de las diferentes técnicas para garantizar el MENOR IMPACTO de contaminación o destrucción de la capacidad demostrativa. Incluye el uso de guantes, traje de bioseguridad, embalaje adecuado y condiciones de almacenamiento apropiadas para cada tipo de evidencia.",
+      "opciones": [
+        "Conservar el EMP indefinidamente en el almacén de evidencias",
+        "Aplicar técnicas para garantizar el menor impacto de contaminación o destrucción de la capacidad demostrativa del elemento",
+        "Fotografiar el elemento antes de recolectarlo",
+        "Mantener el EMP en condiciones de refrigeración siempre"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 95,
+      "tema": "Principios Cadena de Custodia",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Qué garantiza el principio de SEGURIDAD en la cadena de custodia?",
+      "explicacion": "SEGURIDAD: minimizar el margen de riesgo por PÉRDIDA, DAÑO o DETERIORO por parte del servidor o particular que entre en contacto con la evidencia. Cada custodio es responsable individual de la seguridad del elemento mientras está en su poder.",
+      "opciones": [
+        "Que el almacén de evidencias tiene cámaras de seguridad",
+        "Minimizar el margen de riesgo por pérdida, daño o deterioro del EMP por parte del servidor o particular que lo custodie",
+        "Que la evidencia fue recolectada sin riesgo para el investigador",
+        "Que el traslado de la evidencia se hace en vehículo blindado"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 96,
+      "tema": "Principios Cadena de Custodia",
+      "tipo": "TF",
+      "parcial": "P1",
+      "pregunta": "AFIRMACIÓN: 'El principio de REGISTRO y el principio de CONTINUIDAD son equivalentes: ambos se refieren a documentar quién tuvo la evidencia.'",
+      "explicacion": "FALSO. Son distintos: REGISTRO=acción de documentar física y virtualmente la información de los elementos y actores que intervinieron. CONTINUIDAD=forma cronológica ININTERRUMPIDA que permite la trazabilidad. El registro es el acto; la continuidad es la garantía de que no hay vacíos en la cadena temporal.",
+      "respuesta": false
+    },
+    {
+      "id": 97,
+      "tema": "Principios Cadena de Custodia",
+      "tipo": "CC",
+      "parcial": "P1",
+      "pregunta": "CASO: Un perito recibe un sobre de manila con una nota encontrada en la escena. Al abrirlo nota que la nota tiene una doblez nueva que no aparece en las fotografías de la escena. El formato de entrega no tiene firma del transportador.\n\n¿Qué principios CAPRICIAS están comprometidos y cómo podría afectar esto al proceso?",
+      "explicacion": "Se comprometen: INTEGRIDAD (la nota tiene alteración física —la doblez nueva— que no estaba en el hallazgo original) y REGISTRO (el formato no tiene firma del transportador, hay un vacío documental). Consecuencia: la defensa puede argumentar que el documento fue manipulado, lo que puede llevar a la exclusión de la prueba por violación de la cadena de custodia.",
+      "respuesta": "Integridad / Registro / posible nulidad de la prueba",
+      "palabrasClave": [
+        "integridad",
+        "registro"
+      ]
+    },
+    {
+      "id": 98,
+      "tema": "Principios Cadena de Custodia",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "El principio de ALMACENAMIENTO en la cadena de custodia se refiere a:",
+      "explicacion": "ALMACENAMIENTO: aplicación de instrumentos administrativos para resguardar elementos en espacios físicos DESIGNADOS (Almacenes Generales, Satélites, Transitorios, Armerillos o Particulares) para minimizar riesgo de pérdida, deterioro exógeno o daño. No es solo un lugar, es un proceso administrativo.",
+      "opciones": [
+        "Solo al almacén general de la Fiscalía",
+        "La aplicación de instrumentos administrativos orientados a resguardar los elementos en espacios físicos designados para minimizar pérdida o daño",
+        "La temperatura de conservación de muestras biológicas",
+        "El tiempo máximo que puede permanecer un EMP en custodia"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 99,
+      "tema": "Principios Cadena de Custodia",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Cuál es la diferencia entre el principio de IDENTIDAD y el principio de AUTENTICIDAD en la cadena de custodia?",
+      "explicacion": "IDENTIDAD: descripción completa, detallada y objetiva de las características y condiciones específicas del elemento (color, forma, peso, marca, número de serie). AUTENTICIDAD: garantía de correspondencia objetiva de que ese elemento descrito es el mismo desde el hallazgo hasta el juicio.",
+      "opciones": [
+        "Son sinónimos que se usan indistintamente en el Manual de Policía Judicial",
+        "IDENTIDAD: descripción completa y objetiva de las características del elemento hallado. AUTENTICIDAD: correspondencia objetiva de que el elemento es lo que dice ser a lo largo de la cadena",
+        "AUTENTICIDAD es para elementos físicos; IDENTIDAD es para documentos",
+        "IDENTIDAD la establece el fiscal; AUTENTICIDAD la establece el juez"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 100,
+      "tema": "Principios Cadena de Custodia",
+      "tipo": "TF",
+      "parcial": "P1",
+      "pregunta": "AFIRMACIÓN: 'El principio de IDENTIDAD se viola únicamente cuando hay sustitución total del EMP por otro elemento diferente.'",
+      "explicacion": "FALSO. El principio de IDENTIDAD puede violarse también por descripciones incompletas o incorrectas en los formatos. Ejemplo: registrar 'Sexo: Masculino' en restos donde no hay certeza, o describir un arma con características erróneas. La violación no requiere sustitución física; basta con que la descripción no corresponda al elemento real.",
+      "respuesta": false
+    },
+    {
+      "id": 101,
+      "tema": "Etapas Cadena de Custodia",
+      "tipo": "CD",
+      "parcial": "P1",
+      "pregunta": "Escriba los 8 pasos del ciclo de la Cadena de Custodia en orden:\n1. __________\n2. __________\n3. __________\n4. __________\n5. __________\n6. __________\n7. __________\n8. __________",
+      "explicacion": "Los 8 pasos del ciclo: 1.Hallazgo → 2.Recolección → 3.Embalaje → 4.Rotulado → 5.Transporte → 6.Análisis → 7.Almacenamiento → 8.Disposición final. El orden es cronológico y no puede invertirse sin comprometer la cadena.",
+      "respuesta": "Hallazgo / Recolección / Embalaje / Rotulado / Transporte / Análisis / Almacenamiento / Disposición final",
+      "palabrasClave": [
+        "hallazgo",
+        "recolección",
+        "embalaje",
+        "rotulado",
+        "transporte",
+        "análisis",
+        "almacenamiento",
+        "disposición"
+      ]
+    },
+    {
+      "id": 102,
+      "tema": "Etapas Cadena de Custodia",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Qué ocurre en la etapa de HALLAZGO de la cadena de custodia?",
+      "explicacion": "HALLAZGO: es el momento en que se DESCUBRE la evidencia. Es el punto de inicio de la cadena de custodia. Desde este momento, cualquier persona que tome contacto con el EMP asume responsabilidad documental. La cadena inicia donde se descubren los EMP (Art. 254 CPP).",
+      "opciones": [
+        "Se recolecta y embala el elemento siguiendo el protocolo técnico",
+        "Es el momento en que se descubre la evidencia; da inicio formal a la cadena de custodia",
+        "Se ingresa el elemento al sistema de registro de la Fiscalía",
+        "El perito toma contacto con el EMP en el laboratorio"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 103,
+      "tema": "Etapas Cadena de Custodia",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "En la etapa de EMBALAJE, ¿qué regla aplica al embalaje primario?",
+      "explicacion": "EMBALAJE PRIMARIO: solo puede abrirlo el PERITO DESIGNADO para su estudio, salvo excepciones de seguridad. Esta regla protege la integridad del elemento. Abrirlo sin autorización viola el principio de Integridad de CAPRICIAS y puede excluir la prueba del proceso.",
+      "opciones": [
+        "Puede ser abierto por cualquier funcionario de la Fiscalía para verificar el contenido",
+        "Solo puede ser abierto por el perito designado para su estudio, salvo excepciones por motivos de seguridad",
+        "Debe abrirse obligatoriamente en cada punto de transferencia para verificar el contenido",
+        "El fiscal puede ordenar su apertura en cualquier momento del proceso"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 104,
+      "tema": "Etapas Cadena de Custodia",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Qué información debe contener obligatoriamente el ROTULADO (FPJ 007) de un EMP?",
+      "explicacion": "El FPJ 007 (Rótulo EMP y EF) debe contener: NUNC (Número Único de Noticia Criminal), número de prueba, fecha, hora y descripción del elemento. Sin estos datos, el rotulado es inválido y compromete el principio de Identidad de CAPRICIAS.",
+      "opciones": [
+        "Solo el nombre del investigador y la fecha",
+        "NUNC, número de prueba, fecha, hora y descripción del elemento",
+        "La hipótesis del caso y el nombre del sospechoso",
+        "El resultado preliminar del análisis organoléptico"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 105,
+      "tema": "Etapas Cadena de Custodia",
+      "tipo": "TF",
+      "parcial": "P1",
+      "pregunta": "AFIRMACIÓN: 'En la etapa de ANÁLISIS, una vez estudiado el elemento, el perito puede desecharlo si ya extrajo toda la información necesaria.'",
+      "explicacion": "FALSO. Una vez analizado, el elemento debe introducirse PREFERIBLEMENTE EN SU EMBALAJE INICIAL o conservar el rótulo original. No puede desecharse sin orden de autoridad competente. La Disposición Final (paso 8) es la única etapa donde la autoridad puede ordenar el destino definitivo del elemento.",
+      "respuesta": false
+    },
+    {
+      "id": 106,
+      "tema": "Etapas Cadena de Custodia",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Qué sucede en la etapa de DISPOSICIÓN FINAL de la cadena de custodia?",
+      "explicacion": "DISPOSICIÓN FINAL: cierre del ciclo. La autoridad judicial competente (fiscal o juez) decide y ordena la destinación definitiva: devolución al dueño, destrucción (ej. drogas, explosivos) o comiso (confiscación del Estado). Todo debe quedar documentado en el registro y el expediente.",
+      "opciones": [
+        "El investigador archiva el informe final del caso",
+        "La autoridad judicial competente (fiscal o juez) ordena el destino definitivo del EMP: devolución, destrucción o comiso",
+        "El almacén de evidencias destruye automáticamente los elementos después de 5 años",
+        "El perito emite su dictamen final ante el juez"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 107,
+      "tema": "Etapas Cadena de Custodia",
+      "tipo": "CC",
+      "parcial": "P1",
+      "pregunta": "CASO: Un investigador encuentra un arma en la escena (HALLAZGO), la recoge con guantes (RECOLECCIÓN), la introduce en bolsa plástica sellada (EMBALAJE), pero luego decide llevarla directamente al fiscal sin rotularla ni registrar el traslado.\n\n¿Qué etapas se omitieron y qué principios CAPRICIAS se violan?",
+      "explicacion": "Se omitieron: ROTULADO (no se identificó el elemento con FPJ 007) y el REGISTRO del Transporte. Principios CAPRICIAS violados: IDENTIDAD (sin rótulo no hay descripción formal del elemento), REGISTRO (no se documentó el traslado) y CONTINUIDAD (hay un vacío en la trazabilidad entre la escena y el fiscal). La prueba puede ser excluida en juicio.",
+      "respuesta": "Se omitieron Rotulado y Transporte (registro) / Se violan Identidad, Registro y Continuidad",
+      "palabrasClave": [
+        "rotulado",
+        "registro",
+        "identidad",
+        "continuidad"
+      ]
+    },
+    {
+      "id": 108,
+      "tema": "Etapas Cadena de Custodia",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Cuáles son los tipos de almacenes donde pueden custodiarse los EMP según el Manual de Policía Judicial?",
+      "explicacion": "Los tipos de almacenes son: GENERALES (principales), SATÉLITES (puntos descentralizados), TRANSITORIOS (temporales), ARMERILLOS (para armas) y PARTICULARES (casos especiales). Cada tipo tiene características para distintos EMP según su naturaleza y riesgo.",
+      "opciones": [
+        "Solo el Almacén General de la Fiscalía Nacional",
+        "Almacenes Generales, Satélites, Transitorios, Armerillos y Particulares",
+        "Laboratorios del INMLCF y depósitos de la Policía Nacional",
+        "Cualquier lugar designado por el fiscal del caso"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 109,
+      "tema": "Etapas Cadena de Custodia",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "Durante la etapa de TRANSPORTE, ¿qué documento debe acompañar obligatoriamente al EMP?",
+      "explicacion": "En el TRANSPORTE, el EMP ya embalado y rotulado debe ir acompañado del FORMATO DE REGISTRO DE CADENA DE CUSTODIA. Este documento registra quién transporta, desde dónde, hacia dónde, fecha y hora. Sin él, se rompe el principio de Continuidad.",
+      "opciones": [
+        "La orden del fiscal autorizando el traslado",
+        "El formato de Registro de Cadena de Custodia junto con el elemento embalado y rotulado",
+        "El informe de hallazgo firmado por el primer respondiente",
+        "El acta de inspección del lugar de los hechos"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 110,
+      "tema": "Etapas Cadena de Custodia",
+      "tipo": "TF",
+      "parcial": "P1",
+      "pregunta": "AFIRMACIÓN: 'La cadena de custodia inicia cuando el fiscal ordena el inicio de la investigación formal.'",
+      "explicacion": "FALSO. Según el Art. 254 CPP, la cadena de custodia INICIA DONDE SE DESCUBREN LOS EMP (etapa de Hallazgo), independientemente de si hay o no investigación formal iniciada. Puede comenzar incluso antes de que el fiscal esté involucrado, desde el momento en que el primer respondiente o cualquier persona toma contacto con la evidencia.",
+      "respuesta": false
+    },
+    {
+      "id": 111,
+      "tema": "Etapas Cadena de Custodia",
+      "tipo": "CC",
+      "parcial": "P1",
+      "pregunta": "CASO INTEGRADOR: Un médico de urgencias atiende a una víctima de herida por arma de fuego. Al retirar la bala del cuerpo, la deposita en un recipiente metálico sin embalar, sin rotular y sin documentar el procedimiento. Luego la entrega a un policía que llega al hospital.\n\n¿En qué etapa inicia la cadena de custodia para esta evidencia, quién tiene responsabilidad sobre ella, y qué etapas fueron omitidas?",
+      "explicacion": "La cadena inicia con el MÉDICO (Art. 255 CPP: el personal de salud que entre en contacto con EMP también tiene responsabilidad en la cadena). Etapas omitidas: EMBALAJE (no se puso en contenedor adecuado) y ROTULADO (sin FPJ 007). Principios violados: Integridad, Identidad y Registro. El médico no es investigador pero sí custodio responsable.",
+      "respuesta": "Inicia con el médico / responsabilidad del personal de salud / omitidos embalaje y rotulado",
+      "palabrasClave": [
+        "médico",
+        "salud",
+        "embalaje",
+        "rotulado",
+        "255"
+      ]
+    },
+    {
+      "id": 80,
+      "tema": "Casos Integradores",
+      "tipo": "CC",
+      "parcial": "P1",
+      "pregunta": "CASO INTEGRADOR: Un investigador llega a una escena de homicidio en una peluquería. Hay miles de cabellos en el suelo. El cuerpo tiene marcas de lo que parece ser un anillo en la mejilla derecha. La escena huele fuertemente a productos químicos del salón.\n\nResponda:\n1) ¿Recolecta todos los cabellos? Justifique con el principio correspondiente.\n2) ¿Qué principio criminalístico explica la marca del anillo?\n3) ¿Cómo documenta el olor químico?",
+      "explicacion": "1) NO se recolectan todos los cabellos: viola la PERTINENCIA DE LA PRUEBA (economía procesal, contaminación cruzada). Se prioriza video del lugar. 2) La marca del anillo es el PRINCIPIO DE CORRESPONDENCIA DE CARACTERES: el agente (anillo) deja su huella específica en la superficie (piel). 3) El olor se documenta con ANÁLISIS ORGANOLÉPTICO porque es evidencia EFÍMERA que no puede embalarse.",
+      "respuesta": "1) No - pertinencia y economía procesal / 2) Correspondencia de caracteres / 3) Análisis organoléptico - evidencia efímera",
+      "palabrasClave": [
+        "pertinencia",
+        "correspondencia",
+        "organoléptico",
+        "efímera"
+      ]
+    },
+    {
+      "id": 112,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Cuál es la diferencia procesal entre INDICIO, EVIDENCIA y PRUEBA?",
+      "explicacion": "INDICIO: actos, hechos o circunstancias que pueden INFERIR la existencia de algo; es una pista sin fuerza probatoria propia (ej. cambio de conducta de un joven). EVIDENCIA: confirma, aclara y tiene nexo causal directo con el caso; posee capacidad demostrativa. PRUEBA: la evidencia una vez ADMITIDA Y EVALUADA por el juez en juicio para demostrar la verdad.",
+      "opciones": [
+        "Son sinónimos con diferente nivel de formalidad jurídica",
+        "Indicio=pista sin fuerza probatoria. Evidencia=confirmación con nexo causal y capacidad demostrativa. Prueba=evidencia admitida y evaluada por el juez en juicio",
+        "Indicio=evidencia física. Evidencia=testimonio. Prueba=dictamen pericial",
+        "Prueba=lo que presenta la Fiscalía. Evidencia=lo que presenta la Defensa. Indicio=lo que aportan los testigos"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 113,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "TF",
+      "parcial": "P1",
+      "pregunta": "AFIRMACIÓN: 'Un indicio tiene la misma fuerza probatoria que una evidencia, pues ambos son elementos que relacionan al sospechoso con el hecho.'",
+      "explicacion": "FALSO. El INDICIO no tiene fuerza probatoria por sí solo; es solo una pista o inferencia (ej. volverse agresivo puede indicar consumo de drogas, pero no lo prueba). La EVIDENCIA sí posee capacidad demostrativa y nexo causal directo. La confusión entre estos términos es uno de los errores más comunes en juicio.",
+      "respuesta": false
+    },
+    {
+      "id": 114,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "CD",
+      "parcial": "P1",
+      "pregunta": "Complete la cadena lógica probatoria:\n\nEl __________ es una pista sin fuerza probatoria.\nLa __________ confirma y tiene nexo causal con el caso.\nLa __________ es la evidencia admitida y evaluada por el juez en juicio.",
+      "explicacion": "La cadena: INDICIO (pista/inferencia, sin fuerza probatoria propia) → EVIDENCIA (confirmación con nexo causal y capacidad demostrativa) → PRUEBA (evidencia admitida por el juez para llevar a una conclusión judicial). Cada nivel tiene mayor peso procesal que el anterior.",
+      "respuesta": "indicio / evidencia / prueba",
+      "palabrasClave": [
+        "indicio",
+        "evidencia",
+        "prueba"
+      ]
+    },
+    {
+      "id": 115,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Qué es la evidencia NEGATIVA?",
+      "explicacion": "EVIDENCIA NEGATIVA: la que es OCULTADA O SUSTRAÍDA por un tercero con el objeto de no ser descubierta, obstruir la justicia o generar una coartada. Ejemplo: esconder el machete usado en un crimen. No confundir con 'evidencia que exculpa'; ese no es el sentido técnico del término.",
+      "opciones": [
+        "Evidencia que demuestra que el sospechoso no cometió el delito",
+        "Evidencia ocultada o sustraída por un tercero para no ser descubierta, obstruir la justicia o generar una coartada",
+        "Evidencia que no tiene relación con el hecho investigado",
+        "Evidencia que el laboratorio no puede analizar por deterioro"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 116,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Cuál es la diferencia entre evidencia CONCRETA y evidencia DESCRIPTIVA?",
+      "explicacion": "CONCRETA: evidencia positiva que puede recolectarse físicamente (arma, celular, droga) e ingresar a cadena de custodia. DESCRIPTIVA: evidencia positiva que NO puede extraerse del lugar (mancha de sangre en una pared, orificio de bala en una estructura); su validez se garantiza con los sistemas de fijación: fotografía, video y narrativa.",
+      "opciones": [
+        "Concreta=analizada en laboratorio. Descriptiva=analizada en la escena",
+        "Concreta=puede recolectarse físicamente y someterse a cadena de custodia. Descriptiva=no puede extraerse del lugar; su validez se garantiza mediante fijación fotográfica, video y narrativa",
+        "Concreta=evidencia orgánica. Descriptiva=evidencia inorgánica",
+        "Concreta=macroelementos. Descriptiva=microevidencias"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 117,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Qué es la evidencia AGREGADA y cuál es su relevancia investigativa?",
+      "explicacion": "EVIDENCIA AGREGADA: evidencia PLANTADA o puesta intencionalmente por un tercero para confundir, desviar la investigación o generar coartadas. Caso célebre: el caso O.J. Simpson, donde la defensa alegó que se había agregado sangre en la escena para incriminar al acusado. El investigador debe siempre evaluar si la evidencia es coherente con la dinámica del hecho.",
+      "opciones": [
+        "Es la evidencia que se suma al expediente después del juicio",
+        "Es evidencia 'plantada' por un tercero para confundir, desviar la investigación o generar coartadas falsas",
+        "Son varios elementos recolectados en conjunto que forman un solo EMP",
+        "Es la evidencia que se agrega al laboratorio para análisis comparativo"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 118,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Qué diferencia hay entre evidencia ASOCIATIVA y NO ASOCIATIVA?",
+      "explicacion": "ASOCIATIVA: relación directa con el hecho delictivo (el arma, la sangre, la droga). NO ASOCIATIVA: elementos en la escena sin relación con el delito. Ejemplo: emb­alar 200 tarros de champú en el baño donde ocurrió un homicidio. Recolectarlos innecesariamente viola la PERTINENCIA DE LA PRUEBA y genera desgaste a la economía procesal.",
+      "opciones": [
+        "Asociativa=evidencia que relaciona a dos sospechosos. No asociativa=evidencia de un solo individuo",
+        "Asociativa=tiene relación directa con el hecho delictivo. No asociativa=elementos presentes en la escena sin relación con el delito; recolectarlos innecesariamente genera desgaste a la economía procesal",
+        "Asociativa=evidencia orgánica. No asociativa=evidencia inorgánica",
+        "Son términos equivalentes al principio de intercambio de Locard"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 119,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "La evidencia EN EL TIEMPO se clasifica en antecedente, concomitante y consecuente. ¿Cuál corresponde a cada momento?",
+      "explicacion": "ANTECEDENTE: ocurre ANTES del acto criminal (comprar veneno con fórmula falsa, el 'enamoramiento' previo en un abuso). CONCOMITANTE: el momento EXACTO del hecho violento (el acto de envenenar, el abuso). CONSECUENTE: las CONSECUENCIAS directas (muerte, lesiones, traumas psicológicos como mutismo en niños abusados).",
+      "opciones": [
+        "Antecedente=durante el hecho. Concomitante=antes. Consecuente=después",
+        "Antecedente=antes del hecho criminal. Concomitante=durante el momento exacto. Consecuente=las consecuencias directas del hecho",
+        "Antecedente=evidencia histórica. Concomitante=evidencia actual. Consecuente=evidencia futura",
+        "Son clasificaciones del iter criminis, no de la evidencia"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 120,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "TF",
+      "parcial": "P1",
+      "pregunta": "AFIRMACIÓN: 'La evidencia ORGÁNICA y la INORGÁNICA se diferencian en que la orgánica proviene de seres vivos y la inorgánica de objetos fabricados por el hombre.'",
+      "explicacion": "FALSO. La diferencia correcta es por COMPOSICIÓN QUÍMICA: ORGÁNICA=contiene carbono, proviene de organismos animales o vegetales (sangre, saliva, hojas de coca, virus). INORGÁNICA=no contiene carbono (minerales, metales). No tiene que ver con si fue fabricada por el hombre; un objeto metálico fabricado puede ser inorgánico.",
+      "respuesta": false
+    },
+    {
+      "id": 121,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Qué diferencia la evidencia DETERMINANTE de la INDETERMINADA?",
+      "explicacion": "DETERMINANTE: se reconoce a simple vista sin necesidad de perito (un borrador, un reloj, una botella). INDETERMINADA: requiere el análisis de un perito experto (ingeniero, técnico especializado) para saber exactamente qué es, cómo funciona o qué rol tuvo en el hecho. Ejemplo: un circuito electrónico modificado puede ser indeterminado para el investigador de campo.",
+      "opciones": [
+        "Determinante=hallada en la escena. Indeterminada=hallada fuera de la escena",
+        "Determinante=se reconoce a simple vista (borrador, reloj). Indeterminada=requiere análisis de perito experto para saber exactamente qué es o cómo funciona",
+        "Determinante=evidencia que culpa al sospechoso. Indeterminada=evidencia que lo exculpa",
+        "Son sinónimos de evidencia positiva y negativa respectivamente"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 122,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "CC",
+      "parcial": "P1",
+      "pregunta": "CASO: En una escena de homicidio dentro de una ferretería, el investigador encuentra: a) un martillo con sangre sobre el mostrador, b) una mancha de sangre en la pared del fondo que dibuja la trayectoria del impacto, c) 500 productos de ferretería en los estantes, d) un recibo de compra arrugado en el bolsillo de la víctima.\n\nClasifique cada elemento según el tipo de evidencia.",
+      "explicacion": "a) Martillo con sangre: CONCRETA (recolectable) y ASOCIATIVA (nexo directo con el hecho). b) Mancha en la pared: DESCRIPTIVA (no puede extraerse; se fija con foto/video) y ASOCIATIVA. c) 500 productos: NO ASOCIATIVA (sin relación con el delito; recolectarlos violaría economía procesal). d) Recibo: CONCRETA y posiblemente ANTECEDENTE (evidencia temporal previa al hecho).",
+      "respuesta": "a) concreta/asociativa b) descriptiva/asociativa c) no asociativa d) concreta/asociativa o antecedente",
+      "palabrasClave": [
+        "concreta",
+        "descriptiva",
+        "asociativa",
+        "no asociativa"
+      ]
+    },
+    {
+      "id": 123,
+      "tema": "Documentología",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "Según el Art. 424 CPP, ¿cuál de los siguientes NO es considerado un 'documento' para efectos penales?",
+      "explicacion": "Art. 424 CPP: documento incluye manuscritos, grabaciones magnetofónicas, videos, mensajes de datos (WhatsApp, correos), radiografías, ecografías, e incluso tatuajes y marcas en objetos. El testimonio oral SIN grabar no es un documento; es prueba testimonial. Una vez grabado, sí sería documento.",
+      "opciones": [
+        "Un mensaje de WhatsApp",
+        "Una radiografía médica",
+        "El testimonio oral de un testigo sin grabar",
+        "Una ecografía"
+      ],
+      "respuesta": 2
+    },
+    {
+      "id": 124,
+      "tema": "Documentología",
+      "tipo": "TF",
+      "parcial": "P1",
+      "pregunta": "AFIRMACIÓN: 'La grafología psicológica —que analiza la escritura para determinar el estado emocional o la personalidad— tiene pleno peso probatorio en juicio como evidencia contundente.'",
+      "explicacion": "FALSO. La grafología PSICOLÓGICA (predice carácter, estado emocional por la letra) NO es ciencia exacta y no tiene peso como evidencia contundente en juicio; es solo un INDICIO. La DOCUMENTOLOGÍA o grafología TÉCNICA (analiza estructura y autenticidad del trazo) sí es disciplina forense válida con capacidad probatoria.",
+      "respuesta": false
+    },
+    {
+      "id": 125,
+      "tema": "Documentología",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "Un tatuaje con el logo de una pandilla encontrado en el cadáver, ¿puede ser considerado un 'documento' para efectos penales?",
+      "explicacion": "Sí. El concepto legal de DOCUMENTO no se limita al papel escrito. Abarca impresos, grabaciones, mensajes de datos, radiografías, ecografías, e incluso TATUAJES y marcas registradas en objetos (ej. el logo de Nike o Suzuki en un accesorio). Lo que importa es que transmite información relevante al proceso.",
+      "opciones": [
+        "No, porque los documentos deben ser escritos en papel para tener validez legal",
+        "Sí, el concepto legal de documento abarca marcas registradas, tatuajes y cualquier elemento que transmita información identificable",
+        "Solo si el tatuaje fue hecho en un establecimiento registrado",
+        "No, porque los tatuajes son evidencia biológica, no documental"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 126,
+      "tema": "Documentología",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Cuál es la diferencia entre grafología PSICOLÓGICA y DOCUMENTOLOGÍA (grafología técnica)?",
+      "explicacion": "GRAFOLOGÍA PSICOLÓGICA: intenta predecir carácter o estado emocional por la letra ('letra inclinada=persona reservada'). No es ciencia exacta; es solo INDICIO. DOCUMENTOLOGÍA (grafología técnica): analiza la estructura morfológica del trazo, autenticidad, falsificaciones. Disciplina forense VÁLIDA con pleno peso probatorio en juicio (coteja documento dubitado vs. indubitado).",
+      "opciones": [
+        "La psicológica es más precisa; la técnica es solo auxiliar",
+        "Psicológica: analiza escritura para inferir personalidad/estado emocional — solo indicio, no evidencia contundente. Documentología: analiza estructura y autenticidad del trazo — disciplina forense válida con pleno peso probatorio",
+        "Son equivalentes; ambas tienen el mismo peso en juicio",
+        "La documentología solo aplica a documentos oficiales del Estado"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 127,
+      "tema": "Protocolos de Recolección",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "Para un análisis de ALCOHOLEMIA (alcohol en sangre), ¿qué color de tubo de recolección debe usar el investigador?",
+      "explicacion": "Protocolo de tubos de recolección de sangre: GRIS=alcoholemia (alcohol en sangre). VERDE=organofosforados (venenos y tóxicos). LILA/MORADO=genética y biología (ADN). Usar el tubo incorrecto contamina la muestra o impide el análisis. Es un error de procedimiento que puede hacer perder la prueba.",
+      "opciones": [
+        "Tubo Lila (morado)",
+        "Tubo Verde",
+        "Tubo Gris",
+        "Tubo Rojo"
+      ],
+      "respuesta": 2
+    },
+    {
+      "id": 128,
+      "tema": "Protocolos de Recolección",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "Un perito necesita analizar una muestra de sangre para obtener el perfil genético (ADN) de la víctima. ¿Qué tubo debe usar?",
+      "explicacion": "TUBO LILA (MORADO): exclusivo para genética y biología molecular (ADN). TUBO GRIS: alcoholemia. TUBO VERDE: organofosforados/venenos. Cada tubo tiene reactivos específicos que preservan o activan los compuestos necesarios para cada análisis. Mezclarlos invalida la prueba.",
+      "opciones": [
+        "Tubo Gris",
+        "Tubo Verde",
+        "Tubo Lila (morado)",
+        "Cualquier tubo estéril disponible"
+      ],
+      "respuesta": 2
+    },
+    {
+      "id": 129,
+      "tema": "Protocolos de Recolección",
+      "tipo": "CD",
+      "parcial": "P1",
+      "pregunta": "Complete el protocolo de tubos de recolección de sangre:\n\nTubo GRIS → análisis de __________\nTubo VERDE → análisis de __________\nTubo LILA → análisis de __________",
+      "explicacion": "Protocolo obligatorio: GRIS=alcoholemia (alcohol en sangre). VERDE=organofosforados (venenos, tóxicos agrícolas). LILA/MORADO=genética y biología molecular (ADN, perfil genético). El uso del tubo correcto es parte del protocolo de recolección que garantiza el principio de Preservación de CAPRICIAS.",
+      "respuesta": "alcoholemia / organofosforados / genética ADN",
+      "palabrasClave": [
+        "alcoholemia",
+        "organofosforados",
+        "genética",
+        "adn"
+      ]
+    },
+    {
+      "id": 130,
+      "tema": "Protocolos de Recolección",
+      "tipo": "TF",
+      "parcial": "P1",
+      "pregunta": "AFIRMACIÓN: 'Si no se tiene el tubo del color correcto, se puede usar cualquier tubo estéril disponible para recolectar la muestra de sangre, ya que lo importante es no contaminarla.'",
+      "explicacion": "FALSO. Cada tubo tiene reactivos específicos (anticoagulantes, conservantes) diseñados para el tipo de análisis. Usar el tubo incorrecto puede: alterar los compuestos a analizar, generar falsos positivos o negativos, e invalidar la prueba. No es solo un asunto de esterilidad sino de compatibilidad química con el análisis requerido.",
+      "respuesta": false
+    },
+    {
+      "id": 131,
+      "tema": "Normatividad CPP",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "El Art. 424 del CPP define qué se considera 'documento' para efectos penales. ¿Cuál de los siguientes está incluido en esa definición?",
+      "explicacion": "Art. 424 CPP (Prueba Documental): define extensamente que documento incluye manuscritos, grabaciones magnetofónicas, videos, mensajes de datos, radiografías, ecografías, tatuajes y marcas. Esta definición amplia responde a la era digital y permite incorporar como prueba elementos que antes no se consideraban documentos.",
+      "opciones": [
+        "Solo los documentos escritos en papel con firma y sello",
+        "Manuscritos, grabaciones de audio/video, mensajes de datos (WhatsApp, correo), radiografías, ecografías y marcas en objetos",
+        "Únicamente los documentos expedidos por entidades públicas",
+        "Solo los documentos notariados o apostillados"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 132,
+      "tema": "Normatividad CPP",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "El Art. 248 del CPP sobre Registro Personal ('requisa') establece que:",
+      "explicacion": "Art. 248: los registros corporales o personales ('requisas') deben realizarse bajo MOTIVOS RAZONABLEMENTE FUNDADOS y respetando los lineamientos legales. No puede ser arbitrario ni caprichoso. Se diferencia de la Inspección Corporal (Art. 247) que requiere la presencia del defensor.",
+      "opciones": [
+        "Puede hacerse en cualquier momento sin necesidad de justificación",
+        "Debe hacerse bajo motivos razonablemente fundados y respetando los lineamientos legales",
+        "Solo puede realizarlo un médico forense del INMLCF",
+        "Requiere autorización previa del juez de garantías en todos los casos"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 133,
+      "tema": "Casos Integradores",
+      "tipo": "CC",
+      "parcial": "P1",
+      "pregunta": "CASO INTEGRADOR: En la escena de un posible envenenamiento se encuentran: a) el vaso con residuo líquido (en el suelo), b) una mancha de vómito en la alfombra, c) el cuerpo de la víctima sin signos evidentes de violencia, d) una nota manuscrita en la mesa, e) el olor persistente a almendras amargas.\n\nClasifique cada elemento según el tipo de evidencia, y para los elementos que no pueden recolectarse, indique cómo se documentan.",
+      "explicacion": "a) Vaso: CONCRETA/ASOCIATIVA (recolectable, cadena de custodia). b) Vómito: CONCRETA/ORGÁNICA (recolectar TOTALIDAD por riesgo de quelantes). c) Cuerpo: CONCRETA/MACROELEMENTO (inspección + cadena de custodia). d) Nota: CONCRETA/DOCUMENTAL (embalar estirada en sobre de manila, sin doblar). e) Olor a almendras: EFÍMERA (cianuro); documentar con ANÁLISIS ORGANOLÉPTICO en la narrativa del informe.",
+      "respuesta": "a) concreta b) concreta-organoléptica c) concreta d) concreta-documental e) efímera-organoléptica",
+      "palabrasClave": [
+        "concreta",
+        "efímera",
+        "organoléptica",
+        "descriptiva",
+        "documental"
+      ]
+    }
+  ]
+}

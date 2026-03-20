@@ -1,0 +1,438 @@
+{
+  "materia": "Criminalística I",
+  "parcial": "P2",
+  "preguntas": [
+    {
+      "id": 200,
+      "tema": "Casuística",
+      "tipo": "CC",
+      "parcial": "P2",
+      "pregunta": "ANÉCDOTA — El Noticiero y la Coartada:\nUn testigo afirma haber escuchado el disparo cuando 'empezó el noticiero de RCN', asumiendo las 7:00 pm. El sospechoso huyó a las 7:02 pm. Los investigadores consultaron con Bogotá y descubrieron que ese día el noticiero empezó a las 7:30 pm por una alocución presidencial.\n\n¿Qué concepto metodológico ilustra esta anécdota y cómo debe manejar el investigador las referencias temporales de testigos?",
+      "explicacion": "Ilustra el principio rector: 'El investigador NO CONFÍA: ve, critica y VERIFICA.' Una referencia temporal subjetiva ('cuando empezó el noticiero') es un INDICIO, no evidencia objetiva. La línea de tiempo debe construirse con datos OBJETIVOS comprobables. El error costó la coartada: diferencia de 28 minutos que cambió todo el caso.",
+      "respuesta": "verificación - no confiar en referencias subjetivas - línea de tiempo con datos objetivos",
+      "palabrasClave": [
+        "verificar",
+        "objetiv",
+        "línea de tiempo",
+        "subjetiv",
+        "confía"
+      ]
+    },
+    {
+      "id": 201,
+      "tema": "Casuística",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "ANÉCDOTA — La Morcilla (Ventana de la Muerte):\nUna vecina testificó que la víctima comió morcilla a las 10:00 am. El sospechoso fue visto en la casa a las 5:00 pm. La autopsia reveló que el contenido gástrico ya había terminado su vaciamiento. ¿Qué tipo de comida es la morcilla y cuánto tarda en vaciarse del estómago?",
+      "explicacion": "La morcilla es COMIDA PESADA: vaciamiento entre 4 y 6 horas. Si comió a las 10:00 am, el estómago estaría vacío entre 2:00 pm y 4:00 pm. Si el contenido ya estaba completamente vaciado a las 5:00 pm, la muerte pudo ocurrir mucho antes — desmontando la hipótesis de que el sospechoso la mató al llegar a las 5:00 pm.",
+      "opciones": [
+        "Comida liviana — 30 minutos a 2 horas",
+        "Comida media — 2 a 4 horas",
+        "Comida pesada — 4 a 6 horas",
+        "Comida muy pesada — más de 6 horas"
+      ],
+      "respuesta": 2
+    },
+    {
+      "id": 202,
+      "tema": "Casuística",
+      "tipo": "CD",
+      "parcial": "P2",
+      "pregunta": "El docente usa la anécdota de la morcilla para enseñar el TANATOCRONODIAGNÓSTICO. Complete:\n\nTanatocronodiagnóstico viene de: __________=muerte, __________=tiempo, __________=estudio/análisis.\n\nSu propósito es construir la __________ __________ de la muerte.",
+      "explicacion": "TANATOCRONODIAGNÓSTICO: Tánato=muerte + Crono=tiempo + Diagnóstico=estudio/análisis. Permite construir la LÍNEA DE TIEMPO de la muerte. El contenido gástrico es evidencia corporal clave: liviana (30min-2h), media (2-4h), pesada (4-6h). El tipo de alimento y su estado de digestión establecen el rango horario de la muerte.",
+      "respuesta": "tánato / crono / diagnóstico / línea de tiempo",
+      "palabrasClave": [
+        "tánato",
+        "crono",
+        "diagnóstico",
+        "línea",
+        "tiempo"
+      ]
+    },
+    {
+      "id": 203,
+      "tema": "Casuística",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "ANÉCDOTA — Media Tonelada en Turbo:\nUn investigador novato reportó '500 kg (media tonelada)' de droga incautada en una lancha. La noticia llegó a Caracol, RCN y la DEA. Al llegar al laboratorio, la cantidad real era mínima.\n\n¿Qué principio pericial violó y qué consecuencias generó?",
+      "explicacion": "Error de EXACTITUD EN UNIDADES: confundió peso bruto con peso neto y/o falló en la conversión libras→kilos. Consecuencias: escándalo disciplinario, mediático (Caracol, RCN) e institucional (DEA). Una tonelada = 1.000 kilos. El perito usa siempre el Sistema Internacional de Unidades con precisión absoluta y reporta PESO NETO, no bruto.",
+      "opciones": [
+        "Violó el principio de certeza; consecuencias administrativas leves",
+        "Violó la exactitud en unidades de medida (peso neto vs bruto / conversión libras-kilos); consecuencias disciplinarias, mediáticas e institucionales graves",
+        "Violó la cadena de custodia por no rotular los paquetes",
+        "Violó el principio de unicidad al no individualizar cada paquete"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 204,
+      "tema": "Casuística",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "ANÉCDOTA — Accidente con Explosivos del Docente:\nEl docente perdió parte de su mano durante una capacitación sobre detonadores por no descargar su cuerpo de electricidad estática antes de manipular el elemento.\n\n¿Qué tipo de memoria quedó grabada en el docente, y cuál es la regla de protocolo que violó?",
+      "explicacion": "MEMORIA EPISÓDICA: recuerdos de eventos con carga emocional o traumática que quedan grabados permanentemente. El docente ilustra con su propio accidente. PROTOCOLO VIOLADO: DESCARGA ELECTROSTÁTICA del cuerpo ANTES de manipular detonadores eléctricos. La electricidad estática del cuerpo humano puede generar una chispa suficiente para detonar un detonador.",
+      "opciones": [
+        "Memoria semántica; violó el protocolo de almacenamiento de explosivos",
+        "Memoria episódica (queda grabada permanentemente por el trauma); violó el protocolo de descarga electrostática antes de manipular detonadores",
+        "Memoria a corto plazo; violó el límite de 3 gramos en recolección de explosivos",
+        "Memoria a largo plazo; violó el protocolo de embalaje de materiales peligrosos"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 205,
+      "tema": "Casuística",
+      "tipo": "CC",
+      "parcial": "P2",
+      "pregunta": "ANÉCDOTA — El Acertijo de la Pecera:\nEl docente presentó: 'Un cuarto desorganizado. Agua en el suelo. Un cuerpo sin vida. A unos metros, un cuerpo con vida.' La mayoría de estudiantes inventó hipótesis de homicidio. La respuesta: el 'cuerpo sin vida' era un pez y el 'cuerpo con vida' era el perro/gato que había tumbado la pecera.\n\n¿Qué fenómeno ilustra esta anécdota y cuál es la lección metodológica?",
+      "explicacion": "Ilustra el SESGO DE PERCEPCIÓN: el investigador proyecta hipótesis preconcebidas antes de verificar los hechos. El método correcto: OBSERVAR con objetividad → recopilar datos → formular hipótesis. Principio rector: 'El investigador no confía: VE, CRITICA y VERIFICA.' Las primeras impresiones en la escena son peligrosas si no se contrastan con evidencia.",
+      "respuesta": "sesgo de percepción - no construir hipótesis antes de observar - verificar antes de concluir",
+      "palabrasClave": [
+        "sesgo",
+        "percepción",
+        "verificar",
+        "hipótesis",
+        "observar"
+      ]
+    },
+    {
+      "id": 206,
+      "tema": "Casuística",
+      "tipo": "CC",
+      "parcial": "P2",
+      "pregunta": "ANÉCDOTA — El Avión y el Tejido Biológico:\nUna aseguradora cubría siniestros si la aeronave entraba en contacto con 'aves'. Se halló tejido biológico en el fuselaje. El perito de la aseguradora dijo: 'es tejido de ave'. La empresa cobró. Un segundo laboratorio independiente determinó que era tejido de un CIERVO — era el desayuno del ave rapaz que lo sobrevoló.\n\n¿Qué pilares de la Mesa de la Ciencia se aplicaron en el segundo análisis?",
+      "explicacion": "Se aplicaron: REFUTABILIDAD (el primer resultado fue cuestionado) y REVISIÓN (laboratorio independiente, certificado, mismo método — reproducibilidad). La aseguradora NO pagó porque la cláusula era exclusiva para aves y el tejido era de ciervo. Lección: la ciencia forense debe ser IMPUGNABLE y REVISABLE para ser válida. Nunca tragarse los resultados sin verificar.",
+      "respuesta": "refutabilidad y revisión por laboratorio independiente certificado",
+      "palabrasClave": [
+        "refutabilidad",
+        "revisión",
+        "laboratorio",
+        "certificado",
+        "independiente"
+      ]
+    },
+    {
+      "id": 207,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Qué son las evidencias INVISIBLES o LATENTES?",
+      "explicacion": "EVIDENCIAS INVISIBLES/LATENTES: no visibles al ojo humano ni al microscopio ordinario. Requieren REACTIVOS QUÍMICOS (luminol para sangre) o EQUIPOS FÍSICOS (luz forense UV, pinceles de fibra de carbono con polvos magnéticos). Ejemplo clásico: huellas dactilares latentes en superficies lisas. Se revelan, no se extraen directamente.",
+      "opciones": [
+        "Evidencias que desaparecen rápidamente como el fuego o los olores",
+        "Aquellas que no son visibles al ojo humano ni al microscopio ordinario y requieren ser reveladas por reactivos químicos o equipos físicos especializados",
+        "Evidencias que el investigador decide no recolectar por falta de pertinencia",
+        "Evidencias digitales almacenadas en dispositivos electrónicos"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 208,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Qué son las evidencias MICROSCÓPICAS y cuál es un ejemplo forense típico en casos de agresión sexual?",
+      "explicacion": "EVIDENCIAS MICROSCÓPICAS: tamaño microscópico, requieren microscopio para visualizarse. Ejemplo forense: ESPERMATOZOIDES EN EL SURCO UNGUEAL (espacio bajo la uña). Su presencia puede indicar forcejeo o agresión sexual. El surco ungueal también puede contener células epidérmicas del agresor, fibras, o residuos. Es una zona prioritaria de búsqueda en agresiones.",
+      "opciones": [
+        "Evidencias visibles solo con lupa de aumento; ej: huellas dactilares",
+        "Evidencias en rango microscópico que requieren microscopio; ej: espermatozoides en el surco ungueal de la víctima",
+        "Evidencias de tamaño muy pequeño que se embalan en tubos capilares",
+        "Son sinónimas de evidencias latentes"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 210,
+      "tema": "Dactiloscopia",
+      "tipo": "CD",
+      "parcial": "P2",
+      "pregunta": "La dactiloscopia se sustenta en 3 principios. Complete:\n\n1. __________: la huella se forma en el 6° mes de gestación y permanece hasta la descomposición\n2. __________: si se destruye parcialmente, se regenera con los mismos puntos característicos\n3. __________: no existen dos huellas iguales en el universo",
+      "explicacion": "Los 3 principios: PERENNEIDAD (permanencia desde el 6° mes de gestación hasta descomposición), INMUTABILIDAD (si se destruye sin pérdida total, se regenera idéntica), DIVERSIDAD (no existen dos huellas iguales — para repetirse se requeriría 1 seguido de 40 ceros en años según el científico Baltasar). Estos principios fundamentan el principio criminalístico de UNICIDAD.",
+      "respuesta": "Perenneidad / Inmutabilidad / Diversidad",
+      "palabrasClave": [
+        "perenneidad",
+        "inmutabilidad",
+        "diversidad"
+      ]
+    },
+    {
+      "id": 211,
+      "tema": "Dactiloscopia",
+      "tipo": "TF",
+      "parcial": "P2",
+      "pregunta": "AFIRMACIÓN: 'Si una persona se quema todos los dedos intencionalmente, quedará sin identificación dactilar permanente.'",
+      "explicacion": "FALSO. Principio de INMUTABILIDAD: si no hay pérdida total del tejido, la huella se REGENERA con los mismos puntos característicos. Un narcotraficante del caso real se quemó todos los dedos — resultado: quedó mejor identificado que antes porque el intento llamó más la atención. Solo la destrucción total e irreversible del tejido dactilar elimina las crestas.",
+      "respuesta": false
+    },
+    {
+      "id": 212,
+      "tema": "Dactiloscopia",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "El principio de PERENNEIDAD dactilar establece que las crestas papilares se forman:",
+      "explicacion": "PERENNEIDAD: las crestas del dactilograma se forman en el SEXTO MES DE GESTACIÓN (algunos autores dicen 5° mes y medio). Permanecen hasta la descomposición cadavérica post mortem. Esto garantiza que toda persona tiene desde antes de nacer una identidad dactilar única y permanente — base jurídica y científica de la identificación por huellas.",
+      "opciones": [
+        "Al nacer, con el primer contacto del bebé con el exterior",
+        "Aproximadamente en el 6° mes de gestación intrauterina y permanecen hasta la descomposición post mortem",
+        "A los 3 años de vida cuando maduran las crestas dérmicas",
+        "Son permanentes desde la concepción pero visibles solo desde el nacimiento"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 213,
+      "tema": "Tanatocronodiagnóstico",
+      "tipo": "CD",
+      "parcial": "P2",
+      "pregunta": "Complete la tabla de vaciamiento gástrico:\n\nComida __________: 30 min – 2 h (ej. sopa, yogur, batido)\nComida __________: 2 h – 4 h (ej. arroz con pollo)\nComida __________: 4 h – 6 h (ej. morcilla, bandeja paisa)",
+      "explicacion": "Tabla de vaciamiento gástrico (base del tanatocronodiagnóstico): LIVIANA (30min-2h): sopas, lácteos, frutas. MEDIA (2-4h): carnes blancas, arroz, verduras cocidas. PESADA (4-6h): carnes rojas, embutidos como morcilla, frituras, comidas grasas. Esta tabla permite construir la ventana de la muerte a partir del estado del contenido gástrico en la autopsia.",
+      "respuesta": "liviana / media / pesada",
+      "palabrasClave": [
+        "liviana",
+        "media",
+        "pesada"
+      ]
+    },
+    {
+      "id": 214,
+      "tema": "Tanatocronodiagnóstico",
+      "tipo": "CC",
+      "parcial": "P2",
+      "pregunta": "CASO: La autopsia revela contenido gástrico con arroz y pollo sin digerir. Los testigos afirman que la víctima almorzó a las 12:00 pm. El contenido está en etapa inicial de digestión.\n\n¿Qué tipo de comida es arroz con pollo, cuánto tarda en vaciarse, y en qué rango horario ocurrió aproximadamente la muerte?",
+      "explicacion": "Arroz con pollo = COMIDA MEDIA: vaciamiento en 2 a 4 horas. Si comió a las 12:00 pm y el contenido está en etapa inicial, la muerte ocurrió entre las 12:30 pm y las 2:00 pm (antes de completarse la digestión). Esto estrecha significativamente la ventana de la muerte y puede contradecir la hipótesis del caso si el sospechoso tiene coartada para ese rango horario.",
+      "respuesta": "comida media (2-4 horas) / muerte entre 12:00 y 4:00 pm",
+      "palabrasClave": [
+        "media",
+        "2",
+        "4"
+      ]
+    },
+    {
+      "id": 216,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Qué es la evidencia de PERTENENCIA?",
+      "explicacion": "EVIDENCIA DE PERTENENCIA: hace parte de la INDUMENTARIA o accesorios personales de la víctima o sospechoso: zapatillas, reloj, cadenas, lentes, ropa, celular, documentos, dinero. Genera conflictos procesales porque la familia reclama las pertenencias mientras la investigación las retiene. Debe documentarse con precisión para su eventual devolución.",
+      "opciones": [
+        "Evidencia que pertenece exclusivamente a la Fiscalía para su análisis",
+        "La que hace parte de la indumentaria o accesorios personales (ropa, reloj, celular, joyas, documentos, dinero)",
+        "Evidencia que demuestra la propiedad de un bien inmueble",
+        "Elementos que hacen parte de la escena y no pueden moverse"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 217,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Cuál es la diferencia entre evidencia CERCANA y DISTANTE?",
+      "explicacion": "EVIDENCIA CERCANA: no supera los 5 metros del elemento central (ej. el cuerpo). EVIDENCIA DISTANTE: supera los 5 metros. Esta clasificación espacial es importante para la descripción en los informes forenses y para establecer relaciones entre elementos en la escena. Se usa en la narrativa: 'evidencia cercana al cuerpo' o 'evidencia distante a más de 5 metros'.",
+      "opciones": [
+        "Cercana=dentro de la escena primaria; distante=fuera del perímetro acordonado",
+        "Cercana=no supera los 5 metros del elemento central; distante=supera los 5 metros",
+        "Cercana=recolectada el mismo día; distante=recolectada días después",
+        "Son clasificaciones del principio de transferencia de Locard"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 218,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Qué es la evidencia AMBIENTAL?",
+      "explicacion": "EVIDENCIA AMBIENTAL: el entorno físico como indicador temporal. Ejemplos: luces encendidas de día (murió en la noche), mascotas con hambre extrema (varios días sin dueño), comida sin comer en la mesa, leche agriada, periódicos acumulados en la entrada, calefacción encendida en verano. Permite inferir el tiempo aproximado transcurrido desde la muerte.",
+      "opciones": [
+        "Evidencia relacionada con el clima del día del hecho",
+        "Indicadores del entorno físico que permiten inferir el tiempo transcurrido: luces encendidas de día, mascotas desatendidas, comida en la estufa, periódicos acumulados",
+        "Evidencia tomada del medio ambiente como plantas o tierra",
+        "Es sinónimo de evidencia efímera"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 219,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Qué es la evidencia ANAMNÉSICA?",
+      "explicacion": "EVIDENCIA ANAMNÉSICA: derivada del HISTORIAL O RUTINA de la víctima. Ejemplos: insulina que debía tomar a las 8am, citas de diálisis, medicamentos de horario fijo, compromisos semanales. Si la víctima no tomó su medicamento de las 8am y siempre lo hacía, puede inferirse que ya estaba imposibilitada o muerta antes de esa hora. Es evidencia temporal indirecta pero poderosa.",
+      "opciones": [
+        "Evidencia que se recupera mediante hipnosis del testigo",
+        "Evidencia derivada de la rutina o historial médico/conductual de la víctima: medicamentos de horario fijo, citas médicas, rutinas alimenticias, compromisos periódicos",
+        "Datos de ADN almacenados en bases de datos forenses",
+        "Evidencia antigua de casos anteriores relacionados"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 221,
+      "tema": "Percepción e Identificación",
+      "tipo": "CD",
+      "parcial": "P2",
+      "pregunta": "La percepción del investigador se estructura en 3 procesos secuenciales:\n\n1. __________: respuesta física de los órganos sensoriales ante estímulos\n2. __________: organización, interpretación y análisis en el cerebro\n3. __________: documentación objetiva de lo percibido",
+      "explicacion": "Cadena: SENSACIÓN (respuesta física de los órganos ante el estímulo) → PERCEPCIÓN (organización e interpretación en el cerebro) → REGISTRO (documentación objetiva). El investigador debe distinguir claramente qué fue sensación bruta, qué fue su interpretación, y qué quedó objetivamente documentado. La confusión entre sensación y percepción genera sesgos en el informe.",
+      "respuesta": "sensación / percepción / registro",
+      "palabrasClave": [
+        "sensación",
+        "percepción",
+        "registro"
+      ]
+    },
+    {
+      "id": 222,
+      "tema": "Percepción e Identificación",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "Los 4 tipos de memoria relevantes para la investigación criminal son:",
+      "explicacion": "4 tipos de memoria: CORTO PLAZO (dura minutos-horas, ej. placa recién vista), LARGO PLAZO (permanente, conocimiento consolidado), SEMÁNTICA (conceptual y general, ej. saber qué es un arma), EPISÓDICA (eventos específicos con carga emocional — los traumas quedan GRABADOS PERMANENTEMENTE, como ilustra el accidente del docente con los explosivos).",
+      "opciones": [
+        "Visual, auditiva, olfativa y táctil",
+        "A corto plazo, a largo plazo, semántica y episódica",
+        "Inmediata, mediata, remota y automática",
+        "Consciente, inconsciente, implícita y explícita"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 223,
+      "tema": "Percepción e Identificación",
+      "tipo": "TF",
+      "parcial": "P2",
+      "pregunta": "AFIRMACIÓN: 'Dos testigos que presenciaron el mismo disparo desde diferentes ángulos deben haber escuchado el mismo número de detonaciones.'",
+      "explicacion": "FALSO. La percepción auditiva depende del ÁNGULO, la distancia y las condiciones del espacio. Un barrancón entre el testigo y el disparo puede hacer que escuche uno (eco absorbido), mientras quien no tiene barrera escucha dos (disparo + eco). El sonido viaja a 340 m/s en el aire y más rápido en medios más densos. Por eso el testimonio es subjetivo y debe verificarse con evidencia científica.",
+      "respuesta": false
+    },
+    {
+      "id": 224,
+      "tema": "Percepción e Identificación",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "Para la descripción forense de colores en la escena, ¿cuál es el formato correcto?",
+      "explicacion": "Descripción forense de color: COLOR BASE (primarios, secundarios o terciarios) + INTENSIDAD (claro/oscuro) + CATEGORÍA si aplica (metálico dorado/plateado/bronce). NUNCA: 'rojo fresa', 'azul cielo', 'verde empanada'. Son subjetivos e irreproducibles. Un error en la descripción del color compromete el principio de IDENTIDAD de la cadena de custodia.",
+      "opciones": [
+        "Nombres creativos o de marcas (ej. 'azul rey', 'rojo ferrari', 'verde manzana')",
+        "Color base + claro/oscuro + metálico si aplica (ej. 'azul oscuro', 'verde claro', 'color metálico dorado')",
+        "Solo los 3 colores primarios son admisibles en informes forenses",
+        "Cualquier descripción coloquial si el testigo la confirma"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 225,
+      "tema": "Mesa de la Ciencia",
+      "tipo": "CD",
+      "parcial": "P2",
+      "pregunta": "La Mesa de la Ciencia (Art. 420/430 CPP) tiene 4 patas. Complete:\n\n1. __________: la prueba puede ser cuestionada y rebatida\n2. __________: revisable por otro laboratorio certificado con el mismo método\n3. Grado de __________: margen de error máximo científicamente aceptado\n4. __________ por la comunidad científica internacional",
+      "explicacion": "Los 4 pilares (Art. 420/430 CPP): REFUTABILIDAD (puede cuestionarse y rebatirse), REVISIÓN (otro laboratorio certificado puede replicar con el mismo método), GRADO DE INCERTIDUMBRE/ERROR (margen científicamente aceptado), ACEPTACIÓN POR LA COMUNIDAD CIENTÍFICA INTERNACIONAL. Una prueba que no cumpla estos 4 pilares puede ser impugnada y excluida del proceso.",
+      "respuesta": "Refutabilidad / Revisión / incertidumbre o error / Aceptación",
+      "palabrasClave": [
+        "refutabilidad",
+        "revisión",
+        "incertidumbre",
+        "aceptación"
+      ]
+    },
+    {
+      "id": 226,
+      "tema": "Mesa de la Ciencia",
+      "tipo": "TF",
+      "parcial": "P2",
+      "pregunta": "AFIRMACIÓN: 'Una prueba producida por un laboratorio privado no acreditado tiene el mismo valor probatorio que la del INMLCF, si el método fue correcto.'",
+      "explicacion": "FALSO. El pilar de REVISIÓN exige que el laboratorio esté CERTIFICADO y ACREDITADO con estándares de calidad. Un laboratorio no acreditado no garantiza condiciones controladas, instrumentos calibrados ni protocolos estandarizados. La defensa puede impugnar la prueba solo demostrando que el laboratorio no estaba acreditado, independientemente del método.",
+      "respuesta": false
+    },
+    {
+      "id": 227,
+      "tema": "Mesa de la Ciencia",
+      "tipo": "CC",
+      "parcial": "P2",
+      "pregunta": "CASO: En juicio, el perito de la Fiscalía presenta una prueba de ADN realizada en un laboratorio privado no acreditado por el ONAC. La defensa objeta.\n\n¿En qué pilar de la Mesa de la Ciencia se basa la objeción y cuál es el artículo CPP relevante?",
+      "explicacion": "La defensa usa el pilar de REVISIÓN: el laboratorio debe estar CERTIFICADO Y ACREDITADO. Art. 420 CPP: el juez evalúa idoneidad técnica, científica y moral del perito Y del laboratorio. Un laboratorio no acreditado compromete la validez del resultado. El juez puede excluir la prueba, independientemente de que el procedimiento haya sido el correcto.",
+      "respuesta": "Revisión / laboratorio no acreditado / Art. 420 CPP",
+      "palabrasClave": [
+        "revisión",
+        "acreditado",
+        "certificado",
+        "420"
+      ]
+    },
+    {
+      "id": 229,
+      "tema": "Percepción e Identificación",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Qué es un TESTIGO DE REFERENCIA?",
+      "explicacion": "TESTIGO DE REFERENCIA: NO presenció directamente el hecho, pero tuvo acceso INDIRECTO (escuchó el disparo sin ver, le contaron, oyó voces). Diferente del TESTIGO PRESENCIAL (vio directamente). Su testimonio tiene menor peso probatorio y es más fácilmente impugnado. Ejemplo de clase: la señora agonizante que oyó pero no vio quién disparó a su esposo.",
+      "opciones": [
+        "Un testigo que el fiscal usa como referencia principal en su teoría del caso",
+        "Quien no presenció directamente el hecho pero tuvo acceso indirecto: escuchó, le contaron o tuvo información sobre él sin estar presente",
+        "Un experto perito que sirve de referencia técnica en juicio",
+        "Un testigo que ha declarado en múltiples procesos"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 231,
+      "tema": "Procedimientos Forenses",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Cuál es la diferencia entre PESO NETO y PESO BRUTO en un informe forense?",
+      "explicacion": "PESO NETO: el peso del CONTENIDO solo, sin empaque. PESO BRUTO: peso total incluyendo el empaque. En casos de drogas, registrar peso bruto como si fuera neto genera errores graves como el de 'media tonelada en Turbo'. El informe pericial SIEMPRE especifica cuál se reporta. Usa el Sistema Internacional de Unidades. Esta diferencia puede hundir o salvar un proceso.",
+      "opciones": [
+        "Peso neto=el peso del empaque; peso bruto=el peso del contenido",
+        "Peso neto=contenido solo sin empaque; peso bruto=total incluyendo el empaque/contenedor",
+        "Son sinónimos que se usan indistintamente en informes periciales",
+        "Peso bruto=medido en campo; peso neto=medido en laboratorio"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 232,
+      "tema": "Procedimientos Forenses",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "Según el protocolo ONU para muestreo de drogas incautadas, si se encuentran 300 paquetes, ¿a cuántos se les practica el análisis?",
+      "explicacion": "Protocolo ONU: ≤25 paquetes = analizar TODOS. 26 a 625 paquetes = analizar 25. >625 paquetes = analizar la RAÍZ CUADRADA del total. Para 300: se analizan 25, seleccionados aleatoriamente con tabla de números aleatorios. Cada paquete se abre por la mitad con segueta (no bisturí directo) para evitar que el interior sea material inerte y solo la capa exterior sea droga.",
+      "opciones": [
+        "A todos (300)",
+        "A 25",
+        "A la raíz cuadrada de 300 (aprox. 17)",
+        "Al 10% (30 paquetes)"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 234,
+      "tema": "Normatividad CPP",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "El Art. 420 CPP (Apreciación de la Prueba Pericial) establece que el juez evalúa:",
+      "explicacion": "Art. 420 CPP: el juez evalúa IDONEIDAD TÉCNICA (conocimiento), CIENTÍFICA (método correcto) y MORAL (imparcialidad) del perito, la EXACTITUD de sus métodos, y que la prueba cumpla los 4 pilares de la mesa de la ciencia. Es el artículo que permite impugnar al perito y eventualmente excluir su prueba del proceso judicial.",
+      "opciones": [
+        "Solo el título universitario y la experiencia laboral del perito",
+        "La idoneidad técnica, científica y moral del perito, la exactitud de sus métodos y el cumplimiento de los pilares de la mesa de la ciencia",
+        "Únicamente si el laboratorio está certificado por el ONAC",
+        "Solo la claridad de la exposición oral en el estrado"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 235,
+      "tema": "Normatividad CPP",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "El Art. 207 CPP (Programa Metodológico) establece que:",
+      "explicacion": "Art. 207 CPP (PROGRAMA METODOLÓGICO): el FISCAL junto con la POLICÍA JUDICIAL estructura un plan de investigación que delimita funcionalmente las actividades. No es improvisación — es planeación estratégica: qué se investiga, cómo, quién y en qué orden. Es la base del trabajo coordinado fiscal-policía judicial en el Sistema Penal Oral Acusatorio.",
+      "opciones": [
+        "Todo investigador lleve un cuaderno de campo durante la inspección",
+        "El fiscal junto con la policía judicial estructure un plan que delimite funcionalmente las actividades investigativas del caso",
+        "El juez apruebe el método de investigación antes de recolectar evidencias",
+        "El programa de investigación sea público para garantizar transparencia"
+      ],
+      "respuesta": 1
+    }
+  ]
+}

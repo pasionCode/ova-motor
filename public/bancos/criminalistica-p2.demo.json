@@ -1,0 +1,160 @@
+{
+  "materia": "Criminalística I",
+  "parcial": "P2",
+  "demo": true,
+  "preguntas": [
+    {
+      "id": 200,
+      "tema": "Casuística",
+      "tipo": "CC",
+      "parcial": "P2",
+      "pregunta": "ANÉCDOTA — El Noticiero y la Coartada:\nUn testigo afirma haber escuchado el disparo cuando 'empezó el noticiero de RCN', asumiendo las 7:00 pm. El sospechoso huyó a las 7:02 pm. Los investigadores consultaron con Bogotá y descubrieron que ese día el noticiero empezó a las 7:30 pm por una alocución presidencial.\n\n¿Qué concepto metodológico ilustra esta anécdota y cómo debe manejar el investigador las referencias temporales de testigos?",
+      "explicacion": "Ilustra el principio rector: 'El investigador NO CONFÍA: ve, critica y VERIFICA.' Una referencia temporal subjetiva ('cuando empezó el noticiero') es un INDICIO, no evidencia objetiva. La línea de tiempo debe construirse con datos OBJETIVOS comprobables. El error costó la coartada: diferencia de 28 minutos que cambió todo el caso.",
+      "respuesta": "verificación - no confiar en referencias subjetivas - línea de tiempo con datos objetivos",
+      "palabrasClave": [
+        "verificar",
+        "objetiv",
+        "línea de tiempo",
+        "subjetiv",
+        "confía"
+      ]
+    },
+    {
+      "id": 201,
+      "tema": "Casuística",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "ANÉCDOTA — La Morcilla (Ventana de la Muerte):\nUna vecina testificó que la víctima comió morcilla a las 10:00 am. El sospechoso fue visto en la casa a las 5:00 pm. La autopsia reveló que el contenido gástrico ya había terminado su vaciamiento. ¿Qué tipo de comida es la morcilla y cuánto tarda en vaciarse del estómago?",
+      "explicacion": "La morcilla es COMIDA PESADA: vaciamiento entre 4 y 6 horas. Si comió a las 10:00 am, el estómago estaría vacío entre 2:00 pm y 4:00 pm. Si el contenido ya estaba completamente vaciado a las 5:00 pm, la muerte pudo ocurrir mucho antes — desmontando la hipótesis de que el sospechoso la mató al llegar a las 5:00 pm.",
+      "opciones": [
+        "Comida liviana — 30 minutos a 2 horas",
+        "Comida media — 2 a 4 horas",
+        "Comida pesada — 4 a 6 horas",
+        "Comida muy pesada — más de 6 horas"
+      ],
+      "respuesta": 2
+    },
+    {
+      "id": 202,
+      "tema": "Casuística",
+      "tipo": "CD",
+      "parcial": "P2",
+      "pregunta": "El docente usa la anécdota de la morcilla para enseñar el TANATOCRONODIAGNÓSTICO. Complete:\n\nTanatocronodiagnóstico viene de: __________=muerte, __________=tiempo, __________=estudio/análisis.\n\nSu propósito es construir la __________ __________ de la muerte.",
+      "explicacion": "TANATOCRONODIAGNÓSTICO: Tánato=muerte + Crono=tiempo + Diagnóstico=estudio/análisis. Permite construir la LÍNEA DE TIEMPO de la muerte. El contenido gástrico es evidencia corporal clave: liviana (30min-2h), media (2-4h), pesada (4-6h). El tipo de alimento y su estado de digestión establecen el rango horario de la muerte.",
+      "respuesta": "tánato / crono / diagnóstico / línea de tiempo",
+      "palabrasClave": [
+        "tánato",
+        "crono",
+        "diagnóstico",
+        "línea",
+        "tiempo"
+      ]
+    },
+    {
+      "id": 203,
+      "tema": "Casuística",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "ANÉCDOTA — Media Tonelada en Turbo:\nUn investigador novato reportó '500 kg (media tonelada)' de droga incautada en una lancha. La noticia llegó a Caracol, RCN y la DEA. Al llegar al laboratorio, la cantidad real era mínima.\n\n¿Qué principio pericial violó y qué consecuencias generó?",
+      "explicacion": "Error de EXACTITUD EN UNIDADES: confundió peso bruto con peso neto y/o falló en la conversión libras→kilos. Consecuencias: escándalo disciplinario, mediático (Caracol, RCN) e institucional (DEA). Una tonelada = 1.000 kilos. El perito usa siempre el Sistema Internacional de Unidades con precisión absoluta y reporta PESO NETO, no bruto.",
+      "opciones": [
+        "Violó el principio de certeza; consecuencias administrativas leves",
+        "Violó la exactitud en unidades de medida (peso neto vs bruto / conversión libras-kilos); consecuencias disciplinarias, mediáticas e institucionales graves",
+        "Violó la cadena de custodia por no rotular los paquetes",
+        "Violó el principio de unicidad al no individualizar cada paquete"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 204,
+      "tema": "Casuística",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "ANÉCDOTA — Accidente con Explosivos del Docente:\nEl docente perdió parte de su mano durante una capacitación sobre detonadores por no descargar su cuerpo de electricidad estática antes de manipular el elemento.\n\n¿Qué tipo de memoria quedó grabada en el docente, y cuál es la regla de protocolo que violó?",
+      "explicacion": "MEMORIA EPISÓDICA: recuerdos de eventos con carga emocional o traumática que quedan grabados permanentemente. El docente ilustra con su propio accidente. PROTOCOLO VIOLADO: DESCARGA ELECTROSTÁTICA del cuerpo ANTES de manipular detonadores eléctricos. La electricidad estática del cuerpo humano puede generar una chispa suficiente para detonar un detonador.",
+      "opciones": [
+        "Memoria semántica; violó el protocolo de almacenamiento de explosivos",
+        "Memoria episódica (queda grabada permanentemente por el trauma); violó el protocolo de descarga electrostática antes de manipular detonadores",
+        "Memoria a corto plazo; violó el límite de 3 gramos en recolección de explosivos",
+        "Memoria a largo plazo; violó el protocolo de embalaje de materiales peligrosos"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 205,
+      "tema": "Casuística",
+      "tipo": "CC",
+      "parcial": "P2",
+      "pregunta": "ANÉCDOTA — El Acertijo de la Pecera:\nEl docente presentó: 'Un cuarto desorganizado. Agua en el suelo. Un cuerpo sin vida. A unos metros, un cuerpo con vida.' La mayoría de estudiantes inventó hipótesis de homicidio. La respuesta: el 'cuerpo sin vida' era un pez y el 'cuerpo con vida' era el perro/gato que había tumbado la pecera.\n\n¿Qué fenómeno ilustra esta anécdota y cuál es la lección metodológica?",
+      "explicacion": "Ilustra el SESGO DE PERCEPCIÓN: el investigador proyecta hipótesis preconcebidas antes de verificar los hechos. El método correcto: OBSERVAR con objetividad → recopilar datos → formular hipótesis. Principio rector: 'El investigador no confía: VE, CRITICA y VERIFICA.' Las primeras impresiones en la escena son peligrosas si no se contrastan con evidencia.",
+      "respuesta": "sesgo de percepción - no construir hipótesis antes de observar - verificar antes de concluir",
+      "palabrasClave": [
+        "sesgo",
+        "percepción",
+        "verificar",
+        "hipótesis",
+        "observar"
+      ]
+    },
+    {
+      "id": 206,
+      "tema": "Casuística",
+      "tipo": "CC",
+      "parcial": "P2",
+      "pregunta": "ANÉCDOTA — El Avión y el Tejido Biológico:\nUna aseguradora cubría siniestros si la aeronave entraba en contacto con 'aves'. Se halló tejido biológico en el fuselaje. El perito de la aseguradora dijo: 'es tejido de ave'. La empresa cobró. Un segundo laboratorio independiente determinó que era tejido de un CIERVO — era el desayuno del ave rapaz que lo sobrevoló.\n\n¿Qué pilares de la Mesa de la Ciencia se aplicaron en el segundo análisis?",
+      "explicacion": "Se aplicaron: REFUTABILIDAD (el primer resultado fue cuestionado) y REVISIÓN (laboratorio independiente, certificado, mismo método — reproducibilidad). La aseguradora NO pagó porque la cláusula era exclusiva para aves y el tejido era de ciervo. Lección: la ciencia forense debe ser IMPUGNABLE y REVISABLE para ser válida. Nunca tragarse los resultados sin verificar.",
+      "respuesta": "refutabilidad y revisión por laboratorio independiente certificado",
+      "palabrasClave": [
+        "refutabilidad",
+        "revisión",
+        "laboratorio",
+        "certificado",
+        "independiente"
+      ]
+    },
+    {
+      "id": 207,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Qué son las evidencias INVISIBLES o LATENTES?",
+      "explicacion": "EVIDENCIAS INVISIBLES/LATENTES: no visibles al ojo humano ni al microscopio ordinario. Requieren REACTIVOS QUÍMICOS (luminol para sangre) o EQUIPOS FÍSICOS (luz forense UV, pinceles de fibra de carbono con polvos magnéticos). Ejemplo clásico: huellas dactilares latentes en superficies lisas. Se revelan, no se extraen directamente.",
+      "opciones": [
+        "Evidencias que desaparecen rápidamente como el fuego o los olores",
+        "Aquellas que no son visibles al ojo humano ni al microscopio ordinario y requieren ser reveladas por reactivos químicos o equipos físicos especializados",
+        "Evidencias que el investigador decide no recolectar por falta de pertinencia",
+        "Evidencias digitales almacenadas en dispositivos electrónicos"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 208,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Qué son las evidencias MICROSCÓPICAS y cuál es un ejemplo forense típico en casos de agresión sexual?",
+      "explicacion": "EVIDENCIAS MICROSCÓPICAS: tamaño microscópico, requieren microscopio para visualizarse. Ejemplo forense: ESPERMATOZOIDES EN EL SURCO UNGUEAL (espacio bajo la uña). Su presencia puede indicar forcejeo o agresión sexual. El surco ungueal también puede contener células epidérmicas del agresor, fibras, o residuos. Es una zona prioritaria de búsqueda en agresiones.",
+      "opciones": [
+        "Evidencias visibles solo con lupa de aumento; ej: huellas dactilares",
+        "Evidencias en rango microscópico que requieren microscopio; ej: espermatozoides en el surco ungueal de la víctima",
+        "Evidencias de tamaño muy pequeño que se embalan en tubos capilares",
+        "Son sinónimas de evidencias latentes"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 210,
+      "tema": "Dactiloscopia",
+      "tipo": "CD",
+      "parcial": "P2",
+      "pregunta": "La dactiloscopia se sustenta en 3 principios. Complete:\n\n1. __________: la huella se forma en el 6° mes de gestación y permanece hasta la descomposición\n2. __________: si se destruye parcialmente, se regenera con los mismos puntos característicos\n3. __________: no existen dos huellas iguales en el universo",
+      "explicacion": "Los 3 principios: PERENNEIDAD (permanencia desde el 6° mes de gestación hasta descomposición), INMUTABILIDAD (si se destruye sin pérdida total, se regenera idéntica), DIVERSIDAD (no existen dos huellas iguales — para repetirse se requeriría 1 seguido de 40 ceros en años según el científico Baltasar). Estos principios fundamentan el principio criminalístico de UNICIDAD.",
+      "respuesta": "Perenneidad / Inmutabilidad / Diversidad",
+      "palabrasClave": [
+        "perenneidad",
+        "inmutabilidad",
+        "diversidad"
+      ]
+    }
+  ]
+}

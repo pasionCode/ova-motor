@@ -1,0 +1,213 @@
+{
+  "materia": "Criminalística I",
+  "parcial": "P1",
+  "demo": true,
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Conceptos Fundamentales",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Cuál es la diferencia principal entre Criminalística y Criminología?",
+      "explicacion": "La Criminalística busca evidencias físicas en la escena para resolver el 'cómo'. La Criminología estudia el 'por qué' del comportamiento criminal analizando el entorno político, social, cultural y religioso.",
+      "opciones": [
+        "Ambas estudian el comportamiento criminal, pero desde distintas perspectivas sociales",
+        "La Criminalística es científica y operativa (el cómo); la Criminología es sociológica y estudia el comportamiento criminal (el por qué)",
+        "La Criminología procesa la escena del crimen; la Criminalística estudia al delincuente",
+        "Son sinónimos usados indistintamente en el sistema penal acusatorio"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 2,
+      "tema": "Conceptos Fundamentales",
+      "tipo": "TF",
+      "parcial": "P1",
+      "pregunta": "AFIRMACIÓN: 'Todo criminólogo es criminalista, pues ambas disciplinas comparten el mismo objeto de estudio: la escena del crimen.'",
+      "explicacion": "FALSO. La regla de oro del curso es: 'Todo criminalista debe saber un poco de criminología, mas no todo criminólogo es criminalista.' Son disciplinas distintas con objetos de estudio diferentes.",
+      "respuesta": false
+    },
+    {
+      "id": 3,
+      "tema": "Conceptos Fundamentales",
+      "tipo": "CD",
+      "parcial": "P1",
+      "pregunta": "Complete la regla de oro del curso:\n\n'Todo criminalista debe saber un poco de __________, mas no todo __________ es criminalista.'",
+      "explicacion": "Regla fundamental que delimita el campo de cada disciplina. El criminalista necesita nociones de criminología para formular hipótesis, pero su labor es técnico-científica, no sociológica.",
+      "respuesta": "criminología / criminólogo",
+      "palabrasClave": [
+        "criminología",
+        "criminólogo"
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Conceptos Fundamentales",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "Según la definición del Manual de Policía Judicial, la Criminalística es:",
+      "explicacion": "Definición oficial: ciencia auxiliar del Derecho (penal, civil, laboral, administrativo) que emplea recursos técnicos y científicos enfocados a la búsqueda y análisis del EMP y EF.",
+      "opciones": [
+        "Una disciplina sociológica que estudia el comportamiento del delincuente en su entorno",
+        "La ciencia auxiliar del Derecho que emplea recursos técnico-científicos para analizar EMP y EF, determinar la ocurrencia del delito, sus autores y causas",
+        "El conjunto de normas procesales que regulan la recolección de pruebas en Colombia",
+        "Una pseudociencia que complementa el testimonio humano en los juicios orales"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 5,
+      "tema": "Conceptos Fundamentales",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Qué significa que una disciplina científica se vuelva 'forense'?",
+      "explicacion": "Forense proviene del latín 'fors' (foro), el lugar donde los sabios debatían. Una disciplina se vuelve forense cuando su explicación científica adquiere un tinte jurídico/judicial. No significa 'muertos' ni 'cuerpos'.",
+      "opciones": [
+        "Que estudia exclusivamente cadáveres y cuerpos en descomposición",
+        "Que su dictamen científico adquiere un propósito jurídico y se introduce en un proceso judicial",
+        "Que es practicada únicamente por médicos legistas",
+        "Que trabaja exclusivamente para la Fiscalía General de la Nación"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 6,
+      "tema": "Conceptos Fundamentales",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "Un perito puede ser:",
+      "explicacion": "El perito es un experto en una determinada ciencia, arte, oficio o AFICIÓN. Ejemplo: alguien con afición al ajedrez puede actuar como perito en un caso relacionado. No se limita a títulos formales.",
+      "opciones": [
+        "Únicamente un profesional con título universitario en ciencias naturales",
+        "Solo médicos legistas o químicos adscritos a Medicina Legal",
+        "Un experto en una determinada ciencia, arte, oficio o afición relevante para el caso",
+        "Cualquier ciudadano mayor de edad que presenció el hecho"
+      ],
+      "respuesta": 2
+    },
+    {
+      "id": 7,
+      "tema": "Conceptos Fundamentales",
+      "tipo": "TF",
+      "parcial": "P1",
+      "pregunta": "AFIRMACIÓN: 'La prueba científica y la prueba testimonial tienen el mismo peso probatorio en el sistema penal acusatorio colombiano.'",
+      "explicacion": "FALSO. La prueba científica PREVALECE sobre el testimonio humano. Los humanos son emocionales y tienen sesgos, mientras que los instrumentos y laboratorios no. Feynman: 'El experimento es el único juez de la verdad científica.'",
+      "respuesta": false
+    },
+    {
+      "id": 8,
+      "tema": "Conceptos Fundamentales",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Cuál de los siguientes es un ejemplo de pseudociencia según el docente?",
+      "explicacion": "La astrología (junto con la brujería, quiromancia y parapsicología) son pseudociencias que no tienen cabida en la investigación legal. La criminalística se nutre exclusivamente de ciencias validadas.",
+      "opciones": [
+        "Toxicología forense",
+        "Dactiloscopia",
+        "Astrología",
+        "Palinología forense"
+      ],
+      "respuesta": 2
+    },
+    {
+      "id": 9,
+      "tema": "Clasificación de Ciencias",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿A qué categoría de ciencias pertenece la Criminología según la clasificación del docente?",
+      "explicacion": "La Criminología pertenece a las Ciencias Sociales, junto con Psicología, Sociología, Derecho y Antropología Cultural. Las Ciencias Naturales incluyen Física, Química, Biología, Geología y Astronomía.",
+      "opciones": [
+        "Ciencias Naturales",
+        "Ciencias Fundamentales",
+        "Ciencias Sociales",
+        "Pseudociencias"
+      ],
+      "respuesta": 2
+    },
+    {
+      "id": 10,
+      "tema": "Clasificación de Ciencias",
+      "tipo": "CD",
+      "parcial": "P1",
+      "pregunta": "Complete: Las Ciencias Fundamentales son __________, __________ e __________, y son esenciales porque dan soporte matemático y lógico a las demás ciencias.",
+      "explicacion": "Las Ciencias Fundamentales (Matemáticas, Estadística e Informática) son el soporte de las demás. Ejemplo: las matemáticas permiten calcular balística dentro de la física.",
+      "respuesta": "Matemáticas / Estadística / Informática",
+      "palabrasClave": [
+        "matemáticas",
+        "estadística",
+        "informática"
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Clasificación de Ciencias",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Cuál de los siguientes grupos corresponde CORRECTAMENTE a las Ciencias Naturales?",
+      "explicacion": "Las Ciencias Naturales son: Física, Química, Biología, Geología y Astronomía. Son las 'raíces del árbol' de la criminalística.",
+      "opciones": [
+        "Psicología, Sociología, Derecho, Criminología",
+        "Matemáticas, Estadística, Informática, Contabilidad",
+        "Física, Química, Biología, Geología, Astronomía",
+        "Toxicología, Balística, Dactiloscopia, Grafología"
+      ],
+      "respuesta": 2
+    },
+    {
+      "id": 12,
+      "tema": "Método Científico",
+      "tipo": "CD",
+      "parcial": "P1",
+      "pregunta": "El acrónimo del Método Científico aplicado en criminalística es O.P.H.E.A.R. Complete qué significa cada letra:\nO: __________\nP: __________\nH: __________\nE: __________\nA: __________\nR: __________",
+      "explicacion": "O=Observación, P=Planteamiento del problema, H=Hipótesis, E=Experimentación, A=Análisis, R=Resultados. Es el procedimiento central de la investigación criminal.",
+      "respuesta": "Observación / Planteamiento / Hipótesis / Experimentación / Análisis / Resultados",
+      "palabrasClave": [
+        "observación",
+        "planteamiento",
+        "hipótesis",
+        "experimentación",
+        "análisis",
+        "resultados"
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Método Científico",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Cuál es la diferencia entre una Hipótesis, una Teoría y una Ley científica?",
+      "explicacion": "Hipótesis=posible solución sin comprobar (variable). Teoría=sustento matemático/experimental pero no avalada al 100% (ej. relatividad de Einstein). Ley=comprobada al 100% universalmente (ej. gravedad, termodinámica).",
+      "opciones": [
+        "Son sinónimos que representan distintos grados de formalidad lingüística",
+        "La Hipótesis no está comprobada; la Teoría tiene sustento pero no está avalada al 100%; la Ley está comprobada universalmente al 100%",
+        "La Ley es provisional; la Teoría es definitiva; la Hipótesis es la conclusión final",
+        "Solo la Ley tiene valor en un juicio; la Hipótesis y la Teoría son rechazadas como prueba"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 14,
+      "tema": "Método Científico",
+      "tipo": "TF",
+      "parcial": "P1",
+      "pregunta": "AFIRMACIÓN: 'En criminalística, el investigador trabaja con probabilidades como el abogado, ya que la ciencia nunca puede dar certeza absoluta.'",
+      "explicacion": "FALSO. El criminalista busca CERTEZA científica, no probabilidades. El abogado maneja probabilidades para construir teorías del caso. La diferencia certeza vs. probabilidad es uno de los principios fundamentales del curso.",
+      "respuesta": false
+    },
+    {
+      "id": 15,
+      "tema": "Método Científico",
+      "tipo": "MC",
+      "parcial": "P1",
+      "pregunta": "¿Qué es la 'intuición' o 'malicia indígena' del investigador según Giraldo Rojas?",
+      "explicacion": "Giraldo valida científicamente la intuición como 'conocimiento intuitivo o inmediato de una verdad sin razonamientos lógicos paso a paso'. Es crucial en la práctica criminalística y complementa el método científico.",
+      "opciones": [
+        "Una percepción irracional que debe ser descartada en la investigación científica",
+        "El conocimiento inmediato de una verdad sin el concurso de razonamientos lógicos paso a paso, validado científicamente",
+        "Una suposición basada en estereotipos culturales del investigador",
+        "La capacidad del perito de inventar hipótesis sin fundamento empírico"
+      ],
+      "respuesta": 1
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+/* ============================================================
+   MOTOR OVA — TEMA VISUAL
+   Estética oscura tipo terminal forense
+   Tipografía: JetBrains Mono (técnica) + Inter (lectura)
+   ============================================================ */
+
+:root {
+  /* Paleta principal */
+  --bg-base:      #0a0e1a;
+  --bg-card:      #0f1e3d;
+  --bg-deep:      #0a1929;
+  --bg-hover:     #1e3a5f;
+
+  /* Bordes */
+  --border:       #1e3a5f;
+  --border-active:#60a5fa;
+
+  /* Texto */
+  --text-primary: #e2e8f0;
+  --text-muted:   #64748b;
+  --text-faint:   #334155;
+
+  /* Acento principal — azul forense */
+  --accent:       #1e40af;
+  --accent-light: #93c5fd;
+  --accent-glow:  rgba(30,64,175,0.3);
+
+  /* Estados */
+  --ok:           #059669;
+  --ok-light:     #6ee7b7;
+  --ok-bg:        #064e3b;
+  --err:          #dc2626;
+  --err-light:    #fca5a5;
+  --err-bg:       #450a0a;
+  --warn:         #d97706;
+  --warn-light:   #fbbf24;
+  --warn-bg:      #451a03;
+
+  /* Tipos de pregunta */
+  --mc-bg:  #1e3a5f; --mc-col:  #93c5fd;
+  --tf-bg:  #14532d; --tf-col:  #86efac;
+  --cc-bg:  #431407; --cc-col:  #fdba74;
+  --cd-bg:  #2e1065; --cd-col:  #c4b5fd;
+
+  /* Tipografía */
+  --font-mono: 'JetBrains Mono', 'Courier New', monospace;
+  --font-body: 'Inter', sans-serif;
+
+  /* Espaciado */
+  --radius: 6px;
+  --radius-lg: 10px;
+}
+
+/* Reset base */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { font-size: 16px; }
+
+body {
+  background: var(--bg-base);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Scrollbar discreta */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--bg-base); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+
+/* Utilidades globales */
+.mono { font-family: var(--font-mono); }
+.muted { color: var(--text-muted); }
+
+/* Animación fade-in para pantallas */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.screen { animation: fadeIn 0.2s ease-out; }
+
+/* Card base */
+.card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 20px;
+  margin-bottom: 14px;
+}
+
+/* Botones base */
+button {
+  font-family: var(--font-mono);
+  cursor: pointer;
+  border-radius: var(--radius);
+  border: none;
+  transition: opacity 0.15s, background 0.15s;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+}
+button:hover { opacity: 0.85; }
+button:disabled { opacity: 0.35; cursor: not-allowed; }
+
+/* Inputs */
+input, textarea, select {
+  font-family: var(--font-mono);
+  background: var(--bg-base);
+  border: 1px solid var(--border);
+  color: var(--text-primary);
+  border-radius: var(--radius);
+  font-size: 14px;
+  padding: 10px 14px;
+  width: 100%;
+  outline: none;
+  transition: border-color 0.15s;
+}
+input:focus, textarea:focus { border-color: var(--accent-light); }
+
+/* Layout contenedor */
+.container {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 20px 16px;
+}
+
+/* Responsive */
+@media (max-width: 480px) {
+  .container { padding: 12px 10px; }
+  .card { padding: 14px; }
+}
