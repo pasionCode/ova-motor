@@ -1,6 +1,12 @@
 {
   "materia": "Criminalística I",
   "parcial": "P2",
+  "clases": [
+    "CR_10",
+    "11-03-2026",
+    "16-03-2026",
+    "18-03-2026"
+  ],
   "preguntas": [
     {
       "id": 200,
@@ -200,7 +206,7 @@
       "parcial": "P2",
       "pregunta": "CASO: La autopsia revela contenido gástrico con arroz y pollo sin digerir. Los testigos afirman que la víctima almorzó a las 12:00 pm. El contenido está en etapa inicial de digestión.\n\n¿Qué tipo de comida es arroz con pollo, cuánto tarda en vaciarse, y en qué rango horario ocurrió aproximadamente la muerte?",
       "explicacion": "Arroz con pollo = COMIDA MEDIA: vaciamiento en 2 a 4 horas. Si comió a las 12:00 pm y el contenido está en etapa inicial, la muerte ocurrió entre las 12:30 pm y las 2:00 pm (antes de completarse la digestión). Esto estrecha significativamente la ventana de la muerte y puede contradecir la hipótesis del caso si el sospechoso tiene coartada para ese rango horario.",
-      "respuesta": "comida media (2-4 horas) / muerte entre 12:00 y 4:00 pm",
+      "respuesta": "comida media (2-4 horas) / muerte entre 12:30 pm y 2:00 pm",
       "palabrasClave": [
         "media",
         "2",
@@ -269,7 +275,7 @@
     },
     {
       "id": 221,
-      "tema": "Percepción e Identificación",
+      "tema": "Percepción y Memoria",
       "tipo": "CD",
       "parcial": "P2",
       "pregunta": "La percepción del investigador se estructura en 3 procesos secuenciales:\n\n1. __________: respuesta física de los órganos sensoriales ante estímulos\n2. __________: organización, interpretación y análisis en el cerebro\n3. __________: documentación objetiva de lo percibido",
@@ -283,7 +289,7 @@
     },
     {
       "id": 222,
-      "tema": "Percepción e Identificación",
+      "tema": "Percepción y Memoria",
       "tipo": "MC",
       "parcial": "P2",
       "pregunta": "Los 4 tipos de memoria relevantes para la investigación criminal son:",
@@ -298,7 +304,7 @@
     },
     {
       "id": 223,
-      "tema": "Percepción e Identificación",
+      "tema": "Percepción y Memoria",
       "tipo": "TF",
       "parcial": "P2",
       "pregunta": "AFIRMACIÓN: 'Dos testigos que presenciaron el mismo disparo desde diferentes ángulos deben haber escuchado el mismo número de detonaciones.'",
@@ -307,7 +313,7 @@
     },
     {
       "id": 224,
-      "tema": "Percepción e Identificación",
+      "tema": "Percepción y Memoria",
       "tipo": "MC",
       "parcial": "P2",
       "pregunta": "Para la descripción forense de colores en la escena, ¿cuál es el formato correcto?",
@@ -361,7 +367,7 @@
     },
     {
       "id": 229,
-      "tema": "Percepción e Identificación",
+      "tema": "Percepción y Memoria",
       "tipo": "MC",
       "parcial": "P2",
       "pregunta": "¿Qué es un TESTIGO DE REFERENCIA?",
@@ -433,6 +439,970 @@
         "El programa de investigación sea público para garantizar transparencia"
       ],
       "respuesta": 1
+    },
+    {
+      "id": 300,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Cuál es la diferencia técnica correcta entre evidencia INVISIBLE (latente) y evidencia TRAZA?",
+      "opciones": [
+        "Son sinónimos: ambas se refieren a evidencia que no puede verse a simple vista",
+        "Invisible/latente: no visible al ojo ni al microscopio, requiere reactivos químicos o polvos para revelarse. Traza: de tamaño microscópico pero sí visible al microscopio",
+        "Invisible: se destruye al contacto con el aire. Traza: solo existe en casos de agresión sexual",
+        "Invisible: evidencia digital. Traza: evidencia biológica de menos de 1 gramo"
+      ],
+      "respuesta": 1,
+      "explicacion": "INVISIBLE/LATENTE: no visible para el ojo humano ni bajo el microscopio; requiere reactivos químicos o polvos (magnéticos o de fibra de carbono) para revelarse en superficies lisas o pulimentadas (ej. huellas dactilares). TRAZA: tamaño microscópico pero sí visible al microscopio (ej. espermatozoide, células epidérmicas)."
+    },
+    {
+      "id": 301,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Qué son los 'estigmas ungueales' y en qué clasificación de evidencia se ubican?",
+      "opciones": [
+        "Son marcas de ligaduras en las muñecas; clasifican como evidencia de pertenencia",
+        "Son rastros celulares, de piel o arena en el surco subungueal (debajo de la uña) cuando la víctima araña al agresor; clasifican como evidencia TRAZA",
+        "Son tatuajes forenses usados para identificar cadáveres; clasifican como evidencia documental",
+        "Son marcas de impacto de bala en hueso; clasifican como evidencia de producción"
+      ],
+      "respuesta": 1,
+      "explicacion": "ESTIGMAS UNGUEALES: en patología forense son los rastros celulares, de piel, arena o ADN que quedan en el surco subungueal (debajo de la uña) cuando la víctima se defiende y araña al agresor. Clasifican como EVIDENCIA TRAZA — microscópica pero visible al microscopio. Su análisis puede establecer quién fue el agresor."
+    },
+    {
+      "id": 302,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "CD",
+      "parcial": "P2",
+      "pregunta": "Complete la clasificación de evidencia según proximidad al cuerpo:\n\nEvidencia de __________: hace parte de la indumentaria de la víctima (reloj, ropa, celular, monedas)\nEvidencia __________: a una distancia que no supera los 5 metros del cuerpo\nEvidencia __________: se encuentra a más de 5 metros del cuerpo",
+      "respuesta": "pertenencia / cercana / distante",
+      "palabrasClave": [
+        "pertenencia",
+        "cercana",
+        "distante"
+      ],
+      "explicacion": "Clasificación por proximidad: PERTENENCIA (indumentaria y accesorios de la víctima: reloj, aretes, ropa, celular, monedas), CERCANA (hasta 5 metros del cuerpo), DISTANTE (más de 5 metros del cuerpo). Esta clasificación orienta la búsqueda sistemática en la escena y la descripción en los informes."
+    },
+    {
+      "id": 303,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Qué es la evidencia AMBIENTAL y cómo se diferencia de la ANAMNÉSICA?",
+      "opciones": [
+        "Ambiental: relacionada con el clima. Anamnésica: relacionada con el historial médico del victimario",
+        "Ambiental: infiere el paso del tiempo por el entorno (mascotas desnutridas, luces encendidas, comida servida). Anamnésica: relacionada con rutinas y medicamentos de por vida de la víctima",
+        "Ambiental: evidencia biológica del medio ambiente. Anamnésica: evidencia obtenida mediante entrevista clínica",
+        "Son sinónimas; ambas permiten establecer la hora de la muerte"
+      ],
+      "respuesta": 1,
+      "explicacion": "AMBIENTAL: infiere el paso del tiempo o el momento de la muerte por el entorno físico (mascotas desnutridas, periódicos acumulados, comida servida, luces encendidas de día). ANAMNÉSICA: relacionada con el estricto cumplimiento de rutinas vitales de la víctima: insulina, Losartán, citas de diálisis, reuniones periódicas. Si no tomó su medicamento de las 8am y siempre lo hacía, la muerte ocurrió antes."
+    },
+    {
+      "id": 304,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "TF",
+      "parcial": "P2",
+      "pregunta": "AFIRMACIÓN: 'La evidencia circunstancial demuestra directamente los hechos delictivos y tiene el mismo peso que la evidencia física directa en juicio.'",
+      "respuesta": false,
+      "explicacion": "FALSO. La evidencia CIRCUNSTANCIAL es INDIRECTA: no demuestra los hechos directamente, sino que permite INFERIRLOS. Ejemplo: piso mojado al salir de un recinto cerrado infiere que llovió, pero podría ser un camión cisterna. El investigador SIEMPRE verifica: consulta registros del IDEAM, cámaras, testigos. La inferencia no es prueba; la verificación sí."
+    },
+    {
+      "id": 305,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Qué diferencia técnica existe entre una prenda de ALGODÓN y una de DACRÓN al analizar residuos de disparo a corta distancia?",
+      "opciones": [
+        "El dacrón retiene más residuos por ser más denso; el algodón los repele",
+        "No hay diferencia: los residuos se adhieren igual a cualquier tela",
+        "Los residuos de pólvora se adhieren fácilmente a las fibras de algodón; en materiales sintéticos como el dacrón no se adhieren bien",
+        "El algodón destruye los residuos por su reacción química con la pólvora"
+      ],
+      "respuesta": 2,
+      "explicacion": "Ante un disparo a corta distancia (~30 cm), la pólvora y residuos se adhieren con facilidad a las FIBRAS DE ALGODÓN por su textura porosa y natural. En materiales SINTÉTICOS como el dacrón, los residuos no se adhieren bien. Esto afecta directamente la interpretación del tatuaje de pólvora y la estimación de la distancia de disparo en balística."
+    },
+    {
+      "id": 306,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "CC",
+      "parcial": "P2",
+      "pregunta": "CASO: Al salir de un edificio cerrado donde se investiga una muerte, el investigador observa el pavimento húmedo, las hojas de los árboles mojadas y las lámparas encendidas de la calle.\n\n¿Qué tipo de evidencia representa cada elemento y qué error metodológico cometería el investigador si concluye directamente que 'llovió durante el hecho'?",
+      "respuesta": "evidencia circunstancial / ambiental / no inferir sin verificar / consultar IDEAM",
+      "palabrasClave": [
+        "circunstancial",
+        "ambiental",
+        "verificar",
+        "inferir"
+      ],
+      "explicacion": "El pavimento húmedo y las hojas mojadas son EVIDENCIA CIRCUNSTANCIAL (indirecta) con componente AMBIENTAL. El error metodológico sería inferir directamente que llovió sin verificación. Podría ser: un camión cisterna, alguien lavando la calle, una tubería rota. El investigador VERIFICA: consulta registros del IDEAM, cámaras del sector, testimonios. La inferencia es hipótesis; la verificación es ciencia."
+    },
+    {
+      "id": 307,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Qué es la evidencia de REFERENCIA y cómo se diferencia del testimonio presencial?",
+      "opciones": [
+        "Evidencia de referencia: la que el perito consulta en libros científicos",
+        "Evidencia de referencia: el testigo conoce el hecho por voces de terceros, no lo presenció directamente. Testimonio presencial: el testigo vio el hecho directamente",
+        "Son sinónimas; ambas se obtienen mediante interrogatorio formal",
+        "Evidencia de referencia: solo aplica a documentos. Testimonio presencial: solo aplica a casos de homicidio"
+      ],
+      "respuesta": 1,
+      "explicacion": "EVIDENCIA DE REFERENCIA: el testigo no presenció directamente el hecho, sino que lo conoce por voces de terceros. Ejemplo del docente: una mujer escucha disparos, baja y su esposo agonizante le dice 'Pedro y Juan me dispararon'. Ella es testigo de referencia porque no visualizó a los atacantes. Tiene menor peso probatorio y es más fácilmente impugnable que el testimonio presencial."
+    },
+    {
+      "id": 308,
+      "tema": "Dactiloscopia",
+      "tipo": "CD",
+      "parcial": "P2",
+      "pregunta": "Según el científico Baltasar, los tres principios que hacen de la huella dactilar una prueba irrefutable son:\n\n1. __________: se forman en el sexto mes de gestación y permanecen hasta la descomposición\n2. __________: si el dedo sufre heridas sin pérdida total, el dactilograma se regenera idéntico\n3. __________: ninguna huella se repite; la probabilidad es de 1 seguido de 40 ceros",
+      "respuesta": "Perennidad / Inmutabilidad / Diversidad",
+      "palabrasClave": [
+        "perennidad",
+        "inmutabilidad",
+        "diversidad"
+      ],
+      "explicacion": "Los 3 principios de la lofoscopia (Baltasar): PERENNIDAD (se forman ~6° mes gestación, permanecen hasta descomposición post mortem), INMUTABILIDAD (quemaduras o heridas sin pérdida total → se regeneran iguales; un narcotraficante que se quemó los dedos quedó mejor identificado), DIVERSIDAD (ninguna huella se repite ni en gemelos idénticos; probabilidad de repetición: 1 seguido de 40 ceros)."
+    },
+    {
+      "id": 309,
+      "tema": "Dactiloscopia",
+      "tipo": "TF",
+      "parcial": "P2",
+      "pregunta": "AFIRMACIÓN: 'Si una persona se quema completamente los dedos de ambas manos, pierde para siempre su identidad dactilar y no podrá ser identificada por huellas.'",
+      "respuesta": false,
+      "explicacion": "FALSO en la mayoría de casos. Por el principio de INMUTABILIDAD: si no hay pérdida TOTAL del tejido, la huella se REGENERA con los mismos puntos característicos. El docente relata el caso de un narcotraficante que se quemó todos los dedos pensando que quedaría sin identificación — resultado: quedó mejor identificado porque el intento mismo fue registrado. Solo la destrucción total e irreversible del tejido dactilar eliminaría las crestas."
+    },
+    {
+      "id": 310,
+      "tema": "Dactiloscopia",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿En qué momento de la vida se forman las crestas papilares del dactilograma, según el principio de Perennidad?",
+      "opciones": [
+        "Al nacer, con el primer contacto físico con el exterior",
+        "A los 3 años de vida cuando la piel madura completamente",
+        "Aproximadamente en el sexto mes de gestación intrauterina",
+        "Varían según la persona: entre el 3° y 9° mes de gestación"
+      ],
+      "respuesta": 2,
+      "explicacion": "PERENNIDAD: las crestas papilares del dactilograma se forman alrededor del SEXTO MES DE GESTACIÓN intrauterina. Desde ese momento son únicas, permanentes e irrepetibles hasta la descomposición cadavérica. Esto garantiza que toda persona tiene identidad dactilar desde antes de nacer."
+    },
+    {
+      "id": 311,
+      "tema": "Tanatocronodiagnóstico",
+      "tipo": "CD",
+      "parcial": "P2",
+      "pregunta": "Complete la tabla de tiempos de vaciamiento gástrico:\n\nComida __________: 4 a 6 horas (morcilla, carne de res, bandeja paisa)\nComida __________: 2 a 4 horas\nComida __________: 30 minutos a 2 horas (avena, sopas, líquidos)",
+      "respuesta": "pesada / media / liviana",
+      "palabrasClave": [
+        "pesada",
+        "media",
+        "liviana"
+      ],
+      "explicacion": "Tabla de vaciamiento gástrico para tanatocronodiagnóstico: PESADA (4-6h): morcilla, carnes rojas, bandeja paisa, embutidos grasos. MEDIA (2-4h): arroz con pollo, carnes blancas, verduras cocidas. LIVIANA (30min-2h): avena, sopas de fideos, líquidos, frutas. Al detenerse la digestión con la muerte, el estado del contenido gástrico establece la ventana temporal del deceso."
+    },
+    {
+      "id": 312,
+      "tema": "Tanatocronodiagnóstico",
+      "tipo": "CC",
+      "parcial": "P2",
+      "pregunta": "ANÉCDOTA — La Morcilla:\nUna mujer maltratada come morcilla a las 10:00 am. A las 5:00 pm, testigos ven a su esposo violento pateando la puerta y luego huyendo. La mujer aparece muerta y ensangrentada. La mayoría infiere que el esposo la mató a las 5:00 pm.\n\n¿Qué demuestra la autopsia y cuál es la enseñanza criminalística?",
+      "respuesta": "la digestión ya estaba completa / muerte entre 2-4pm / el esposo halló el cuerpo",
+      "palabrasClave": [
+        "digestión",
+        "vaciamiento",
+        "morcilla",
+        "pesada",
+        "coartada"
+      ],
+      "explicacion": "La morcilla es COMIDA PESADA: vaciamiento gástrico en 4-6 horas. Si comió a las 10:00 am, el estómago debería estar vacío entre las 2:00 pm y las 4:00 pm. La autopsia reveló vaciamiento completo, demostrando científicamente que la muerte ocurrió hacia las 2:00-4:00 pm — no a las 5:00 pm cuando llegó el esposo. El esposo encontró el cuerpo ya muerto. Enseñanza: el tanatocronodiagnóstico destruye coartadas temporales que parecían sólidas."
+    },
+    {
+      "id": 313,
+      "tema": "Tanatocronodiagnóstico",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Qué es el tánato-crono-diagnóstico y cuál es su utilidad forense?",
+      "opciones": [
+        "Es el estudio de las marcas de ligadura para determinar el tipo de nudo usado",
+        "Es el estudio del contenido gástrico del cadáver para elaborar una ventana de tiempo de la muerte, basándose en el grado de vaciamiento gástrico al momento del deceso",
+        "Es el análisis del rigor mortis para establecer la posición original del cadáver",
+        "Es la técnica de identificación de víctimas mediante análisis dental"
+      ],
+      "respuesta": 1,
+      "explicacion": "TÁNATO-CRONO-DIAGNÓSTICO: Tánato=muerte, Crono=tiempo, Diagnóstico=estudio/análisis. Consiste en evaluar el contenido gástrico del cadáver: dado que la digestión SE DETIENE en el momento de la muerte, el estado de vaciamiento del estómago permite construir una 'ventana de la muerte' — la línea de tiempo que establece el rango horario del deceso."
+    },
+    {
+      "id": 314,
+      "tema": "Metrología y Pesaje",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Qué unidades de medida son OBLIGATORIAS en los informes de Policía Judicial y cuáles están PROHIBIDAS?",
+      "opciones": [
+        "Obligatorias: pulgadas y libras (sistema anglosajón). Prohibidas: el sistema métrico",
+        "Obligatorias: sistema métrico internacional (mm, cm, m, g, kg). Prohibidas: expresiones populares como 'cuartas', 'varas', 'bultos', 'manotadas'",
+        "Obligatorias: cualquier sistema siempre que sea consistente. Prohibidas: solo el sistema antiguo de 'varas'",
+        "No existe regulación específica; cada perito elige su sistema de medición"
+      ],
+      "respuesta": 1,
+      "explicacion": "Es obligatorio usar el SISTEMA MÉTRICO INTERNACIONAL (milímetros, centímetros, metros, gramos, kilogramos). Quedan TOTALMENTE PROHIBIDAS las expresiones populares o ambiguas: 'cuartas', 'varas', 'bultos', 'manotadas'. Carecen de exactitud técnica y hacen imposible la reproducibilidad del procedimiento pericial. Un error de unidades puede generar consecuencias disciplinarias graves (anécdota: media tonelada en Turbo)."
+    },
+    {
+      "id": 315,
+      "tema": "Metrología y Pesaje",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Cuál es la diferencia entre PESO BRUTO y PESO NETO en una incautación de droga?",
+      "opciones": [
+        "Peso bruto: el peso de la droga pura. Peso neto: incluye el empaque",
+        "Peso neto: el elemento suelto sin empaque ni accesorios. Peso bruto: incluye empaques, bolsas y accesorios",
+        "Son sinónimos en el contexto forense colombiano",
+        "Peso bruto: medido en campo. Peso neto: medido en laboratorio certificado"
+      ],
+      "respuesta": 1,
+      "explicacion": "PESO NETO: el elemento solo, sin empaques ni accesorios. PESO BRUTO: incluye empaques, bolsas y todo accesorio. Ejemplo del docente: pesar a un detenido con cadenas de oro de 3 kilos da el peso bruto; sin las cadenas da el peso neto. En el caso de 'Víctor en Turbo': reportó '500 kg = media tonelada' porque incluyó empaques y falló en la conversión libras→kilos. Al llegar al laboratorio la cantidad real era apenas una libra. Consecuencia: escándalo nacional, Caracol, RCN y la DEA involucrados."
+    },
+    {
+      "id": 316,
+      "tema": "Metrología y Pesaje",
+      "tipo": "CC",
+      "parcial": "P2",
+      "pregunta": "ANÉCDOTA — Media Tonelada en Turbo:\nUn investigador novato incautó panelas de droga en una lancha y reportó '500 kilos (media tonelada)'. La noticia llegó a Caracol, RCN y la DEA. Al llegar al laboratorio la cantidad real era mínima.\n\n¿Qué errores técnicos cometió el investigador y qué consecuencias tuvo?",
+      "respuesta": "confundió peso bruto con neto / error conversión libras a kilos / escándalo disciplinario y mediático",
+      "palabrasClave": [
+        "bruto",
+        "neto",
+        "libras",
+        "kilos",
+        "conversión"
+      ],
+      "explicacion": "El investigador cometió dos errores: (1) no diferenció PESO BRUTO (con empaques) de PESO NETO (droga pura), (2) falló en la conversión libras→kilogramos. Consecuencias: escándalo mediático (Caracol, RCN, DEA), proceso disciplinario, daño institucional. Enseñanza: el perito usa el Sistema Internacional, reporta peso neto, verifica la conversión. Un error de unidades puede hundir una investigación."
+    },
+    {
+      "id": 317,
+      "tema": "Metrología y Pesaje",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Qué es el 'testigo métrico' y cómo debe usarse en fotografía de primer plano?",
+      "opciones": [
+        "Es el investigador que mide la escena con cinta métrica mientras se fotografía",
+        "Es un instrumento con escala gráfica que se coloca cerca de la evidencia para indicar su tamaño exacto en las fotos, sin tocarlo ni alterarlo",
+        "Es el nombre del formato FPJ que registra las medidas de la evidencia",
+        "Es una regla que se superpone digitalmente sobre la fotografía en el laboratorio"
+      ],
+      "respuesta": 1,
+      "explicacion": "TESTIGO MÉTRICO: instrumento con escala gráfica (a veces en forma de escuadra) que se ubica CERCA de la evidencia en la fotografía de PRIMER PLANO para indicar el tamaño exacto. Regla fundamental: debe colocarse sin TOCAR ni ALTERAR la evidencia. Permite que cualquier persona que vea la foto pueda conocer las dimensiones reales del elemento sin necesidad de ir a la escena."
+    },
+    {
+      "id": 318,
+      "tema": "Metrología y Pesaje",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "Según el protocolo de la ONU para muestreo PIPH en cargamentos de droga: si se incautan 1.000 paquetes, ¿a cuántos se les practica la prueba?",
+      "opciones": [
+        "A todos (1.000 paquetes)",
+        "A 25 paquetes",
+        "A la raíz cuadrada de 1.000 (aproximadamente 31 o 32 paquetes)",
+        "Al 10% del total (100 paquetes)"
+      ],
+      "respuesta": 2,
+      "explicacion": "Protocolo ONU para prueba PIPH: ≤25 paquetes → analizar TODOS. 26 a 625 paquetes → analizar 25 (selección aleatoria con tabla). >625 paquetes → analizar la RAÍZ CUADRADA del total. Para 1.000: √1.000 ≈ 31,6 → se analizan 31 o 32 paquetes. La selección es aleatoria para garantizar representatividad estadística y transparencia ante la defensa."
+    },
+    {
+      "id": 319,
+      "tema": "Metrología y Pesaje",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Por qué debe hacerse un corte profundo en forma de CRUZ a cada panela de droga seleccionada para la muestra PIPH?",
+      "opciones": [
+        "Para facilitar el pesaje exacto del contenido interno",
+        "Para dividir la muestra en cuatro partes iguales enviadas a laboratorios diferentes",
+        "Para garantizar transparencia: evitar que el traficante haya puesto droga solo en la capa exterior y relleno el centro con yeso u otro material inerte",
+        "Es un ritual protocolar sin justificación técnica específica"
+      ],
+      "respuesta": 2,
+      "explicacion": "El corte en CRUZ profundo con segueta o bisturí es para garantizar TRANSPARENCIA y evitar fraude: los traficantes frecuentemente rellenan el centro del bloque con YESO o material inerte, dejando la droga solo en la capa exterior. Sin el corte en cruz tomando material del centro y los cuadrantes, se podría condenar a alguien por 'una tonelada de cocaína' cuando en realidad era un kilo de droga y el resto yeso."
+    },
+    {
+      "id": 320,
+      "tema": "Documentología",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "Según los artículos 424 y 426 del CPP, ¿qué es un 'documento' para efectos penales?",
+      "opciones": [
+        "Únicamente escritos en papel con firma y sello de autoridad competente",
+        "Todo elemento físico con contenido de representación racional: incluye tatuajes, libros, pinturas, ecografías, radiografías, marcas y símbolos",
+        "Solo los documentos públicos expedidos por entidades del Estado",
+        "Exclusivamente los documentos notariados o con apostilla"
+      ],
+      "respuesta": 1,
+      "explicacion": "Art. 424 y 426 CPP: documento es todo elemento con CONTENIDO DE REPRESENTACIÓN RACIONAL. Incluye: tatuajes, libros, pinturas, ecografías, radiografías, marcas registradas, símbolos. Por eso comercializar camisetas con logos falsificados es FALSEDAD MATERIAL (delito contra la fe pública). La concepción es amplia y responde a la era digital y a la diversidad de soportes informativos."
+    },
+    {
+      "id": 321,
+      "tema": "Documentología",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Cómo debe cerrarse la descripción física de un elemento en el formato de cadena de custodia para prevenir falsedad material por agregación?",
+      "opciones": [
+        "Con la firma del investigador y el sello de la entidad al final del texto",
+        "Con un punto y seguido y el nombre completo del investigador",
+        "Trazando una línea recta de cierre al final del texto descriptivo para impedir que terceros agreguen más información",
+        "Dejando el campo en blanco y cerrando con una firma digital"
+      ],
+      "respuesta": 2,
+      "explicacion": "Para evitar el delito de FALSEDAD MATERIAL POR AGREGACIÓN: se cierra el texto descriptivo trazando una LÍNEA RECTA al final. Sin esto, un tercero puede convertir el punto final en punto seguido y agregar más elementos falsos al registro. Este es el delito de alteración por adición — tipificado en el CP como falsedad en documento."
+    },
+    {
+      "id": 322,
+      "tema": "Documentología",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Cómo está estructurado el Número Único de Noticia Criminal (NUNC) y cuántos dígitos tiene?",
+      "opciones": [
+        "10 dígitos: código de la entidad + año + consecutivo",
+        "21 dígitos: código del departamento + municipio + entidad receptora + año + consecutivo (se reinicia cada 31 de diciembre)",
+        "15 dígitos: solo código nacional + año + número de caso",
+        "Varía según la entidad receptora, sin número fijo de dígitos"
+      ],
+      "respuesta": 1,
+      "explicacion": "El NUNC tiene 21 DÍGITOS estructurados así: código departamento (ej. 05=Antioquia) + municipio (ej. 001) + entidad receptora (ej. 61=Fiscalía) + unidad receptora + año (ej. 2026) + número consecutivo (se reinicia cada 31 de diciembre a las 24:00 horas). Es la 'matrícula' que identifica unívocamente cada elemento material probatorio en el sistema."
+    },
+    {
+      "id": 323,
+      "tema": "Documentología",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Cuál es la regla para describir colores de evidencia en informes de Policía Judicial?",
+      "opciones": [
+        "Se puede usar cualquier término descriptivo que sea claro para el juez",
+        "Se usan colores primarios, secundarios o terciarios, solo con variaciones 'claro' u 'oscuro' o acabados metálicos. Están prohibidos: 'amarillo pollito', 'verde salmón', 'rojo fiesta', 'gris ojos de gato persa'",
+        "Se usan exclusivamente los tres colores primarios sin variaciones",
+        "Se acepta cualquier término coloquial si el testigo lo confirma"
+      ],
+      "respuesta": 1,
+      "explicacion": "Regla de colores en informes: usar colores PRIMARIOS (amarillo, azul, rojo), SECUNDARIOS (naranja, verde, violeta) o TERCIARIOS (café). Variaciones: solo 'claro' u 'oscuro', o acabados 'metálicos' (dorado, latón, bronce). PROHIBIDOS: términos subjetivos o inventados ('amarillo pollito', 'verde salmón', 'rojo fiesta', 'gris ojos de gato persa'). Son irreproducibles, no estandarizados y violan el principio de identidad de la cadena de custodia."
+    },
+    {
+      "id": 324,
+      "tema": "Mesa de la Ciencia",
+      "tipo": "CD",
+      "parcial": "P2",
+      "pregunta": "El Art. 430 del CPP establece 4 pilares que soportan la validez de una prueba científica en juicio (la 'Mesa de la Justicia'). Complete:\n\n1. __________: la prueba puede ser cuestionada e impugnada\n2. __________: el procedimiento puede volver a ser analizado por otro laboratorio\n3. __________ máximo permitido: margen de error estadístico reconocido\n4. __________ por la comunidad científica internacional: el método debe estar estandarizado mundialmente",
+      "respuesta": "Refutabilidad / Revisión / Error o grado de incertidumbre / Aceptación",
+      "palabrasClave": [
+        "refutabilidad",
+        "revisión",
+        "error",
+        "incertidumbre",
+        "aceptación"
+      ],
+      "explicacion": "Los 4 pilares (Art. 430 CPP): REFUTABILIDAD (puede ser contradicha/impugnada), REVISIÓN (puede volver a analizarse por otro laboratorio certificado con el mismo método), GRADO DE INCERTIDUMBRE/ERROR MÁXIMO PERMITIDO (margen estadístico reconocido del análisis), ACEPTACIÓN POR LA COMUNIDAD CIENTÍFICA INTERNACIONAL (el método debe estar estandarizado mundialmente). Una prueba que no cumpla estos 4 pilares cae en juicio."
+    },
+    {
+      "id": 325,
+      "tema": "Mesa de la Ciencia",
+      "tipo": "CC",
+      "parcial": "P2",
+      "pregunta": "ANÉCDOTA — El Avión y el Ciervo:\nUna aseguradora debía pagar si un avión chocaba con 'un ave'. Tras un accidente, el laboratorio de la aseguradora determinó que el tejido en la turbina era de un ciervo (buscando no pagar). Los investigadores de la aerolínea aplicaron refutabilidad: descubrieron que el ciervo estaba cubierto de ácido clorhídrico (del estómago de un ave de rapiña). Conclusión: un águila se tragó el ciervo y el avión chocó contra el águila.\n\n¿Qué pilares de la Mesa de la Ciencia se aplicaron y cuál es la enseñanza?",
+      "respuesta": "Refutabilidad y Revisión / nunca tragar entero / laboratorio certificado independiente",
+      "palabrasClave": [
+        "refutabilidad",
+        "revisión",
+        "certificado",
+        "tragar entero"
+      ],
+      "explicacion": "Se aplicaron REFUTABILIDAD (el primer resultado fue cuestionado y rebatido) y REVISIÓN (laboratorio independiente certificado, mismo método). La aseguradora tuvo que pagar porque el tejido del ciervo era el desayuno del águila que chocó con el avión. Enseñanza del docente: 'Nunca tragar entero'. Toda prueba científica puede y debe ser refutada. Si el primer laboratorio era el de la parte interesada, la revisión independiente garantiza la verdad."
+    },
+    {
+      "id": 326,
+      "tema": "Mesa de la Ciencia",
+      "tipo": "TF",
+      "parcial": "P2",
+      "pregunta": "AFIRMACIÓN: 'Si una prueba científica no puede ser refutada ni revisada por un laboratorio externo, eso la hace más confiable porque significa que es irrebatible.'",
+      "respuesta": false,
+      "explicacion": "FALSO. En la ciencia forense, una prueba que NO puede ser REFUTADA ni REVISADA no es más confiable — es INVÁLIDA. La refutabilidad es condición necesaria del conocimiento científico (Karl Popper). Una prueba irrefutable no es ciencia, es dogma. El sistema acusatorio exige que la contraparte pueda contradecir cualquier elemento probatorio; de lo contrario se viola el principio de igualdad de armas."
+    },
+    {
+      "id": 327,
+      "tema": "Escena del Crimen",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Cuál es el origen etimológico de la palabra 'escena' en el contexto criminalístico?",
+      "opciones": [
+        "Del griego 'eskena', que significa 'lugar de muerte'",
+        "Del latín 'scaena', relacionado con el escenario teatral histórico donde se juzgaba, humillaba o ejecutaba a los hombres ante el público",
+        "Del inglés 'scene of crime', adoptado en Colombia en 2004 con el SPOA",
+        "Del latín 'scena' que significa 'lugar de evidencia'"
+      ],
+      "respuesta": 1,
+      "explicacion": "ESCENA proviene de 'escenario' o 'teatro'. Históricamente, el escenario era el lugar público (cadalso, patíbulo, púlpito) donde en la antigüedad se juzgaba, humillaba o ejecutaba a los hombres ante el pueblo. Hoy, la ESCENA o LUGAR DE LOS HECHOS (L.H.) es el espacio físico donde ocurre la dinámica de un hecho violento o delictivo y donde el investigador recolecta la evidencia."
+    },
+    {
+      "id": 328,
+      "tema": "Escena del Crimen",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Cómo se clasifica el lugar de los hechos según su naturaleza espacial?",
+      "opciones": [
+        "Urbano, rural, fronterizo e internacional",
+        "Abierto, cerrado, mixto, móvil y ciberespacio",
+        "Primario, secundario, terciario y cuaternario",
+        "Simple, compuesto, complejo y virtual"
+      ],
+      "respuesta": 1,
+      "explicacion": "Clasificación del Lugar de los Hechos: ABIERTO (calles, potreros, vías públicas), CERRADO (apartamentos, bodegas, ascensores), MIXTO (combina abierto y cerrado, ej. decapitación dentro de una casa cuya cabeza es arrojada a la calle), MÓVIL (trenes, aviones, vehículos, cruceros), CIBERESPACIO (entornos digitales y redes). Esta clasificación determina el protocolo de acordonamiento y procesamiento."
+    },
+    {
+      "id": 329,
+      "tema": "Escena del Crimen",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Cuál es la diferencia entre Escena PRIMARIA y Escena SECUNDARIA?",
+      "opciones": [
+        "Primaria: la más importante. Secundaria: la menos importante",
+        "Primaria: donde ocurrieron los acontecimientos principales de violencia. Secundaria: lugar relacionado con nexo más distante (donde se arrojó el arma, donde se abandonó el vehículo de huida)",
+        "Primaria: la primera escena en ser descubierta. Secundaria: la descubierta posteriormente",
+        "Primaria: donde está el cuerpo. Secundaria: donde está el arma"
+      ],
+      "respuesta": 1,
+      "explicacion": "ESCENA PRIMARIA: sitio exacto donde ocurrieron los hechos principales de violencia (donde se disparó el arma, donde cayó el cuerpo). ESCENA SECUNDARIA: lugar relacionado con nexo más distante: basurero donde arrojaron el arma, paraje donde abandonaron el vehículo de huida. El docente ilustra esto con el atentado del 7 de agosto: la Casa de Nariño era la escena primaria; los barrios donde cayeron los misiles desviados eran escenas secundarias."
+    },
+    {
+      "id": 330,
+      "tema": "Escena del Crimen",
+      "tipo": "CD",
+      "parcial": "P2",
+      "pregunta": "Complete los dos tipos de acordonamiento obligatorios en cualquier escena del crimen:\n\nCordón de __________: área crítica desde el centro del crimen hasta la evidencia más distante; solo ingresa la Policía Judicial\nCordón de __________: perímetro externo de seguridad donde se ubican laboratorios móviles, primer respondiente, ministerio público, prensa y familiares",
+      "respuesta": "Afectación / Incidencia",
+      "palabrasClave": [
+        "afectación",
+        "incidencia"
+      ],
+      "explicacion": "CORDÓN DE AFECTACIÓN: zona crítica que va desde el epicentro del crimen hasta el último elemento de evidencia hallado. Solo ingresa la POLICÍA JUDICIAL. CORDÓN DE INCIDENCIA: perímetro externo de seguridad donde se ubican laboratorios móviles, primer respondiente (policía de vigilancia), ministerio público, prensa y familiares. Violar cualquiera de las cintas: multa hasta 50 salarios mínimos + 5 días de arresto (Art. 143/205 CPP)."
+    },
+    {
+      "id": 331,
+      "tema": "Escena del Crimen",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "En un atentado terrorista con explosivos, ¿cuántos cordones de seguridad se instalan y cómo se calculan?",
+      "opciones": [
+        "2 cordones: afectación e incidencia, igual que en cualquier escena",
+        "3 cordones: D1, D2 e interno",
+        "4 cordones: D1 (epicentro hasta último elemento), D2 (mitad del D1), Interno (D1+D2) y Externo (3 metros adicionales)",
+        "5 cordones según el nivel de peligrosidad del explosivo"
+      ],
+      "respuesta": 2,
+      "explicacion": "En atentados terroristas con explosivos: 4 CORDONES. D1: desde el epicentro/cráter hasta el último elemento hallado (ondas expansivas). D2: la mitad de la distancia D1. INTERNO: sumatoria matemática D1+D2. EXTERNO: 3 metros adicionales al interno. Ejemplo: si D1=25m → D2=12,5m → Interno=37,5m → Externo=40,5m. Prohibido usar radios o flash fotográfico (explosivos fotosensibles o de radiofrecuencia)."
+    },
+    {
+      "id": 332,
+      "tema": "Escena del Crimen",
+      "tipo": "TF",
+      "parcial": "P2",
+      "pregunta": "AFIRMACIÓN: 'En la escena de un atentado terrorista con explosivos, los peritos pueden usar sus radios de comunicación normales y hacer fotografías con flash para documentar la evidencia.'",
+      "respuesta": false,
+      "explicacion": "FALSO. En escenas de atentados con explosivos está ESTRICTAMENTE PROHIBIDO: (1) usar RADIOS de comunicación (existen explosivos que se activan por radiofrecuencia), (2) fotografías con FLASH (existen explosivos fotosensibles). También se prohíbe ropa sintética que genere fricción o estática. Los peritos deben usar trajes especiales de algodón antiestático. El incumplimiento puede provocar una segunda explosión."
+    },
+    {
+      "id": 333,
+      "tema": "Policía Judicial",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Quiénes ejercen las Funciones PERMANENTES de Policía Judicial?",
+      "opciones": [
+        "Todos los policías uniformados del país con disponibilidad 24/7",
+        "El CTI (Cuerpo Técnico de Investigación de la Fiscalía) y la SIJIN/DIJIN de la Policía Nacional, dedicados exclusivamente a la investigación",
+        "Los bomberos y la defensa civil en situaciones de desastre",
+        "Cualquier profesional con título universitario en ciencias forenses"
+      ],
+      "respuesta": 1,
+      "explicacion": "FUNCIONES PERMANENTES: ejercidas por el CTI (Cuerpo Técnico de Investigación de la Fiscalía) y la SIJIN/DIJIN de la Policía Nacional. Son servidores con disponibilidad 24/7 DEDICADOS EXCLUSIVAMENTE a la investigación criminal. No hacen vigilancia rutinaria; su función principal es la investigación técnico-científica."
+    },
+    {
+      "id": 334,
+      "tema": "Policía Judicial",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Cuándo se activan las Funciones SUPLETORIAS de Policía Judicial y quiénes las ejercen?",
+      "opciones": [
+        "Cuando el CTI está saturado de casos; las ejerce cualquier funcionario público",
+        "Exclusivamente en lugares remotos donde no hay Policía Judicial permanente; las ejerce la Policía Nacional de vigilancia como primer respondiente",
+        "En casos de desastre natural; las ejerce el Ejército Nacional",
+        "Cuando el fiscal lo ordena expresamente; cualquier ciudadano capacitado"
+      ],
+      "respuesta": 1,
+      "explicacion": "FUNCIONES SUPLETORIAS: se activan EXCLUSIVAMENTE en lugares del territorio nacional donde NO HAY servidores permanentes de Policía Judicial (pueblos remotos, zonas apartadas). Las ejerce la POLICÍA NACIONAL DE VIGILANCIA (policías uniformados) como primer respondiente: deben acordonar, y en flagrancia, recolectar y embalar evidencia transitoriamente hasta que llegue el CTI o SIJIN."
+    },
+    {
+      "id": 335,
+      "tema": "Policía Judicial",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Qué son las Funciones ESPECIALES de Policía Judicial y cuál es el ejemplo singular que ocurre en Medellín?",
+      "opciones": [
+        "Son funciones del Ejército para combatir el terrorismo; en Medellín las ejerce el Batallón Bomboná",
+        "Son otorgadas a entidades para investigar delitos en su competencia natural; en Medellín el METRO tiene esta función para atender casos en vías férreas por el riesgo eléctrico especial",
+        "Son funciones temporales asignadas a peritos privados; en Medellín las ejercen contadores en casos de fraude",
+        "Son las funciones de la Procuraduría para investigar funcionarios públicos"
+      ],
+      "respuesta": 1,
+      "explicacion": "FUNCIONES ESPECIALES: otorgadas a entidades públicas para investigar delitos DENTRO DE SU COMPETENCIA NATURAL (Policía de Tránsito para accidentes, INPEC en cárceles, Procuraduría, Inspectores). En Medellín: el METRO tiene esta función especial para atender suicidios o arrollamientos en las vías férreas, porque los peritos del CTI no conocen el manejo del alto riesgo eléctrico de las plataformas de 750 voltios."
+    },
+    {
+      "id": 336,
+      "tema": "Policía Judicial",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Cómo opera la Policía Judicial Internacional y qué es el 'derecho de bandera'?",
+      "opciones": [
+        "Opera a través de INTERPOL (Lyon, Francia) y EUROPOL. El derecho de bandera establece que embajadas, consulados, aeronaves y barcos son extensión soberana del país al que pertenecen, sin importar dónde estén",
+        "Opera directamente entre países sin organismos intermediarios. El derecho de bandera solo aplica a barcos",
+        "Opera exclusivamente por tratados de extradición. El derecho de bandera es un concepto obsoleto",
+        "Solo opera en países de la OTAN. El derecho de bandera aplica únicamente a aeronaves militares"
+      ],
+      "respuesta": 0,
+      "explicacion": "POLICÍA JUDICIAL INTERNACIONAL: opera a través de INTERPOL (sede en Lyon, Francia) y EUROPOL. DERECHO DE BANDERA: las embajadas, consulados, aeronaves y barcos son extensiones físicas del territorio soberano del país al que pertenecen. Ejemplo del docente: 'Carlos el Chacal' (Ilich Ramírez) fue sedado en Sudán y subido a un avión francés — desde ese momento legalmente pisaba Francia, permitiendo su juzgamiento y cadena perpetua sin extradición formal."
+    },
+    {
+      "id": 337,
+      "tema": "Noticia Criminal",
+      "tipo": "CD",
+      "parcial": "P2",
+      "pregunta": "La Noticia Criminal tiene tres tipos de fuentes. Complete:\n\nFuentes __________: Denuncia (Arts. 67-69 CPP) y Querella (Arts. 69-74 CPP)\nFuentes No __________: llamadas al 123, panfletos, WhatsApp, Instagram — requieren verificación previa\nFuentes __________: Art. 75 — peticiones del Procurador por delitos de colombianos en el extranjero",
+      "respuesta": "Formales / Formales o No Formales / Especiales",
+      "palabrasClave": [
+        "formales",
+        "no formales",
+        "especiales"
+      ],
+      "explicacion": "Fuentes de la Noticia Criminal: FORMALES (Denuncia: cualquier persona, Art. 67-69 CPP; Querella: solo la víctima o su representante, caducidad 6 meses, Art. 69-74 CPP). NO FORMALES (llamadas al 123, panfletos, WhatsApp, correos, Instagram — requieren verificación por la patrulla del cuadrante antes de despachar Policía Judicial). ESPECIALES (Art. 75: peticiones del Procurador General por delitos cometidos por colombianos en el extranjero o contra colombianos)."
+    },
+    {
+      "id": 338,
+      "tema": "Noticia Criminal",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Cuál es la diferencia entre DENUNCIA y QUERELLA como fuentes formales de la Noticia Criminal?",
+      "opciones": [
+        "Son sinónimas; solo se diferencian en el formulario que se usa",
+        "Denuncia: puede interponerla cualquier persona. Querella: solo la víctima o su representante, tiene caducidad de 6 meses",
+        "Denuncia: solo la puede hacer el fiscal. Querella: cualquier ciudadano",
+        "Denuncia: delitos graves. Querella: delitos menores, sin diferencia en quién la formula"
+      ],
+      "respuesta": 1,
+      "explicacion": "DENUNCIA (Arts. 67-69 CPP): puede interponerla CUALQUIER PERSONA. QUERELLA (Arts. 69-74 CPP): ÚNICAMENTE la víctima de la conducta punible o su representante legal. Además, la querella tiene un tiempo de CADUCIDAD de 6 MESES tras la ocurrencia del hecho. Vencido ese término, no puede iniciarse la acción penal por esa vía."
+    },
+    {
+      "id": 339,
+      "tema": "Noticia Criminal",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "Según el Art. 68 del CPP, ¿quiénes están exonerados del deber de denunciar?",
+      "opciones": [
+        "Solo los menores de edad y los enfermos mentales",
+        "Nadie está obligado a denunciarse a sí mismo, ni a su cónyuge o familiares cercanos, ni cuando el conocimiento está amparado por secreto profesional (médicos, psicólogos, sacerdotes, abogados)",
+        "Solo los funcionarios públicos cuando el delito involucra a sus superiores",
+        "Todo el mundo tiene el deber absoluto de denunciar; no hay excepciones"
+      ],
+      "respuesta": 1,
+      "explicacion": "Art. 68 CPP — Exonerados del deber de denunciar: (1) nadie debe declarar contra SÍ MISMO, (2) no contra su CÓNYUGE o familiares cercanos, (3) cuando el conocimiento está amparado por SECRETO PROFESIONAL: médicos, psicólogos, sacerdotes y abogados. Este artículo protege derechos fundamentales: no autoincriminación, unidad familiar e integridad de profesiones esenciales."
+    },
+    {
+      "id": 340,
+      "tema": "Noticia Criminal",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Qué procedimiento exigen las fuentes NO FORMALES (llamadas al 123, WhatsApp, Instagram) antes de despachar a la Policía Judicial?",
+      "opciones": [
+        "Ninguno: se despacha inmediatamente la Policía Judicial para ganar tiempo",
+        "Un proceso de verificación: enviar la patrulla de vigilancia del cuadrante más cercano (o el Ejército en zonas de conflicto) para constatar que el hecho delictivo es real",
+        "Verificación judicial: el fiscal debe autorizar el desplazamiento",
+        "Registro ante el NUNC antes de cualquier actuación"
+      ],
+      "respuesta": 1,
+      "explicacion": "Las fuentes NO FORMALES exigen VERIFICACIÓN PREVIA: se envía la PATRULLA DE VIGILANCIA DEL CUADRANTE más cercano (o el Ejército en zonas de conflicto armado) para constatar que el hecho es real antes de despachar los peritos de Policía Judicial. Esto evita desplazamientos innecesarios y previene que la Policía Judicial llegue a escenas falsas o manipuladas, preservando la economía procesal."
+    },
+    {
+      "id": 341,
+      "tema": "Primer Respondiente",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "Según la Resolución 2369 de 2016, ¿cuál es la diferencia exacta entre PRIMER RESPONSABLE y PRIMER RESPONDIENTE?",
+      "opciones": [
+        "Son sinónimos: ambos son la primera persona que llega a la escena",
+        "Primer Responsable: servidor público o particular que, por sus funciones, entra en contacto con los EMP y es responsable de su recolección, preservación y entrega. Primer Respondiente: primera persona que llega, observa, custodia e informa",
+        "Primer Responsable: el fiscal que abre la investigación. Primer Respondiente: el policía que llega primero",
+        "Primer Responsable: responde disciplinariamente por errores. Primer Respondiente: solo testifica"
+      ],
+      "respuesta": 1,
+      "explicacion": "Resolución 2369/2016 — PRIMER RESPONSABLE: servidor público o particular que por el cumplimiento de sus funciones entra en contacto con los EMP y es responsable de su RECOLECCIÓN, PRESERVACIÓN Y ENTREGA (Policía Nacional, bomberos, defensa civil). PRIMER RESPONDIENTE: simplemente la primera persona que llega al lugar, OBSERVA, CUSTODIA para evitar alteraciones e INFORMA a las autoridades. No tiene responsabilidad de recolección."
+    },
+    {
+      "id": 342,
+      "tema": "Primer Respondiente",
+      "tipo": "CC",
+      "parcial": "P2",
+      "pregunta": "ANÉCDOTA — El Video de la Mujer y el Caso del DAS:\nEn un video viral, la Policía Judicial procesa durante hora y media una escena donde una mujer había recibido un disparo — tomando fotos y recolectando evidencia — hasta que la mujer comienza a respirar. En el DAS, procesaban un cadáver de noche y al tomar una foto con flash, el 'cuerpo' se despertó asustado.\n\n¿Qué delito cometieron los investigadores y cuál es la regla que debieron aplicar primero?",
+      "respuesta": "omisión de socorro / constatar signos vitales antes de procesar / primer paso en cualquier escena",
+      "palabrasClave": [
+        "omisión",
+        "socorro",
+        "signos vitales",
+        "constatar"
+      ],
+      "explicacion": "DELITO: OMISIÓN DE SOCORRO. Antes de procesar cualquier escena, el PRIMER PASO es CONSTATAR SI EL CUERPO ESTÁ SIN VIDA. Si no se hace esto, los investigadores incurren en omisión de socorro, enfrentando procesos disciplinarios y millonarias demandas contra el Estado. La regla: verificar signos vitales → si hay vida, atención médica PRIMERO; si no hay vida, proceder con el protocolo forense."
+    },
+    {
+      "id": 343,
+      "tema": "Primer Respondiente",
+      "tipo": "CC",
+      "parcial": "P2",
+      "pregunta": "ANÉCDOTA — El Cuerpo Envenenado y la Granada en los Calzoncillos:\nUn patrullero inexperto halló un cuerpo y fue a quitarle la ropa. Un capitán notó que el cuerpo tenía una trampa cazabobos (granada conectada por alambre). El capitán lo ató desde lejos y tiró; la bomba explotó. En Medicina Legal, al quitarle ropa a un cadáver, una granada oculta detonó.\n\n¿Cuál es la regla de oro para el investigador en estas situaciones?",
+      "respuesta": "pensar como el delincuente / desconfiar de la escena / procedimientos seguros / trampas explosivas",
+      "palabrasClave": [
+        "trampa",
+        "desconfiar",
+        "pensar",
+        "delincuente",
+        "seguridad"
+      ],
+      "explicacion": "Regla de oro: el investigador debe PENSAR COMO EL DELINCUENTE y DESCONFIAR SIEMPRE DE LA ESCENA. En zonas de conflicto armado los cuerpos pueden tener trampas cazabobos. Procedimiento: examinar visualmente antes de tocar, usar procedimientos seguros (ganchos, cuerdas desde distancia segura) ante posibles trampas. Enseñanza: la escena puede ser un arma secundaria diseñada específicamente para matar al investigador."
+    },
+    {
+      "id": 344,
+      "tema": "Embalaje y Bioseguridad",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Por qué está PROHIBIDO embalar evidencia en bolsas de PLÁSTICO y qué material debe usarse?",
+      "opciones": [
+        "El plástico es caro y difícil de conseguir; se usa cartón reciclado",
+        "El plástico es higroscópico: hace sudar la evidencia generando humedad, bacterias y contaminación cruzada. Debe usarse bolsa de papel Manila o Kraft (materiales transpirables)",
+        "El plástico no permite ver el contenido; se usa bolsa transparente de tela",
+        "El plástico no tiene regulación específica; cualquier contenedor sellado es válido"
+      ],
+      "respuesta": 1,
+      "explicacion": "BOLSA DE PLÁSTICO PROHIBIDA: es HIGROSCÓPICA — hace sudar la evidencia generando HUMEDAD, BACTERIAS y CONTAMINACIÓN CRUZADA química y biológica, destruyendo la capacidad probatoria. OBLIGATORIO: bolsas de PAPEL MANILA o KRAFT — materiales transpirables que permiten que la evidencia respire sin acumular humedad. Excepción: líquidos que van en contenedores herméticos específicos."
+    },
+    {
+      "id": 345,
+      "tema": "Embalaje y Bioseguridad",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Por qué el traje del perito del CTI es BLANCO, pero la bolsa contenedora del cadáver es NEGRA?",
+      "opciones": [
+        "Es solo una convención estética sin justificación técnica",
+        "Traje blanco: asepsia y permite ver evidencia microscópica que salpique al investigador. Bolsa negra: contraste visual para detectar evidencia que caiga dentro (vellos, fibras, dientes) al abrirla en la morgue",
+        "Traje blanco: para que el fiscal lo identifique fácilmente. Bolsa negra: por tradición cultural de luto",
+        "Traje blanco: refleja el calor en exterior. Bolsa negra: absorbe calor para preservar el cuerpo"
+      ],
+      "respuesta": 1,
+      "explicacion": "TRAJE BLANCO: por protocolos médicos de ASEPSIA y porque permite detectar visualmente si alguna evidencia microscópica (sangre, fibra, fluido) salpicó al investigador durante el procesamiento. BOLSA NEGRA ('fundidor'): porque el COLOR NEGRO INTENSO hace CONTRASTE — si dentro de la bolsa cae un vello, una fibra, un diente o cualquier evidencia de la víctima, el fondo negro permite visualizarlo de inmediato al abrirla en la morgue."
+    },
+    {
+      "id": 346,
+      "tema": "Formatos FPJ",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Cuáles son los formatos FPJ para: Primer Responsable, Capturados, Entrevistas e Inspección a cadáver?",
+      "opciones": [
+        "FPJ 1, FPJ 2, FPJ 3, FPJ 4 respectivamente",
+        "FPJ 4 (Primer Responsable), FPJ 5 o 6 (Capturados), FPJ 14 (Entrevistas), FPJ 10 (Inspección técnica a cadáver)",
+        "FPJ 7 (Primer Responsable), FPJ 8 (Capturados), FPJ 9 (Entrevistas), FPJ 10 (Cadáver)",
+        "No hay formatos estandarizados; cada entidad usa su propio formato"
+      ],
+      "respuesta": 1,
+      "explicacion": "Codificación de formatos FPJ del Manual de Policía Judicial: FPJ 4 = Primer Responsable, FPJ 5 o 6 = Capturados, FPJ 14 = Entrevistas, FPJ 10 = Inspección técnica a cadáver. El número 007 corresponde al Rótulo de EMP y EF (cadena de custodia). El conocimiento de estos formatos es obligatorio para la labor investigativa."
+    },
+    {
+      "id": 347,
+      "tema": "Formatos FPJ",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Qué es la NARRATIVA como procedimiento de Policía Judicial y desde cuándo comienza?",
+      "opciones": [
+        "Es el informe final que se presenta ante el juez al terminar la investigación",
+        "Es una descripción clara, precisa y cronológica de los hechos que comienza desde el momento exacto en que la PJ recibe la noticia criminal, registrando todos los tiempos y novedades del desplazamiento hacia la escena",
+        "Es el relato del testigo presencial transcrito por el investigador",
+        "Es el informe del perito sobre los hallazgos en el laboratorio"
+      ],
+      "respuesta": 1,
+      "explicacion": "NARRATIVA: descripción clara, PRECISA y CRONOLÓGICA de los hechos elaborada por la Policía Judicial. COMIENZA desde el momento exacto en que reciben la NOTICIA CRIMINAL — no cuando llegan a la escena. Debe registrar todos los tiempos y novedades del desplazamiento: hora de salida, ruta, contratiempos (pinchazos, choques, trancones). Esta continuidad cronológica es clave para la cadena de custodia."
+    },
+    {
+      "id": 348,
+      "tema": "Formatos FPJ",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Cómo se denomina técnicamente el levantamiento de un cuerpo que fue hallado ahorcado?",
+      "opciones": [
+        "Procedimiento de desensamblaje postural",
+        "Procedimiento de descolgamiento",
+        "Protocolo de desanudamiento forense",
+        "Levantamiento de cuerpo en posición de suspensión"
+      ],
+      "respuesta": 1,
+      "explicacion": "Se denomina procedimiento de DESCOLGAMIENTO. El término técnico es obligatorio en los informes periciales. Usar el término correcto garantiza la precisión documental y evita ambigüedades que puedan ser explotadas por la defensa en juicio. El docente enfatiza la importancia de la nomenclatura técnica exacta en todo procedimiento forense."
+    },
+    {
+      "id": 349,
+      "tema": "Percepción y Memoria",
+      "tipo": "CD",
+      "parcial": "P2",
+      "pregunta": "Defina los tres procesos perceptuales del investigador en orden:\n\n1. __________: respuesta física primaria de los sentidos ante el estímulo\n2. __________: interpretación que hace el cerebro, variable según el ángulo del observador\n3. __________: acto mental de clasificar lo percibido de forma general",
+      "respuesta": "Sensación / Percepción / Registro",
+      "palabrasClave": [
+        "sensación",
+        "percepción",
+        "registro"
+      ],
+      "explicacion": "Cadena perceptual: SENSACIÓN (respuesta física primaria de los sentidos: escuchar, degustar, olfatear), PERCEPCIÓN (interpretación cerebral de esas formas sensoriales — varía drásticamente según el ángulo y horizonte del observador; ejemplo: el número de disparos escuchados cambia si hay un barrancón entre el testigo y el arma), REGISTRO (acto mental de clasificar lo percibido de forma general: identificar cuántas personas son hombres o mujeres en un recinto)."
+    },
+    {
+      "id": 350,
+      "tema": "Percepción y Memoria",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Cuál es la diferencia entre memoria SEMÁNTICA y memoria EPISÓDICA?",
+      "opciones": [
+        "Semántica: recuerdos visuales. Episódica: recuerdos auditivos",
+        "Semántica: aprendida de forma racional e instruida (tablas de multiplicar, anatomía). Episódica: generada por eventos de alto impacto o trauma (accidentes, abusos, violencia) — deja huella imborrable a largo plazo",
+        "Son sinónimas; ambas se refieren a la memoria de largo plazo",
+        "Semántica: memoria de corto plazo. Episódica: memoria de largo plazo"
+      ],
+      "respuesta": 1,
+      "explicacion": "MEMORIA SEMÁNTICA: aprendida de forma racional, instruida y estructurada (tablas de multiplicar, cuántos huesos tiene el cuerpo). MEMORIA EPISÓDICA: generada por eventos de ALTO IMPACTO, trauma o violencia física (accidentes de tránsito, abusos sexuales, secuestros, explosiones). Deja secuela o 'expresión' IMBORRABLE a largo plazo. Ejemplo del docente: su accidente con explosivos donde perdió parte de la mano quedó grabado para siempre — ilustra cómo los eventos traumáticos fijan recuerdos permanentes."
+    },
+    {
+      "id": 351,
+      "tema": "Percepción y Memoria",
+      "tipo": "CC",
+      "parcial": "P2",
+      "pregunta": "ANÉCDOTA — El Sospechoso en el Bus:\nEn Medellín, un sospechoso huyó en bus. Los investigadores entrevistaron despachadores. En lugar de preguntar por el color de la ropa (memoria a corto plazo que se olvida), buscaron un detalle inusual. Un despachador recordó al sujeto porque tenía las manos empapadas de sudor.\n\n¿Qué principio de la memoria ilustra esta anécdota y cuál es la técnica de interrogatorio que debe aplicar el investigador?",
+      "respuesta": "memoria episódica / preguntar por detalles de alto impacto / no memoria semántica de corto plazo",
+      "palabrasClave": [
+        "episódica",
+        "impacto",
+        "detalle",
+        "interrogatorio"
+      ],
+      "explicacion": "Ilustra la MEMORIA EPISÓDICA: los detalles de alto impacto o inusuales quedan grabados permanentemente; los datos rutinarios (color de ropa) se borran rápido (memoria a corto plazo). TÉCNICA DE INTERROGATORIO: el investigador no pregunta '¿qué ropa llevaba?' sino busca detalles de ALTO IMPACTO que activen la memoria episódica del testigo. Las manos empapadas de sudor fueron ese detalle inusual que permitió la identificación."
+    },
+    {
+      "id": 352,
+      "tema": "Percepción y Memoria",
+      "tipo": "CC",
+      "parcial": "P2",
+      "pregunta": "ANÉCDOTA — El Noticiero RCN (31 de octubre):\nUn testigo dijo haber escuchado el disparo cuando 'empezó el noticiero de RCN' (asumiendo 7:00 pm). Las cámaras mostraron al sospechoso huyendo a las 7:02 pm. Sin embargo, ese día el noticiero empezó a las 7:30 pm por una alocución presidencial.\n\n¿Qué concepto metodológico destruye esta coartada y qué regla del investigador se aplica?",
+      "respuesta": "verificación documental / no confiar en percepción subjetiva / línea de tiempo objetiva",
+      "palabrasClave": [
+        "verificar",
+        "objetiva",
+        "subjetiva",
+        "percepción",
+        "coartada"
+      ],
+      "explicacion": "El concepto que destruye la coartada es la VERIFICACIÓN DOCUMENTAL Y OBJETIVA. El investigador no confía en la PERCEPCIÓN SUBJETIVA de los testigos (el noticiero 'siempre empieza a las 7:00 pm'). Solicita el INFORME A BOGOTÁ verificando la programación real del canal ese día específico. La diferencia fue 28 minutos que aniquilaron la coartada del sospechoso. Regla: el investigador NO CONFÍA, VERIFICA."
+    },
+    {
+      "id": 353,
+      "tema": "Percepción y Memoria",
+      "tipo": "CC",
+      "parcial": "P2",
+      "pregunta": "EJERCICIO DEL DOCENTE — La Pecera y el Huevo con H:\nEl docente presenta: 'Un cuarto con agua en el suelo, un cuerpo sin vida y uno con vida a unos metros.' Los estudiantes asumen homicidio. Respuesta: un gato tumbó la pecera y mató al pez.\nTambién pregunta repetidamente si 'huevo se escribe con H o con G', llevando a los estudiantes a inventar reglas.\n\n¿Qué enseñanza sobre la percepción se deriva de ambos ejercicios?",
+      "respuesta": "sesgo de percepción / la mente asume realidades incompletas / el investigador verifica no asume",
+      "palabrasClave": [
+        "sesgo",
+        "percepción",
+        "asumir",
+        "verificar",
+        "mente"
+      ],
+      "explicacion": "Ambos ejercicios demuestran el SESGO DE PERCEPCIÓN: la mente humana proyecta hipótesis preconcebidas y asume realidades incompletas basándose en patrones previos. En la pecera: asumieron homicidio humano sin verificar. En el huevo: inventaron reglas gramaticales para justificar una duda que el propio docente sembró. Enseñanza: el investigador debe hacer PREGUNTAS ABIERTAS, basar decisiones en CIENCIA OBJETIVA y nunca asumir sin verificar."
+    },
+    {
+      "id": 354,
+      "tema": "Percepción y Memoria",
+      "tipo": "CC",
+      "parcial": "P2",
+      "pregunta": "EJERCICIO DEL DOCENTE — Las Líneas A y B:\nEl docente muestra dos líneas con flechas en los extremos. El cerebro percibe una como más larga. Al medirlas con regla: ambas miden exactamente igual (14-15 cm).\n\n¿Qué demuestra este ejercicio sobre la percepción y qué instrumento obliga a usar en juicio?",
+      "respuesta": "percepción humana es propensa a engaños / instrumentos de medición exactos / planimetría / certeza",
+      "palabrasClave": [
+        "percepción",
+        "engaño",
+        "medición",
+        "instrumentos",
+        "certeza",
+        "planimetría"
+      ],
+      "explicacion": "La ilusión óptica de las líneas demuestra que la PERCEPCIÓN HUMANA ES PROPENSA A ENGAÑOS visuales. 'Adivinar' el tamaño basándose en los sentidos puede obstruir la justicia. En juicio, para alcanzar la CERTEZA es OBLIGATORIO el uso de INSTRUMENTOS DE MEDICIÓN EXACTOS y PLANIMETRÍA. El cerebro miente; los instrumentos calibrados no. Por eso el Art. 420 CPP exige que los instrumentos del perito estén calibrados cada 3 meses."
+    },
+    {
+      "id": 355,
+      "tema": "Acústica Forense",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿En qué orden CORRECTO viaja el sonido de más lento a más rápido según el medio de transmisión?",
+      "opciones": [
+        "Sólido → líquido → gas (el gas es el más rápido)",
+        "Gas → líquido → sólido (el sólido es el más rápido)",
+        "Líquido → gas → sólido",
+        "El sonido viaja a la misma velocidad en todos los medios"
+      ],
+      "respuesta": 1,
+      "explicacion": "Las ondas de sonido viajan: GAS (aire: ~340 m/s) → LÍQUIDO (agua: más rápido que el aire) → SÓLIDO (hierro, madera, pavimento: velocidad máxima). Aplicación forense: un testigo junto a las vías del tren escucha el tren mucho antes que uno alejado; en el agua las explosiones son más destructivas. Un testigo con un barrancón entre él y el disparo escucha distinto que uno sin barrera — explica por qué dos testigos del mismo hecho reportan diferente número de disparos."
+    },
+    {
+      "id": 356,
+      "tema": "Acústica Forense",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Cuáles son las vistas planimétricas principales para fijar una escena o describir un cuerpo?",
+      "opciones": [
+        "Norte, Sur, Este y Oeste",
+        "Superior (desde arriba), frontal, posterior, inferior, lateral derecho y lateral izquierdo. El corte transversal divide en sección craneal (arriba) y caudal (abajo)",
+        "Exterior, interior, perimetral y central",
+        "Macroscópica, microscópica, lateral y cenital"
+      ],
+      "respuesta": 1,
+      "explicacion": "VISTAS PLANIMÉTRICAS: SUPERIOR (vista desde arriba/cenital), FRONTAL, POSTERIOR, INFERIOR, LATERAL DERECHO y LATERAL IZQUIERDO. CORTE TRANSVERSAL ANATÓMICO: divide el cuerpo en SECCIÓN CRANEAL (de la cintura hacia arriba) y SECCIÓN CAUDAL (de la cintura hacia abajo). Estas vistas son obligatorias en la documentación fotográfica y topográfica de la escena para garantizar una reconstrucción tridimensional completa."
+    },
+    {
+      "id": 357,
+      "tema": "Casuística",
+      "tipo": "CC",
+      "parcial": "P2",
+      "pregunta": "ANÉCDOTA — El Atentado del 7 de Agosto (Posesión Presidencial):\nGrupos terroristas lanzaron misiles caseros hacia la Casa de Nariño. Por ser armas imprecisas, los cohetes cayeron en la Calle del Cartucho y otros barrios, matando civiles.\n\n¿Qué concepto sobre las escenas del crimen ilustra este hecho?",
+      "respuesta": "múltiples escenas secundarias desde un solo hecho / escena primaria vs secundaria",
+      "palabrasClave": [
+        "escena primaria",
+        "secundaria",
+        "múltiples",
+        "hecho único"
+      ],
+      "explicacion": "Ilustra cómo un SOLO HECHO CRIMINAL puede generar MÚLTIPLES ESCENAS SIMULTÁNEAS Y DISTANTES. La ESCENA PRIMARIA era la Casa de Nariño (objetivo del atentado). Las ESCENAS SECUNDARIAS eran cada lugar donde cayeron los misiles desviados (Calle del Cartucho y otros barrios). El investigador debe identificar y procesar todas las escenas relacionadas, aunque parezcan desconectadas geográficamente."
+    },
+    {
+      "id": 358,
+      "tema": "Casuística",
+      "tipo": "CC",
+      "parcial": "P2",
+      "pregunta": "ANÉCDOTA — Carlos el Chacal (Ilich Ramírez):\nFue localizado en Sudán, sedado por policías franceses usando a una mujer como cebo en un hotel, y subido a un avión comercial francés.\n\n¿Qué principio del derecho internacional permitió su juzgamiento en Francia sin tratado formal de extradición?",
+      "respuesta": "derecho de bandera / el avión es extensión soberana de Francia / desde que entró al avión estaba en Francia",
+      "palabrasClave": [
+        "bandera",
+        "soberanía",
+        "avión",
+        "extradición",
+        "territorio"
+      ],
+      "explicacion": "DERECHO DE BANDERA: un avión es una EXTENSIÓN SOBERANA del país cuya bandera lleva. Desde el segundo en que Ilich Ramírez fue introducido en la barriga del avión francés, LEGALMENTE ya pisaba territorio de Francia. Esto permitió juzgarlo y condenarlo a cadena perpetua sin necesidad de un engorroso proceso de extradición. Este mismo principio aplica a embajadas, consulados y barcos — son territorio soberano del país al que pertenecen."
+    },
+    {
+      "id": 359,
+      "tema": "Casuística",
+      "tipo": "CC",
+      "parcial": "P2",
+      "pregunta": "ANÉCDOTA — El Cartón con Sangre (Procedimientos Recursivos):\nUn joven herido plasmó su mano ensangrentada sobre un pedazo de cartón y huyó. El investigador, en lugar de raspar la sangre, se llevó el cartón entero como EMP.\n\n¿Qué concepto criminalístico ilustra esta anécdota y bajo qué condición es válido?",
+      "respuesta": "procedimientos recursivos / métodos no convencionales justificados técnicamente / salvar la prueba",
+      "palabrasClave": [
+        "recursivo",
+        "justificado",
+        "técnicamente",
+        "prueba",
+        "emergencia"
+      ],
+      "explicacion": "Ilustra los PROCEDIMIENTOS RECURSIVOS: en emergencias o situaciones no previstas por el protocolo estándar, se pueden usar métodos no convencionales (llevarse el cartón entero) SIEMPRE QUE se justifiquen TÉCNICAMENTE ante la defensa. El objetivo es SALVAR LA PRUEBA. La justificación debe ser sólida y documentada para que la defensa no la impugne. La criminalística requiere mente ágil y científica, no solo seguimiento ciego de protocolos."
+    },
+    {
+      "id": 360,
+      "tema": "Casuística",
+      "tipo": "CC",
+      "parcial": "P2",
+      "pregunta": "ANÉCDOTA — El Árbol de Navidad y el Accidente con Explosivos:\nEl docente relata que de niño derribó el árbol de Navidad al asustar al gato. Años después, como profesional, perdió parte de la mano al no descargar la energía estática antes de manipular un detonador.\n\n¿Qué tipo de memoria ilustran ambas historias y cuál es el protocolo de seguridad que violó?",
+      "respuesta": "memoria episódica / descarga electrostática antes de manipular detonadores / eventos traumáticos permanentes",
+      "palabrasClave": [
+        "episódica",
+        "electrostática",
+        "detonador",
+        "trauma",
+        "permanente"
+      ],
+      "explicacion": "Ambas historias ilustran la MEMORIA EPISÓDICA: los eventos traumáticos o de alto impacto quedan grabados PERMANENTEMENTE en el cerebro. PROTOCOLO VIOLADO en el accidente: descarga de la ENERGÍA ELECTROSTÁTICA del cuerpo ANTES de manipular un detonador eléctrico. La electricidad estática del cuerpo humano puede generar una chispa suficiente para detonar un detonador eléctrico sensible. Este caso es el ejemplo de aprendizaje por trauma que el docente usa para enseñar la memoria episódica."
+    },
+    {
+      "id": 361,
+      "tema": "Casuística",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "ANÉCDOTA — El Caso Colmenares:\n¿Por qué el docente menciona el caso Colmenares como ejemplo de verificación de evidencia ambiental (el agua)?",
+      "opciones": [
+        "Porque en ese caso se usó análisis de ADN en el río",
+        "Porque demuestra que el caudal de agua y las condiciones ambientales pueden determinar si un ser humano pudo sobrevivir o ser arrastrado, y toda hipótesis ambiental debe verificarse con métricas exactas (ej. caudal del río esa noche)",
+        "Porque el caso se resolvió gracias a evidencia de cámaras de seguridad",
+        "Porque ilustra el principio de intercambio de Locard en el agua"
+      ],
+      "respuesta": 1,
+      "explicacion": "El docente usa el caso Colmenares para ilustrar que la EVIDENCIA AMBIENTAL (nivel del río, caudal de agua, condiciones de la noche) debe verificarse con MÉTRICAS EXACTAS. ¿Cuánta agua había? ¿Era posible que ese caudal arrastrara a una persona? Estas preguntas requieren datos objetivos, no inferencias. La verificación ambiental rigurosa puede cambiar completamente la hipótesis de un caso."
+    },
+    {
+      "id": 362,
+      "tema": "Percepción y Memoria",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Cuál es la regla de oro para responder un interrogatorio de INDIVIDUALIZACIÓN en un juicio?",
+      "opciones": [
+        "Dar la mayor cantidad de información posible para demostrar conocimiento",
+        "Responder estricta y únicamente los datos objetivos preguntados, sin añadir apreciaciones subjetivas ni historias personales",
+        "Dar contexto adicional para que el juez comprenda mejor la situación",
+        "Siempre pedir que la pregunta se repita para ganar tiempo de análisis"
+      ],
+      "respuesta": 1,
+      "explicacion": "Regla de oro en interrogatorio de individualización: responder ESTRICTA Y ÚNICAMENTE los datos OBJETIVOS solicitados. Ejemplo del docente: si el juez pregunta '¿Qué es usted para mí?', no se responde 'usted es mi querido profesor' sino 'mi profesor'. El caso de Maduro en la audiencia ilustra esto: preguntaron por el NOMBRE y él respondió con su cargo y país. El testigo o perito que añade información no solicitada puede perjudicar el proceso."
+    },
+    {
+      "id": 363,
+      "tema": "Prueba Pericial",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "Según el Art. 420 del CPP, ¿qué obligación tienen los instrumentos de medición usados por el perito?",
+      "opciones": [
+        "Solo deben estar inventariados en el sistema de la entidad",
+        "Deben estar CALIBRADOS cada 3 meses; si no, la prueba será rechazada en juicio",
+        "Deben ser fabricados en Colombia para garantizar estándares nacionales",
+        "Solo deben calibrarse para el primer uso; no hay obligación de recalibración"
+      ],
+      "respuesta": 1,
+      "explicacion": "Art. 420 CPP: el perito debe contar con IDONEIDAD (saber, diseñar, conocimiento científico) y EXACTITUD. Todos los INSTRUMENTOS DE MEDICIÓN (básculas, distanciómetros, etc.) deben estar calibrados CADA 3 MESES. Si en juicio se demuestra que el instrumento no estaba calibrado, la PRUEBA SERÁ RECHAZADA. La defensa puede solicitar el certificado de calibración como parte de su estrategia de impugnación."
+    },
+    {
+      "id": 364,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Cómo se clasifican las evidencias corporales en la escena del crimen?",
+      "opciones": [
+        "Solo sangre y fluidos biológicos",
+        "Incluyen cicatrices, tatuajes, lesiones visibles, sustancias en el organismo (alcohol, alcaloides), contenido gástrico y cualquier elemento que forme parte del cuerpo humano",
+        "Solo ADN y huellas dactilares",
+        "Exclusivamente las evidencias recolectadas por el médico forense"
+      ],
+      "respuesta": 1,
+      "explicacion": "EVIDENCIAS CORPORALES: todo lo que forma parte o está en el cuerpo humano. Incluye: cicatrices, tatuajes, lesiones, contusiones, sustancias en el organismo (alcohol en sangre, alcaloides, drogas sintéticas), contenido gástrico (clave para tanatocronodiagnóstico), fosas nasales, piel, células epiteliales. Son evidencias de pertenencia cuando están en la indumentaria; corporales cuando están en/sobre el cuerpo."
+    },
+    {
+      "id": 365,
+      "tema": "Percepción y Memoria",
+      "tipo": "TF",
+      "parcial": "P2",
+      "pregunta": "AFIRMACIÓN: 'La memoria semántica (conocimiento racional aprendido) es más confiable que la memoria episódica (eventos traumáticos) en el contexto de interrogatorios a testigos.'",
+      "respuesta": false,
+      "explicacion": "FALSO en el contexto forense. La MEMORIA EPISÓDICA (eventos traumáticos de alto impacto) es MUCHO MÁS DURADERA y confiable a largo plazo que la semántica para efectos de testimonio. El anécdota del sospechoso en el bus lo demuestra: el despachador no recordó el color de la ropa (memoria semántica/corto plazo) pero sí recordó las manos empapadas de sudor (detalle de alto impacto → memoria episódica). El buen investigador activa la memoria episódica del testigo."
     }
   ]
 }

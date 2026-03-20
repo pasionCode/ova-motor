@@ -2,7 +2,28 @@
   "materia": "Criminalística I",
   "parcial": "P2",
   "demo": true,
+  "clases": [
+    "CR_10",
+    "11-03-2026",
+    "16-03-2026",
+    "18-03-2026"
+  ],
   "preguntas": [
+    {
+      "id": 355,
+      "tema": "Acústica Forense",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿En qué orden CORRECTO viaja el sonido de más lento a más rápido según el medio de transmisión?",
+      "opciones": [
+        "Sólido → líquido → gas (el gas es el más rápido)",
+        "Gas → líquido → sólido (el sólido es el más rápido)",
+        "Líquido → gas → sólido",
+        "El sonido viaja a la misma velocidad en todos los medios"
+      ],
+      "respuesta": 1,
+      "explicacion": "Las ondas de sonido viajan: GAS (aire: ~340 m/s) → LÍQUIDO (agua: más rápido que el aire) → SÓLIDO (hierro, madera, pavimento: velocidad máxima). Aplicación forense: un testigo junto a las vías del tren escucha el tren mucho antes que uno alejado; en el agua las explosiones son más destructivas. Un testigo con un barrancón entre él y el disparo escucha distinto que uno sin barrera — explica por qué dos testigos del mismo hecho reportan diferente número de disparos."
+    },
     {
       "id": 200,
       "tema": "Casuística",
@@ -17,6 +38,215 @@
         "línea de tiempo",
         "subjetiv",
         "confía"
+      ]
+    },
+    {
+      "id": 304,
+      "tema": "Clasificación de Evidencia",
+      "tipo": "TF",
+      "parcial": "P2",
+      "pregunta": "AFIRMACIÓN: 'La evidencia circunstancial demuestra directamente los hechos delictivos y tiene el mismo peso que la evidencia física directa en juicio.'",
+      "respuesta": false,
+      "explicacion": "FALSO. La evidencia CIRCUNSTANCIAL es INDIRECTA: no demuestra los hechos directamente, sino que permite INFERIRLOS. Ejemplo: piso mojado al salir de un recinto cerrado infiere que llovió, pero podría ser un camión cisterna. El investigador SIEMPRE verifica: consulta registros del IDEAM, cámaras, testigos. La inferencia no es prueba; la verificación sí."
+    },
+    {
+      "id": 211,
+      "tema": "Dactiloscopia",
+      "tipo": "TF",
+      "parcial": "P2",
+      "pregunta": "AFIRMACIÓN: 'Si una persona se quema todos los dedos intencionalmente, quedará sin identificación dactilar permanente.'",
+      "explicacion": "FALSO. Principio de INMUTABILIDAD: si no hay pérdida total del tejido, la huella se REGENERA con los mismos puntos característicos. Un narcotraficante del caso real se quemó todos los dedos — resultado: quedó mejor identificado que antes porque el intento llamó más la atención. Solo la destrucción total e irreversible del tejido dactilar elimina las crestas.",
+      "respuesta": false
+    },
+    {
+      "id": 320,
+      "tema": "Documentología",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "Según los artículos 424 y 426 del CPP, ¿qué es un 'documento' para efectos penales?",
+      "opciones": [
+        "Únicamente escritos en papel con firma y sello de autoridad competente",
+        "Todo elemento físico con contenido de representación racional: incluye tatuajes, libros, pinturas, ecografías, radiografías, marcas y símbolos",
+        "Solo los documentos públicos expedidos por entidades del Estado",
+        "Exclusivamente los documentos notariados o con apostilla"
+      ],
+      "respuesta": 1,
+      "explicacion": "Art. 424 y 426 CPP: documento es todo elemento con CONTENIDO DE REPRESENTACIÓN RACIONAL. Incluye: tatuajes, libros, pinturas, ecografías, radiografías, marcas registradas, símbolos. Por eso comercializar camisetas con logos falsificados es FALSEDAD MATERIAL (delito contra la fe pública). La concepción es amplia y responde a la era digital y a la diversidad de soportes informativos."
+    },
+    {
+      "id": 344,
+      "tema": "Embalaje y Bioseguridad",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Por qué está PROHIBIDO embalar evidencia en bolsas de PLÁSTICO y qué material debe usarse?",
+      "opciones": [
+        "El plástico es caro y difícil de conseguir; se usa cartón reciclado",
+        "El plástico es higroscópico: hace sudar la evidencia generando humedad, bacterias y contaminación cruzada. Debe usarse bolsa de papel Manila o Kraft (materiales transpirables)",
+        "El plástico no permite ver el contenido; se usa bolsa transparente de tela",
+        "El plástico no tiene regulación específica; cualquier contenedor sellado es válido"
+      ],
+      "respuesta": 1,
+      "explicacion": "BOLSA DE PLÁSTICO PROHIBIDA: es HIGROSCÓPICA — hace sudar la evidencia generando HUMEDAD, BACTERIAS y CONTAMINACIÓN CRUZADA química y biológica, destruyendo la capacidad probatoria. OBLIGATORIO: bolsas de PAPEL MANILA o KRAFT — materiales transpirables que permiten que la evidencia respire sin acumular humedad. Excepción: líquidos que van en contenedores herméticos específicos."
+    },
+    {
+      "id": 332,
+      "tema": "Escena del Crimen",
+      "tipo": "TF",
+      "parcial": "P2",
+      "pregunta": "AFIRMACIÓN: 'En la escena de un atentado terrorista con explosivos, los peritos pueden usar sus radios de comunicación normales y hacer fotografías con flash para documentar la evidencia.'",
+      "respuesta": false,
+      "explicacion": "FALSO. En escenas de atentados con explosivos está ESTRICTAMENTE PROHIBIDO: (1) usar RADIOS de comunicación (existen explosivos que se activan por radiofrecuencia), (2) fotografías con FLASH (existen explosivos fotosensibles). También se prohíbe ropa sintética que genere fricción o estática. Los peritos deben usar trajes especiales de algodón antiestático. El incumplimiento puede provocar una segunda explosión."
+    },
+    {
+      "id": 346,
+      "tema": "Formatos FPJ",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Cuáles son los formatos FPJ para: Primer Responsable, Capturados, Entrevistas e Inspección a cadáver?",
+      "opciones": [
+        "FPJ 1, FPJ 2, FPJ 3, FPJ 4 respectivamente",
+        "FPJ 4 (Primer Responsable), FPJ 5 o 6 (Capturados), FPJ 14 (Entrevistas), FPJ 10 (Inspección técnica a cadáver)",
+        "FPJ 7 (Primer Responsable), FPJ 8 (Capturados), FPJ 9 (Entrevistas), FPJ 10 (Cadáver)",
+        "No hay formatos estandarizados; cada entidad usa su propio formato"
+      ],
+      "respuesta": 1,
+      "explicacion": "Codificación de formatos FPJ del Manual de Policía Judicial: FPJ 4 = Primer Responsable, FPJ 5 o 6 = Capturados, FPJ 14 = Entrevistas, FPJ 10 = Inspección técnica a cadáver. El número 007 corresponde al Rótulo de EMP y EF (cadena de custodia). El conocimiento de estos formatos es obligatorio para la labor investigativa."
+    },
+    {
+      "id": 226,
+      "tema": "Mesa de la Ciencia",
+      "tipo": "TF",
+      "parcial": "P2",
+      "pregunta": "AFIRMACIÓN: 'Una prueba producida por un laboratorio privado no acreditado tiene el mismo valor probatorio que la del INMLCF, si el método fue correcto.'",
+      "explicacion": "FALSO. El pilar de REVISIÓN exige que el laboratorio esté CERTIFICADO y ACREDITADO con estándares de calidad. Un laboratorio no acreditado no garantiza condiciones controladas, instrumentos calibrados ni protocolos estandarizados. La defensa puede impugnar la prueba solo demostrando que el laboratorio no estaba acreditado, independientemente del método.",
+      "respuesta": false
+    },
+    {
+      "id": 316,
+      "tema": "Metrología y Pesaje",
+      "tipo": "CC",
+      "parcial": "P2",
+      "pregunta": "ANÉCDOTA — Media Tonelada en Turbo:\nUn investigador novato incautó panelas de droga en una lancha y reportó '500 kilos (media tonelada)'. La noticia llegó a Caracol, RCN y la DEA. Al llegar al laboratorio la cantidad real era mínima.\n\n¿Qué errores técnicos cometió el investigador y qué consecuencias tuvo?",
+      "respuesta": "confundió peso bruto con neto / error conversión libras a kilos / escándalo disciplinario y mediático",
+      "palabrasClave": [
+        "bruto",
+        "neto",
+        "libras",
+        "kilos",
+        "conversión"
+      ],
+      "explicacion": "El investigador cometió dos errores: (1) no diferenció PESO BRUTO (con empaques) de PESO NETO (droga pura), (2) falló en la conversión libras→kilogramos. Consecuencias: escándalo mediático (Caracol, RCN, DEA), proceso disciplinario, daño institucional. Enseñanza: el perito usa el Sistema Internacional, reporta peso neto, verifica la conversión. Un error de unidades puede hundir una investigación."
+    },
+    {
+      "id": 234,
+      "tema": "Normatividad CPP",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "El Art. 420 CPP (Apreciación de la Prueba Pericial) establece que el juez evalúa:",
+      "explicacion": "Art. 420 CPP: el juez evalúa IDONEIDAD TÉCNICA (conocimiento), CIENTÍFICA (método correcto) y MORAL (imparcialidad) del perito, la EXACTITUD de sus métodos, y que la prueba cumpla los 4 pilares de la mesa de la ciencia. Es el artículo que permite impugnar al perito y eventualmente excluir su prueba del proceso judicial.",
+      "opciones": [
+        "Solo el título universitario y la experiencia laboral del perito",
+        "La idoneidad técnica, científica y moral del perito, la exactitud de sus métodos y el cumplimiento de los pilares de la mesa de la ciencia",
+        "Únicamente si el laboratorio está certificado por el ONAC",
+        "Solo la claridad de la exposición oral en el estrado"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 337,
+      "tema": "Noticia Criminal",
+      "tipo": "CD",
+      "parcial": "P2",
+      "pregunta": "La Noticia Criminal tiene tres tipos de fuentes. Complete:\n\nFuentes __________: Denuncia (Arts. 67-69 CPP) y Querella (Arts. 69-74 CPP)\nFuentes No __________: llamadas al 123, panfletos, WhatsApp, Instagram — requieren verificación previa\nFuentes __________: Art. 75 — peticiones del Procurador por delitos de colombianos en el extranjero",
+      "respuesta": "Formales / Formales o No Formales / Especiales",
+      "palabrasClave": [
+        "formales",
+        "no formales",
+        "especiales"
+      ],
+      "explicacion": "Fuentes de la Noticia Criminal: FORMALES (Denuncia: cualquier persona, Art. 67-69 CPP; Querella: solo la víctima o su representante, caducidad 6 meses, Art. 69-74 CPP). NO FORMALES (llamadas al 123, panfletos, WhatsApp, correos, Instagram — requieren verificación por la patrulla del cuadrante antes de despachar Policía Judicial). ESPECIALES (Art. 75: peticiones del Procurador General por delitos cometidos por colombianos en el extranjero o contra colombianos)."
+    },
+    {
+      "id": 223,
+      "tema": "Percepción y Memoria",
+      "tipo": "TF",
+      "parcial": "P2",
+      "pregunta": "AFIRMACIÓN: 'Dos testigos que presenciaron el mismo disparo desde diferentes ángulos deben haber escuchado el mismo número de detonaciones.'",
+      "explicacion": "FALSO. La percepción auditiva depende del ÁNGULO, la distancia y las condiciones del espacio. Un barrancón entre el testigo y el disparo puede hacer que escuche uno (eco absorbido), mientras quien no tiene barrera escucha dos (disparo + eco). El sonido viaja a 340 m/s en el aire y más rápido en medios más densos. Por eso el testimonio es subjetivo y debe verificarse con evidencia científica.",
+      "respuesta": false
+    },
+    {
+      "id": 333,
+      "tema": "Policía Judicial",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Quiénes ejercen las Funciones PERMANENTES de Policía Judicial?",
+      "opciones": [
+        "Todos los policías uniformados del país con disponibilidad 24/7",
+        "El CTI (Cuerpo Técnico de Investigación de la Fiscalía) y la SIJIN/DIJIN de la Policía Nacional, dedicados exclusivamente a la investigación",
+        "Los bomberos y la defensa civil en situaciones de desastre",
+        "Cualquier profesional con título universitario en ciencias forenses"
+      ],
+      "respuesta": 1,
+      "explicacion": "FUNCIONES PERMANENTES: ejercidas por el CTI (Cuerpo Técnico de Investigación de la Fiscalía) y la SIJIN/DIJIN de la Policía Nacional. Son servidores con disponibilidad 24/7 DEDICADOS EXCLUSIVAMENTE a la investigación criminal. No hacen vigilancia rutinaria; su función principal es la investigación técnico-científica."
+    },
+    {
+      "id": 342,
+      "tema": "Primer Respondiente",
+      "tipo": "CC",
+      "parcial": "P2",
+      "pregunta": "ANÉCDOTA — El Video de la Mujer y el Caso del DAS:\nEn un video viral, la Policía Judicial procesa durante hora y media una escena donde una mujer había recibido un disparo — tomando fotos y recolectando evidencia — hasta que la mujer comienza a respirar. En el DAS, procesaban un cadáver de noche y al tomar una foto con flash, el 'cuerpo' se despertó asustado.\n\n¿Qué delito cometieron los investigadores y cuál es la regla que debieron aplicar primero?",
+      "respuesta": "omisión de socorro / constatar signos vitales antes de procesar / primer paso en cualquier escena",
+      "palabrasClave": [
+        "omisión",
+        "socorro",
+        "signos vitales",
+        "constatar"
+      ],
+      "explicacion": "DELITO: OMISIÓN DE SOCORRO. Antes de procesar cualquier escena, el PRIMER PASO es CONSTATAR SI EL CUERPO ESTÁ SIN VIDA. Si no se hace esto, los investigadores incurren en omisión de socorro, enfrentando procesos disciplinarios y millonarias demandas contra el Estado. La regla: verificar signos vitales → si hay vida, atención médica PRIMERO; si no hay vida, proceder con el protocolo forense."
+    },
+    {
+      "id": 231,
+      "tema": "Procedimientos Forenses",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "¿Cuál es la diferencia entre PESO NETO y PESO BRUTO en un informe forense?",
+      "explicacion": "PESO NETO: el peso del CONTENIDO solo, sin empaque. PESO BRUTO: peso total incluyendo el empaque. En casos de drogas, registrar peso bruto como si fuera neto genera errores graves como el de 'media tonelada en Turbo'. El informe pericial SIEMPRE especifica cuál se reporta. Usa el Sistema Internacional de Unidades. Esta diferencia puede hundir o salvar un proceso.",
+      "opciones": [
+        "Peso neto=el peso del empaque; peso bruto=el peso del contenido",
+        "Peso neto=contenido solo sin empaque; peso bruto=total incluyendo el empaque/contenedor",
+        "Son sinónimos que se usan indistintamente en informes periciales",
+        "Peso bruto=medido en campo; peso neto=medido en laboratorio"
+      ],
+      "respuesta": 1
+    },
+    {
+      "id": 363,
+      "tema": "Prueba Pericial",
+      "tipo": "MC",
+      "parcial": "P2",
+      "pregunta": "Según el Art. 420 del CPP, ¿qué obligación tienen los instrumentos de medición usados por el perito?",
+      "opciones": [
+        "Solo deben estar inventariados en el sistema de la entidad",
+        "Deben estar CALIBRADOS cada 3 meses; si no, la prueba será rechazada en juicio",
+        "Deben ser fabricados en Colombia para garantizar estándares nacionales",
+        "Solo deben calibrarse para el primer uso; no hay obligación de recalibración"
+      ],
+      "respuesta": 1,
+      "explicacion": "Art. 420 CPP: el perito debe contar con IDONEIDAD (saber, diseñar, conocimiento científico) y EXACTITUD. Todos los INSTRUMENTOS DE MEDICIÓN (básculas, distanciómetros, etc.) deben estar calibrados CADA 3 MESES. Si en juicio se demuestra que el instrumento no estaba calibrado, la PRUEBA SERÁ RECHAZADA. La defensa puede solicitar el certificado de calibración como parte de su estrategia de impugnación."
+    },
+    {
+      "id": 214,
+      "tema": "Tanatocronodiagnóstico",
+      "tipo": "CC",
+      "parcial": "P2",
+      "pregunta": "CASO: La autopsia revela contenido gástrico con arroz y pollo sin digerir. Los testigos afirman que la víctima almorzó a las 12:00 pm. El contenido está en etapa inicial de digestión.\n\n¿Qué tipo de comida es arroz con pollo, cuánto tarda en vaciarse, y en qué rango horario ocurrió aproximadamente la muerte?",
+      "explicacion": "Arroz con pollo = COMIDA MEDIA: vaciamiento en 2 a 4 horas. Si comió a las 12:00 pm y el contenido está en etapa inicial, la muerte ocurrió entre las 12:30 pm y las 2:00 pm (antes de completarse la digestión). Esto estrecha significativamente la ventana de la muerte y puede contradecir la hipótesis del caso si el sospechoso tiene coartada para ese rango horario.",
+      "respuesta": "comida media (2-4 horas) / muerte entre 12:30 pm y 2:00 pm",
+      "palabrasClave": [
+        "media",
+        "2",
+        "4"
       ]
     },
     {
@@ -35,84 +265,6 @@
       "respuesta": 2
     },
     {
-      "id": 202,
-      "tema": "Casuística",
-      "tipo": "CD",
-      "parcial": "P2",
-      "pregunta": "El docente usa la anécdota de la morcilla para enseñar el TANATOCRONODIAGNÓSTICO. Complete:\n\nTanatocronodiagnóstico viene de: __________=muerte, __________=tiempo, __________=estudio/análisis.\n\nSu propósito es construir la __________ __________ de la muerte.",
-      "explicacion": "TANATOCRONODIAGNÓSTICO: Tánato=muerte + Crono=tiempo + Diagnóstico=estudio/análisis. Permite construir la LÍNEA DE TIEMPO de la muerte. El contenido gástrico es evidencia corporal clave: liviana (30min-2h), media (2-4h), pesada (4-6h). El tipo de alimento y su estado de digestión establecen el rango horario de la muerte.",
-      "respuesta": "tánato / crono / diagnóstico / línea de tiempo",
-      "palabrasClave": [
-        "tánato",
-        "crono",
-        "diagnóstico",
-        "línea",
-        "tiempo"
-      ]
-    },
-    {
-      "id": 203,
-      "tema": "Casuística",
-      "tipo": "MC",
-      "parcial": "P2",
-      "pregunta": "ANÉCDOTA — Media Tonelada en Turbo:\nUn investigador novato reportó '500 kg (media tonelada)' de droga incautada en una lancha. La noticia llegó a Caracol, RCN y la DEA. Al llegar al laboratorio, la cantidad real era mínima.\n\n¿Qué principio pericial violó y qué consecuencias generó?",
-      "explicacion": "Error de EXACTITUD EN UNIDADES: confundió peso bruto con peso neto y/o falló en la conversión libras→kilos. Consecuencias: escándalo disciplinario, mediático (Caracol, RCN) e institucional (DEA). Una tonelada = 1.000 kilos. El perito usa siempre el Sistema Internacional de Unidades con precisión absoluta y reporta PESO NETO, no bruto.",
-      "opciones": [
-        "Violó el principio de certeza; consecuencias administrativas leves",
-        "Violó la exactitud en unidades de medida (peso neto vs bruto / conversión libras-kilos); consecuencias disciplinarias, mediáticas e institucionales graves",
-        "Violó la cadena de custodia por no rotular los paquetes",
-        "Violó el principio de unicidad al no individualizar cada paquete"
-      ],
-      "respuesta": 1
-    },
-    {
-      "id": 204,
-      "tema": "Casuística",
-      "tipo": "MC",
-      "parcial": "P2",
-      "pregunta": "ANÉCDOTA — Accidente con Explosivos del Docente:\nEl docente perdió parte de su mano durante una capacitación sobre detonadores por no descargar su cuerpo de electricidad estática antes de manipular el elemento.\n\n¿Qué tipo de memoria quedó grabada en el docente, y cuál es la regla de protocolo que violó?",
-      "explicacion": "MEMORIA EPISÓDICA: recuerdos de eventos con carga emocional o traumática que quedan grabados permanentemente. El docente ilustra con su propio accidente. PROTOCOLO VIOLADO: DESCARGA ELECTROSTÁTICA del cuerpo ANTES de manipular detonadores eléctricos. La electricidad estática del cuerpo humano puede generar una chispa suficiente para detonar un detonador.",
-      "opciones": [
-        "Memoria semántica; violó el protocolo de almacenamiento de explosivos",
-        "Memoria episódica (queda grabada permanentemente por el trauma); violó el protocolo de descarga electrostática antes de manipular detonadores",
-        "Memoria a corto plazo; violó el límite de 3 gramos en recolección de explosivos",
-        "Memoria a largo plazo; violó el protocolo de embalaje de materiales peligrosos"
-      ],
-      "respuesta": 1
-    },
-    {
-      "id": 205,
-      "tema": "Casuística",
-      "tipo": "CC",
-      "parcial": "P2",
-      "pregunta": "ANÉCDOTA — El Acertijo de la Pecera:\nEl docente presentó: 'Un cuarto desorganizado. Agua en el suelo. Un cuerpo sin vida. A unos metros, un cuerpo con vida.' La mayoría de estudiantes inventó hipótesis de homicidio. La respuesta: el 'cuerpo sin vida' era un pez y el 'cuerpo con vida' era el perro/gato que había tumbado la pecera.\n\n¿Qué fenómeno ilustra esta anécdota y cuál es la lección metodológica?",
-      "explicacion": "Ilustra el SESGO DE PERCEPCIÓN: el investigador proyecta hipótesis preconcebidas antes de verificar los hechos. El método correcto: OBSERVAR con objetividad → recopilar datos → formular hipótesis. Principio rector: 'El investigador no confía: VE, CRITICA y VERIFICA.' Las primeras impresiones en la escena son peligrosas si no se contrastan con evidencia.",
-      "respuesta": "sesgo de percepción - no construir hipótesis antes de observar - verificar antes de concluir",
-      "palabrasClave": [
-        "sesgo",
-        "percepción",
-        "verificar",
-        "hipótesis",
-        "observar"
-      ]
-    },
-    {
-      "id": 206,
-      "tema": "Casuística",
-      "tipo": "CC",
-      "parcial": "P2",
-      "pregunta": "ANÉCDOTA — El Avión y el Tejido Biológico:\nUna aseguradora cubría siniestros si la aeronave entraba en contacto con 'aves'. Se halló tejido biológico en el fuselaje. El perito de la aseguradora dijo: 'es tejido de ave'. La empresa cobró. Un segundo laboratorio independiente determinó que era tejido de un CIERVO — era el desayuno del ave rapaz que lo sobrevoló.\n\n¿Qué pilares de la Mesa de la Ciencia se aplicaron en el segundo análisis?",
-      "explicacion": "Se aplicaron: REFUTABILIDAD (el primer resultado fue cuestionado) y REVISIÓN (laboratorio independiente, certificado, mismo método — reproducibilidad). La aseguradora NO pagó porque la cláusula era exclusiva para aves y el tejido era de ciervo. Lección: la ciencia forense debe ser IMPUGNABLE y REVISABLE para ser válida. Nunca tragarse los resultados sin verificar.",
-      "respuesta": "refutabilidad y revisión por laboratorio independiente certificado",
-      "palabrasClave": [
-        "refutabilidad",
-        "revisión",
-        "laboratorio",
-        "certificado",
-        "independiente"
-      ]
-    },
-    {
       "id": 207,
       "tema": "Clasificación de Evidencia",
       "tipo": "MC",
@@ -126,35 +278,6 @@
         "Evidencias digitales almacenadas en dispositivos electrónicos"
       ],
       "respuesta": 1
-    },
-    {
-      "id": 208,
-      "tema": "Clasificación de Evidencia",
-      "tipo": "MC",
-      "parcial": "P2",
-      "pregunta": "¿Qué son las evidencias MICROSCÓPICAS y cuál es un ejemplo forense típico en casos de agresión sexual?",
-      "explicacion": "EVIDENCIAS MICROSCÓPICAS: tamaño microscópico, requieren microscopio para visualizarse. Ejemplo forense: ESPERMATOZOIDES EN EL SURCO UNGUEAL (espacio bajo la uña). Su presencia puede indicar forcejeo o agresión sexual. El surco ungueal también puede contener células epidérmicas del agresor, fibras, o residuos. Es una zona prioritaria de búsqueda en agresiones.",
-      "opciones": [
-        "Evidencias visibles solo con lupa de aumento; ej: huellas dactilares",
-        "Evidencias en rango microscópico que requieren microscopio; ej: espermatozoides en el surco ungueal de la víctima",
-        "Evidencias de tamaño muy pequeño que se embalan en tubos capilares",
-        "Son sinónimas de evidencias latentes"
-      ],
-      "respuesta": 1
-    },
-    {
-      "id": 210,
-      "tema": "Dactiloscopia",
-      "tipo": "CD",
-      "parcial": "P2",
-      "pregunta": "La dactiloscopia se sustenta en 3 principios. Complete:\n\n1. __________: la huella se forma en el 6° mes de gestación y permanece hasta la descomposición\n2. __________: si se destruye parcialmente, se regenera con los mismos puntos característicos\n3. __________: no existen dos huellas iguales en el universo",
-      "explicacion": "Los 3 principios: PERENNEIDAD (permanencia desde el 6° mes de gestación hasta descomposición), INMUTABILIDAD (si se destruye sin pérdida total, se regenera idéntica), DIVERSIDAD (no existen dos huellas iguales — para repetirse se requeriría 1 seguido de 40 ceros en años según el científico Baltasar). Estos principios fundamentan el principio criminalístico de UNICIDAD.",
-      "respuesta": "Perenneidad / Inmutabilidad / Diversidad",
-      "palabrasClave": [
-        "perenneidad",
-        "inmutabilidad",
-        "diversidad"
-      ]
     }
   ]
 }
