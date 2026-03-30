@@ -82,6 +82,12 @@ export default function Quiz({ preguntas, materia, parcial, modoBanco, onFinaliz
 
       <div className="container">
         <div className="card">
+          {/* Número de control — sale del campo id del JSON, no del índice del arreglo */}
+          <div style={{ fontFamily:'var(--font-mono)', fontSize:10, color:'#334155',
+            letterSpacing:'1px', marginBottom:8 }}>
+            #{pregunta.id}
+          </div>
+
           <div style={{ display:'flex', gap:8, alignItems:'center', marginBottom:14, flexWrap:'wrap' }}>
             <Badge tipo={pregunta.tipo} />
             <span style={{ color:'#475569', fontSize:11 }}>{pregunta.tema}</span>
@@ -140,8 +146,13 @@ export default function Quiz({ preguntas, materia, parcial, modoBanco, onFinaliz
           {/* Retroalimentación */}
           {mostrarRetro && (
             <div style={{ background: correcto?'#064e3b':'#450a0a', border:`1px solid ${correcto?'#059669':'#dc2626'}`, borderRadius:6, padding:16, marginTop:16 }}>
-              <div style={{ fontWeight:700, marginBottom:8, color:correcto?'#6ee7b7':'#fca5a5', fontFamily:'var(--font-mono)' }}>
-                {correcto ? '✓ CORRECTO' : '✗ INCORRECTO'}
+              <div style={{ display:'flex', justifyContent:'space-between', alignItems:'center', marginBottom:8 }}>
+                <div style={{ fontWeight:700, color:correcto?'#6ee7b7':'#fca5a5', fontFamily:'var(--font-mono)' }}>
+                  {correcto ? '✓ CORRECTO' : '✗ INCORRECTO'}
+                </div>
+                <span style={{ fontFamily:'var(--font-mono)', fontSize:10, color:'#334155' }}>
+                  #{pregunta.id}
+                </span>
               </div>
               {!correcto && pregunta.tipo!=='MC' && pregunta.palabrasClave?.length > 0 && (
                 <div style={{ color:'#94a3b8', fontSize:12, marginBottom:8 }}>
