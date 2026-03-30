@@ -1,0 +1,181 @@
+Pregunta 1: ¿Cuáles son las actuaciones que se consideran actos urgentes según el artículo 205 del Código de Procedimiento Penal? Respuesta: Los actos urgentes incluyen la inspección del lugar de los hechos, la inspección al cadáver y la realización de entrevistas e interrogatorios
+. Estas actuaciones las realiza la policía judicial por iniciativa propia y de manera inmediata al recibir un reporte
+.
+Pregunta 2: ¿Qué artículo del Código de Procedimiento Penal regula el Programa Metodológico y qué función cumple? Respuesta: El Programa Metodológico está regulado por el artículo 207
+. Consiste en una sesión o reunión de trabajo dirigida por el fiscal para determinar los objetivos de la investigación y trazar la hipótesis delictiva a comprobar
+.
+Pregunta 3: ¿Cuándo inicia formalmente la fijación narrativa de un caso para la policía judicial? Respuesta: La fijación narrativa comienza exactamente desde el momento en que se recibe la noticia criminal y el Número Único de Noticia Criminal, no cuando los investigadores llegan a la escena
+.
+Pregunta 4: ¿Cuáles son los cuatro métodos principales de fijación del lugar de los hechos exigidos en Colombia? Respuesta: Los métodos oficiales de fijación son la narrativa, la fotografía, el video y la topografía
+. Recientemente se ha sumado a estos el registro aéreo o de imágenes desde drones
+.
+Pregunta 5: ¿En qué formato se documenta formalmente la entrega de la escena por parte del primer responsable a la policía judicial? Respuesta: El primer responsable del lugar (usualmente la policía de vigilancia) hace la entrega a la unidad investigativa utilizando el formato FPJ 4
+.
+Pregunta 6: ¿Cuáles son los dos primeros niveles de acordonamiento en la escena y quiénes pueden acceder a ellos? Respuesta: El primer nivel es el de afectación e incidencia, el cual es exclusivo para proteger la evidencia física y al que solo entran peritos con equipo de bioseguridad
+. El segundo nivel (incidencia logística) está destinado para instalar herramientas, laboratorios móviles, ambulancias y personal de apoyo
+.
+Pregunta 7: ¿Qué es la "claqueta" fotográfica y qué datos debe contener obligatoriamente? Respuesta: La claqueta corresponde al formato FPJ 32 y su función es dar inicio y cierre a la secuencia fotográfica de un procedimiento
+. Debe contener los 21 dígitos del Número Único de Noticia Criminal y la firma del fotógrafo a cargo
+.
+Pregunta 8: ¿Por qué la ley prohíbe que un investigador borre o edite una fotografía en la escena del crimen? Respuesta: Borrar o alterar fotografías se considera una alteración del elemento material probatorio que vicia la totalidad de la fijación
+. Si es imperativo usar un filtro de luz por contraluz, el fotógrafo debe justificarlo en el informe, pero jamás puede borrar la foto original
+.
+Pregunta 9: ¿Cuáles son los tipos de planos fotográficos que se deben agotar metódicamente durante la fijación? Respuesta: El registro fotográfico debe iniciar con capturas panorámicas, luego avanzar a fotografías con perspectiva (mínimo cuatro), y finalizar con primer plano y primerísimo plano para los detalles característicos
+.
+Pregunta 10: ¿En qué consiste la técnica de la "fotografía testigo"? Respuesta: Es una técnica en la que se toma la fotografía ubicando la lente a la misma altura y ángulo desde donde un testigo, un sospechoso o la víctima afirma haber presenciado o ejecutado el hecho, para comprobar si físicamente existía línea de visión
+.
+Pregunta 11: ¿Cuál es la regla inquebrantable respecto al audio en la grabación de la fijación videográfica? Respuesta: El video forense debe hacerse con paneos cortos y, preferiblemente, sin registrar audio
+. Dejar un micrófono abierto permite grabar comentarios, burlas o ruidos del equipo investigativo que la defensa puede usar en juicio para desvirtuar la credibilidad del procedimiento
+.
+Pregunta 12: ¿A qué se refiere el criterio de "pertinencia y conducencia" en la recolección probatoria? Respuesta: Significa que no se debe recolectar indiscriminadamente cada objeto del lugar, sino exclusivamente aquellos elementos que tengan un nexo lógico y directo con el delito investigado, para no saturar los laboratorios ni afectar la economía procesal probatoria
+.
+Pregunta 13: ¿Cuál es la diferencia técnica e institucional entre los términos "coincidencia" y "concordancia"? Respuesta: En criminalística no se habla de coincidencia porque este término denota eventos fortuitos o dados al azar
+. El término probatorio correcto es concordancia, el cual implica que hay una relación analítica demostrable entre dos evidencias (como las estrías del cañón y la bala)
+.
+Pregunta 14: ¿Para qué tipo de evidencia y exámenes forenses se utiliza el tubo de tapa color gris? Respuesta: Los tubos de tapa gris están diseñados para recolectar muestras de sangre que requieren análisis toxicológicos como pruebas de alcoholemia y detección de drogas de abuso (cocaína, marihuana/THC)
+.
+Pregunta 15: ¿En qué casos forenses el investigador debe emplear un tubo de tapa color roja? Respuesta: El tubo de tapa roja debe usarse cuando existe una sospecha fundada de intoxicación o muerte inducida por venenos, plaguicidas, insecticidas o herbicidas
+.
+Pregunta 16: ¿Cómo se llama el equipo especializado que analiza la concentración cuantitativa de THC en la sangre? Respuesta: Ese análisis metabólico se procesa a través de un cromatógrafo capilar, el cual lee la sustancia y arroja su porcentaje exacto
+.
+Pregunta 17: ¿Qué institución colombiana es la encargada de certificar los estándares de los laboratorios forenses? Respuesta: La certificación y calibración métrica está a cargo del Organismo Nacional de Acreditación de Colombia (ONAC)
+.
+Pregunta 18: ¿Cuál es el riesgo jurídico procesal si se analiza una prueba con un equipo cuya calibración está vencida? Respuesta: Si el equipo pierde vigencia de calibración así sea por un minuto, la lectura cuantitativa queda viciada y la prueba será impugnada y excluida en juicio, además de generar multas y pérdida de licencia para el laboratorio
+.
+Pregunta 19: Además del certificado de calibración (ONAC), ¿qué otro soporte documental requieren los microscopios analíticos para ser válidos en juicio? Respuesta: Todo microscopio que se utilice para dar dictámenes de correspondencia (como las estrías en balística) debe contar con una bitácora estricta de mantenimiento correctivo
+.
+Pregunta 20: ¿Cuáles son los métodos estandarizados para realizar búsquedas en el lugar de los hechos? Respuesta: Entre los métodos más utilizados están las técnicas de búsqueda por franjas, en espiral, y en cuadrícula o rejilla
+.
+Pregunta 21: ¿Qué es la "planimetría" dentro del campo de la topografía forense? Respuesta: La planimetría es la elaboración de un plano que representa el lugar de los hechos exclusivamente desde una vista superior o plana, es decir, sin profundidad o relieve
+.
+Pregunta 22: ¿Qué ventaja ilustrativa ofrece la "isometría" en comparación a la planimetría? Respuesta: La isometría proyecta el dibujo mediante líneas (usualmente a 30 o 45 grados) para otorgar profundidad y tridimensionalidad al croquis
+.
+Pregunta 23: ¿Por qué la isometría es vital al procesar vehículos baleados? Respuesta: Porque, al brindar profundidad al diagrama, permite usar varillas ilustrativas para mostrar al juez de manera irrefutable la trayectoria exacta: por dónde ingresaron y por dónde salieron los impactos
+.
+Pregunta 24: Según el artículo 258, ¿en qué consiste la acción legal del "traslado" de evidencia? Respuesta: El traslado ocurre cuando el investigador recoge la evidencia y la transporta para hacer la entrega formal en la ventanilla u oficina de correspondencia del laboratorio designado
+.
+Pregunta 25: ¿En qué momento procesal ocurre el "traspaso" del Elemento Material Probatorio? Respuesta: El traspaso se ejecuta inmediatamente después del traslado, y es el acto donde el funcionario de correspondencia entrega el contenedor sellado directamente a las manos del perito especializado que realizará el examen
+.
+Pregunta 26: ¿Ante qué autoridad y en qué plazo deben reportarse las actuaciones de los actos urgentes? Respuesta: Las actuaciones se deben entregar en un informe ejecutivo dirigido al fiscal disponible o centro de servicios judiciales de la jurisdicción a la mayor brevedad, cumpliendo con las 36 horas reglamentarias
+.
+Pregunta 27: ¿Por qué es un error fatal de procedimiento reportar cronológicamente el hallazgo de las evidencias antes que el acordonamiento? Respuesta: Porque la cronología narrativa debe tener lógica secuencial de protección; reportar un registro o movimiento de pruebas sin un acordonamiento previo implica una mala manipulación y un vacío en la línea de tiempo que arruina la cadena de custodia ante los jueces
+.
+Pregunta 28: ¿Cuál es el paso final a cargo del grupo investigador tras agotar la fijación fotográfica y topográfica? Respuesta: Se procede de inmediato con la recolección minuciosa, el embalaje en contenedores idóneos según la naturaleza biológica o física del elemento, y el rotulado, sellando con la firma en el formato de cadena de custodia
+.
+Pregunta 29: ¿Por qué el investigador de campo o primer respondiente es considerado el eslabón de mayor riesgo en la criminalística? Respuesta: Porque como dice el profesor, el experto de laboratorio y el fiscal dependen exclusivamente de él. "Un mal hallazgo, un mal procedimiento o embalaje al inicio hace que todo termine mal"
+.
+Pregunta 30: ¿Cómo se llama el formato donde la policía judicial inicia sus registros tras constatar que los hechos no son una llamada falsa (ej. NUNC)? Respuesta: Todo inicio formal de labores y reporte cronológico debe quedar plasmado obligatoriamente en el formato de reporte de iniciación forense.
+
+Pregunta 31: Por regla general de la investigación forense, ¿cómo debe asumirse y procesarse inicialmente la escena de un suicidio? Respuesta: Todo suicidio debe asumirse e investigarse inicialmente como un homicidio
+.
+Pregunta 32: ¿A qué institución debe entregarse obligatoriamente el cuerpo una vez finalizada la inspección legal? Respuesta: El cuerpo debe ser entregado única y exclusivamente a la Fiscalía
+.
+Pregunta 33: Si durante la investigación se demuestra que el dueño de una casa o vehículo tenía conocimiento de que su propiedad era usada para cometer delitos, ¿a qué proceso legal se expone dicho bien? Respuesta: El bien inmueble o vehículo queda sujeto a un proceso de extinción de dominio
+.
+Pregunta 34: ¿Cuáles son los cuatro tipos básicos de acordonamiento dependiendo del lugar de los hechos? Respuesta: Los tipos de acordonamiento son: para lugares cerrados, lugares abiertos, hechos de tránsito, y para desastres masivos o atentados
+.
+Pregunta 35: En el caso específico de atentados terroristas con explosivos, ¿cuáles son los cuatro perímetros o niveles de acordonamiento que deben implementarse? Respuesta: Se dividen en cuatro: D1 (el epicentro o cráter), D2 (la mitad de la distancia de D1), el perímetro interno (que es la suma matemática de D1 + D2), y un perímetro externo o de seguridad que añade 3 metros adicionales
+.
+Pregunta 36: En situaciones de desastres masivos o atentados, ¿qué autoridades o entidades asumen usualmente el rol de primer responsable debido a su capacitación en manejo de emergencias? Respuesta: Entidades de socorro como la Defensa Civil o el cuerpo de Bomberos
+.
+Pregunta 37: ¿Cuáles son tres prohibiciones absolutas de bioseguridad para el equipo de criminalística al ingresar a una escena con riesgo de explosivos? Respuesta: Está estrictamente prohibido usar radios de comunicación (sus frecuencias pueden activar detonadores), utilizar el flash de las cámaras fotográficas (por riesgo con explosivos fotosensibles), y usar prendas acrílicas o comunes que generen energía estática
+.
+Pregunta 38: Según la Resolución 2369 de 2016, ¿quién puede fungir legalmente como el "primer responsable" en una escena? Respuesta: Puede ser un particular o un servidor público que, por el cumplimiento de sus funciones, entra en contacto inicial con los elementos materiales probatorios, asumiendo la responsabilidad de su recolección y preservación
+.
+Pregunta 39: ¿Qué es exactamente la "Noticia Criminal"? Respuesta: Es el acto formal a través del cual se informa a las autoridades sobre la ocurrencia de un evento que reviste características de hecho violento o criminal
+.
+Pregunta 40: ¿Cuáles son las tres categorías en las que se clasifican las fuentes de la noticia criminal? Respuesta: Se clasifican en fuentes formales, fuentes no formales y fuentes especiales
+.
+Pregunta 41: ¿Cuáles son las fuentes formales de la noticia criminal consagradas en el Código de Procedimiento Penal? Respuesta: Son la denuncia (Art. 67-69 del CPP) y la querella (Art. 71-74 del CPP)
+.
+Pregunta 42: Mencione ejemplos de fuentes "no formales" de noticia criminal. Respuesta: Las llamadas anónimas a líneas de emergencia (como el 123), panfletos, cartas anónimas, correos, chats de WhatsApp, o noticias divulgadas en medios de comunicación y revistas
+.
+Pregunta 43: ¿Quién es el funcionario competente para elevar una petición especial (fuente especial) cuando el delito es cometido en el extranjero o involucra condiciones específicas de extradición? Respuesta: El Procurador General de la Nación (Art. 75 del CPP)
+.
+Pregunta 44: Según el artículo 68 del CPP sobre la exoneración del deber de denunciar, ¿en qué casos una persona no está obligada a interponer una denuncia? Respuesta: Nadie está obligado a formular denuncia contra sí mismo, ni contra su cónyuge/compañero, ni cuando el conocimiento del hecho esté amparado por el secreto profesional (médicos, abogados, psicólogos, sacerdotes)
+.
+Pregunta 45: ¿En qué circunstancia extrema se levanta o se rompe la protección del secreto profesional y se obliga al profesional a denunciar? Respuesta: Cuando guardar el secreto implique permitir que se consume un delito grave o una amenaza inminente contra la vida o la seguridad pública (por ejemplo, el aviso de colocar una bomba o cometer un homicidio)
+.
+Pregunta 46: ¿Cuál es la condición fundamental impuesta por la ley para admitir escritos anónimos como fuente válida de investigación? Respuesta: Solo serán actuados por el fiscal si suministran evidencias o datos concretos que permitan orientar objetivamente la investigación
+.
+Pregunta 47: ¿Quién es la única persona autorizada para presentar una "Querella" y cuál es el tiempo máximo (caducidad) para interponerla? Respuesta: Únicamente puede ser presentada por la víctima de la conducta punible (o su representante), y tiene un tiempo de caducidad de 6 meses
+.
+Pregunta 48: A diferencia de la querella, ¿qué particularidad tiene la denuncia frente al paso del tiempo en casos como los delitos de lesa humanidad? Respuesta: La denuncia no tiene caducidad para su interposición inicial, y en los casos de lesa humanidad u otros crímenes graves tipificados, la acción penal no prescribe
+.
+Pregunta 49: Cuando se recibe una información por una fuente no formal (como una llamada anónima), ¿cuál es el paso investigativo inmediato que deben realizar las autoridades? Respuesta: El paso inmediato es la "verificación", la cual generalmente es realizada por la patrulla policial del cuadrante para constatar si el hecho violento realmente existe en el lugar indicado
+.
+Pregunta 50: ¿Qué es un "procedimiento recursivo" y cuál es el requisito obligatorio para que un investigador de policía judicial lo utilice válidamente? Respuesta: Es una improvisación o adaptación técnica en el lugar de los hechos motivada por situaciones extremas de seguridad, orden público o riesgo inminente. El requisito inquebrantable es que el investigador debe sustentarlo y justificarlo de forma detallada en su informe escrito (bitácora) para que no sea excluido por la defensa
+.
+Pregunta 51: ¿Qué es el NUNC y por cuántos dígitos está compuesto? Respuesta: Es el Número Único de Noticia Criminal, el cual consta de 21 dígitos que "matriculan" la evidencia física a un proceso judicial específico
+.
+Pregunta 52: En la estructura del NUNC, ¿qué información aportan los primeros siete dígitos? Respuesta: Los primeros dos dígitos corresponden al código del departamento, los tres siguientes indican el municipio, y los dos posteriores identifican a la entidad receptora (ej. 31 para Fiscalía)
+.
+Pregunta 53: ¿Cuál fue el error procedimental gravísimo (y delito) cometido por el CTI en la anécdota del "cadáver" fotografiado con flash que resultó estar vivo? Respuesta: Incurrieron en el delito de "omisión de socorro" por empezar a procesar la escena de manera mecánica sin haber constatado primero mediante un primer respondiente o personal médico si el cuerpo carecía de signos vitales
+.
+Pregunta 54: En el marco de los protocolos de fijación, ¿en qué momento exacto de la línea de tiempo se inicia el reporte de fijación "narrativa"? Respuesta: Inicia en el momento mismo en que el grupo de policía judicial recibe la noticia criminal, obligando a describir desde la hora de salida de sus instalaciones hasta las eventualidades ocurridas en el traslado (choques, tráfico) antes de llegar al lugar de los hechos
+.
+Pregunta 55: Según el vocabulario técnico exigido, en una inspección de cadáver de una víctima suspendida por una soga, ¿cómo se denomina el procedimiento de bajar el cuerpo? Respuesta: Se denomina procedimentalmente "descolgamiento"
+.
+Pregunta 56: ¿Qué artículo del Código de Procedimiento Penal fundamenta la creación del "programa metodológico" en el que la policía judicial obedece a las directrices de un fiscal coordinador? Respuesta: El artículo 207 del CPP rige el plan o programa metodológico, estableciendo que el fiscal es el director de la investigación y asigna roles específicos al equipo
+.
+Pregunta 57: En criminalística, ¿cuál es la diferencia procesal entre un "testigo presencial" y un "testigo de referencia"? Respuesta: El testigo presencial es quien observa y percibe directamente el acto violento; el testigo de referencia es aquel que no vio los hechos, pero conoce la información a través de un tercero (por ejemplo, una esposa que escucha a su marido agonizante decir el nombre de quién le disparó)
+.
+Pregunta 58: ¿Qué se entiende por "evidencia ambiental" y por qué requiere verificación estricta? Respuesta: Es la evidencia circunstancial del entorno (ej. observar el pavimento húmedo e inferir que llovió). Requiere verificación porque el investigador no debe asumir hechos, ya que el pavimento pudo humedecerse por otras causas artificiales (como un camión regando agua)
+.
+Pregunta 59: ¿Cuáles son los sinónimos procesales que el docente exige dominar para el concepto de "refutar" una prueba en juicio? Respuesta: Rechazar, impugnar, desacreditar y contradecir
+.
+Pregunta 60: Según la metáfora de la "Mesa de Jaramillo" y el Artículo 430 del CPP, ¿cuáles son los cuatro pilares que soportan la validez de una prueba científica o peritaje en juicio? Respuesta: 1) La refutabilidad, 2) La revisión, 3) El grado de incertidumbre o error máximo permitido, y 4) La aceptación por la comunidad científica internacional
+.
+Pregunta 61: En el caso de estudio del siniestro aéreo, ¿qué hallazgo del laboratorio de biología motivó a la aseguradora a negar inicialmente el pago de la póliza? Respuesta: Se halló tejido biológico de un ciervo en el fuselaje. Como la póliza solo cubría accidentes por choques con aves (de corto o largo vuelo), la aseguradora argumentó incumplimiento del contrato
+.
+Pregunta 62: ¿Cómo resolvió la refutación el segundo equipo de investigadores en el caso del ciervo y el avión? Respuesta: Demostraron mediante un laboratorio certificado que el tejido del ciervo estaba recubierto con ácido clorhídrico concentrado, una enzima propia de las aves de rapiña. Esto probó que un ave se comió al ciervo y posteriormente chocó contra el avión
+.
+Pregunta 63: ¿De dónde proviene la raíz etimológica e histórica del término "Escena" (Lugar de los Hechos)? Respuesta: Proviene del "escenario" del teatro antiguo, lugares públicos (como el patíbulo, el cadalso o el púlpito) donde se recreaban historias, se castigaba o se ejecutaba a las personas ante el público
+.
+Pregunta 64: ¿Cuáles son las cinco categorías en las que se clasifica el "Lugar de los Hechos" según su entorno físico? Respuesta: Se clasifica en lugares abiertos (calles, potreros), lugares cerrados (apartamentos, bodegas), lugares mixtos (áreas circulantes), lugares móviles (vehículos, trenes, aviones, cruceros) y el ciberespacio
+.
+Pregunta 65: En cuanto a su naturaleza, ¿cuál es la diferencia exacta entre la escena "primaria" y la "secundaria"? Respuesta: La escena primaria es el sitio donde ocurrieron los acontecimientos principales (la agresión directa); la secundaria es un lugar que guarda relación con el delito, pero con un nexo más distante (ej. el sitio donde se abandonó el vehículo de huida o se desechó el arma)
+.
+Pregunta 66: ¿Cómo se llama el primer nivel de acordonamiento en una escena del crimen y qué área abarca? Respuesta: Se llama acordonamiento de "Afectación". Comprende desde el epicentro del hecho hasta la evidencia física más distante, incluyendo un margen de tolerancia
+.
+Pregunta 67: ¿Qué función cumple el segundo anillo o cordón de "Incidencia" en el lugar de los hechos? Respuesta: Es el perímetro de seguridad donde operan la policía nacional de vigilancia, los laboratorios móviles de criminalística y autoridades como el Ministerio Público
+.
+Pregunta 68: A diferencia de otros países, ¿a quiénes se confina en el tercer cordón de protección en Colombia? Respuesta: Se destina para contener a los familiares de la víctima, la prensa y los curiosos
+.
+Pregunta 69: ¿Qué instituciones ostentan las funciones "permanentes" de Policía Judicial en Colombia? Respuesta: El CTI (Cuerpo Técnico de Investigación de la Fiscalía) y la SIJIN/DIJIN de la Policía Nacional. Históricamente, también el extinto DAS. Estas unidades operan en turnos 24/7
+.
+Pregunta 70: Por regla de bioseguridad, ¿por qué los trajes de los criminalistas son blancos y los contenedores de cadáveres son negros? Respuesta: El traje blanco permite notar de inmediato la suciedad o fluidos para evitar contaminación cruzada. Los contenedores de cadáveres son negros porque este color actúa como "fundidor" o contraste, facilitando hallar pequeñas evidencias desprendidas del cuerpo
+.
+Pregunta 71: ¿Por qué es un error técnico gravísimo embalar elementos materiales probatorios orgánicos en bolsas de plástico? Respuesta: Porque el plástico es un material higroscópico; hace "sudar" la evidencia, generando humedad, proliferación de bacterias y contaminación química que arruina la prueba
+.
+Pregunta 72: Si el plástico está prohibido, ¿cuál es el contenedor oficial y correcto para la mayoría de embalajes documentales u orgánicos? Respuesta: Las bolsas de papel Manila, elaboradas a partir de papel Kraft reciclado
+.
+Pregunta 73: ¿A qué institución se le asignan las funciones "supletorias" de policía judicial y cuál es la condición para ejercerlas? Respuesta: Se le asignan a la Policía Nacional de Vigilancia (los uniformados), y solo pueden ejercerlas en lugares del territorio nacional donde no haya presencia de servidores de policía judicial permanente
+.
+Pregunta 74: Según el artículo 208 del CPP, ¿qué diligencias urgentes puede realizar la policía de vigilancia bajo función supletoria sin requerir autorización judicial previa? Respuesta: Pueden realizar registros personales, registro de vehículos y diligencias similares, debiendo embalar y reportar los hallazgos inmediatamente
+.
+Pregunta 75: ¿Qué formato debe diligenciar la policía de vigilancia cuando actúa para acordonar y entregar la escena? Respuesta: Deben diligenciar el Formato FPJ 4, correspondiente al reporte de Primer Responsable
+.
+Pregunta 76: ¿A qué formatos corresponden las siglas "FPJ 7" y "FPJ 8"? Respuesta: El FPJ 7 es el formato contenedor/rótulo del elemento material probatorio (conocido con la nemotecnia del "Agente 007"), y el FPJ 8 es el formato de entrevistas
+.
+Pregunta 77: ¿A quiénes se les otorgan funciones permanentes "especiales" de Policía Judicial? Respuesta: A entidades como la Procuraduría, Contraloría, Tránsito, INPEC y Alcaldes/Inspectores, facultados para investigar exclusivamente los delitos que se desprendan de la naturaleza de sus funciones
+.
+Pregunta 78: ¿Cuál es el límite espacial inquebrantable para que el INPEC actúe como policía judicial? Respuesta: Su competencia es estrictamente al interior de los centros penitenciarios o de reclusión. Si un evento ocurre fuera de las instalaciones, pierden su facultad de policía judicial
+.
+Pregunta 79: ¿Qué institución civil antioqueña posee funciones permanentes especiales de Policía Judicial por razones de seguridad técnica? Respuesta: El Metro de Medellín, cuyo personal está facultado para procesar la escena, recoger y embalar partes corporales exclusivamente en casos de arrollamientos o suicidios en las vías del tren
+.
+Pregunta 80: ¿Quién tiene la potestad de otorgar funciones "transitorias" de policía judicial y mediante qué mecanismo? Respuesta: Las otorga el Fiscal General de la Nación, mediante un acto administrativo y por un tiempo estrictamente determinado
+.
+Pregunta 81: ¿En qué situaciones atípicas la Fiscalía debe recurrir a entregar funciones "transitorias" a un ente que no es policía judicial? Respuesta: Cuando los delitos revisten una complejidad técnica extrema (ej. el fraude de las pirámides financieras DMG), y la fiscalía necesita que entes especializados (como superintendencias o contadores) asuman el rol investigativo para explicar y dictaminar el hecho
+.
+Pregunta 82: ¿Cómo se llama la organización internacional de policía criminal que apoya la investigación transnacional y en qué ciudad está su sede central? Respuesta: INTERPOL, con sede central en la ciudad de Lyon, Francia
+.
+Pregunta 83: Para la aplicación de leyes y capturas internacionales, ¿qué espacios físicos se consideran una extensión soberana ("derecho de bandera") del territorio de un país? Respuesta: Las embajadas, los consulados, las naves y las aeronaves (barcos y aviones comerciales o de Estado)
+.
+Pregunta 84: Si un dictamen sobrepasa las capacidades del Instituto Nacional de Medicina Legal, ¿qué permite el Artículo 204 del CPP? Respuesta: Permite que la Fiscalía o la defensa se apoyen en cooperación internacional, laboratorios privados nacionales o extranjeros, o universidades, siempre y cuando estén validados y acreditados
+.
+Pregunta 85: ¿Cómo ilustró el docente el concepto del "derecho de bandera" usando el histórico caso de la captura de Carlos "El Chacal" (Ramírez Sánchez)? Respuesta: Explicó que la policía francesa infiltrada en Sudán engañó a "El Chacal" para que ingresara a una aeronave. En el instante en que cruzó la puerta, pisó territorio legal francés (por el derecho de bandera), lo que les permitió capturarlo legalmente y llevarlo a Francia
+.
+
+
+
