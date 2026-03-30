@@ -30,15 +30,13 @@ export default function Inicio({ materia, banco, cargando, onIniciar, onRepaso }
   // Calcular estadísticas del banco dinámicamente
   // Sin hardcodear P1/P2 — agrupa por cualquier parcial presente
   const statsBanco = useMemo(() => {
-    if (!banco?.length) return { total: 0, porParcial: [] };
-    const mapa = {};
-    banco.forEach(q => {
-      mapa[q.parcial] = (mapa[q.parcial] || 0) + 1;
-    });
-    const porParcial = Object.entries(mapa)
-      .sort(([a], [b]) => a.localeCompare(b))
-      .map(([parcial, count]) => ({ parcial, count }));
-    return { total: banco.length, porParcial };
+    if (!banco?.length) return { total: 0, temas: 0, tipos: {} };
+    const temas = new Set(banco.map(q => q.tema)).size;
+    const tipos = banco.reduce((acc, q) => {
+      acc[q.tipo] = (acc[q.tipo] || 0) + 1;
+      return acc;
+    }, {});
+    return { total: banco.length, temas, tipos };
   }, [banco]);
 
   const ultimaSesion = historial.find(h => h.materia === materia?.nombre);
@@ -86,25 +84,15 @@ export default function Inicio({ materia, banco, cargando, onIniciar, onRepaso }
 
           {/* Stats dinámicos del banco */}
           {statsBanco.total > 0 && (
-            <div style={{
-              display: 'grid',
-              gridTemplateColumns: `repeat(${Math.min(statsBanco.porParcial.length + 1, 4)}, 1fr)`,
-              gap: 8, marginBottom: 18,
-            }}>
-              {/* Total */}
-              <div style={{ background:'#0a1929', border:'1px solid #1e3a5f', borderRadius:6, padding:'10px 8px', textAlign:'center' }}>
-                <div style={{ fontSize:20, fontWeight:700, color:'#e2e8f0', fontFamily:'var(--font-mono)' }}>
-                  {statsBanco.total}
-                </div>
-                <div style={{ fontSize:10, color:'#475569', letterSpacing:1 }}>TOTAL</div>
-              </div>
-              {/* Por parcial — dinámico */}
-              {statsBanco.porParcial.map(({ parcial, count }, i) => (
-                <div key={parcial} style={{ background:'#0a1929', border:'1px solid #1e3a5f', borderRadius:6, padding:'10px 8px', textAlign:'center' }}>
-                  <div style={{ fontSize:20, fontWeight:700, color: COLORES_PARCIAL[i % COLORES_PARCIAL.length], fontFamily:'var(--font-mono)' }}>
-                    {count}
-                  </div>
-                  <div style={{ fontSize:10, color:'#475569', letterSpacing:1 }}>{parcial}</div>
+            <div style={{ display:'grid', gridTemplateColumns:'repeat(3,1fr)', gap:8, marginBottom:18 }}>
+              {[
+                [statsBanco.total,  'PREGUNTAS', '#93c5fd'],
+                [statsBanco.temas,  'TEMAS',     '#86efac'],
+                [Object.keys(statsBanco.tipos).length, 'TIPOS', '#fdba74'],
+              ].map(([n, label, color]) => (
+                <div key={label} style={{ background:'#0a1929', border:'1px solid #1e3a5f', borderRadius:6, padding:'10px 8px', textAlign:'center' }}>
+                  <div style={{ fontSize:20, fontWeight:700, color, fontFamily:'var(--font-mono)' }}>{n}</div>
+                  <div style={{ fontSize:10, color:'#475569', letterSpacing:1 }}>{label}</div>
                 </div>
               ))}
             </div>
