@@ -92,7 +92,7 @@ export function Header({ titulo, subtitulo, onVolver, children }) {
           </div>
         )}
         {subtitulo && (
-          <div style={{ color: '#94a3b8', fontSize: 11, letterSpacing: '1px', marginTop: 2 }}>
+          <div style={{ color: '#cbd5e1', fontSize: 11, letterSpacing: '1px', marginTop: 2 }}>
             {subtitulo}
           </div>
         )}
