@@ -10,14 +10,13 @@ import { useState, useEffect, useMemo } from 'react';
 import { Header, Btn, ProgressBar, StatusDot } from '../ui/UIComponents.jsx';
 import {
   obtenerHistorial, obtenerTemasDebiles, obtenerColaRepaso,
-  exportarProgreso, importarProgreso, limpiarTodo,
+
 } from '../../storage/persistence.js';
 
 export default function Inicio({ materia, banco, cargando, onIniciar, onRepaso }) {
   const [historial,    setHistorial]   = useState([]);
   const [temasDebiles, setTemasDebiles]= useState([]);
   const [colaRepaso,   setColaRepaso]  = useState([]);
-  const [confirmLimpiar, setConfirm]  = useState(false);
 
   function recargarDatos() {
     setHistorial(obtenerHistorial());
@@ -78,7 +77,7 @@ export default function Inicio({ materia, banco, cargando, onIniciar, onRepaso }
           <div style={{ fontFamily:'var(--font-mono)', fontSize:20, fontWeight:700, color:'#93c5fd', marginBottom:2 }}>
             {materia?.nombre}
           </div>
-          <div style={{ color:'#475569', fontSize:12, marginBottom:16 }}>
+          <div style={{ color:'#94a3b8', fontSize:12, marginBottom:16 }}>
             {materia?.semestre} · {materia?.docente}
           </div>
 
@@ -92,7 +91,7 @@ export default function Inicio({ materia, banco, cargando, onIniciar, onRepaso }
               ].map(([n, label, color]) => (
                 <div key={label} style={{ background:'#0a1929', border:'1px solid #1e3a5f', borderRadius:6, padding:'10px 8px', textAlign:'center' }}>
                   <div style={{ fontSize:20, fontWeight:700, color, fontFamily:'var(--font-mono)' }}>{n}</div>
-                  <div style={{ fontSize:10, color:'#475569', letterSpacing:1 }}>{label}</div>
+                  <div style={{ fontSize:10, color:'#94a3b8', letterSpacing:1 }}>{label}</div>
                 </div>
               ))}
             </div>
@@ -101,16 +100,16 @@ export default function Inicio({ materia, banco, cargando, onIniciar, onRepaso }
           {/* Última sesión */}
           {ultimaSesion && (
             <div style={{ background:'#0a1929', border:'1px solid #1e3a5f', borderRadius:6, padding:12, marginBottom:16 }}>
-              <div style={{ color:'#64748b', fontSize:11, letterSpacing:1, marginBottom:4 }}>ÚLTIMA SESIÓN</div>
+              <div style={{ color:'#94a3b8', fontSize:11, letterSpacing:1, marginBottom:4 }}>ÚLTIMA SESIÓN</div>
               <div style={{ display:'flex', justifyContent:'space-between', alignItems:'center' }}>
                 <div>
                   <span style={{ color:'#e2e8f0', fontSize:13, fontFamily:'var(--font-mono)' }}>
                     {ultimaSesion.correctas}/{ultimaSesion.total}
                   </span>
-                  <span style={{ color:'#334155', margin:'0 8px' }}>·</span>
-                  <span style={{ color:'#475569', fontSize:11 }}>{ultimaSesion.fecha}</span>
+                  <span style={{ color:'#94a3b8', margin:'0 8px' }}>·</span>
+                  <span style={{ color:'#94a3b8', fontSize:11 }}>{ultimaSesion.fecha}</span>
                   {ultimaSesion.parcial && (
-                    <span style={{ color:'#334155', marginLeft:8, fontSize:11 }}>{ultimaSesion.parcial}</span>
+                    <span style={{ color:'#94a3b8', marginLeft:8, fontSize:11 }}>{ultimaSesion.parcial}</span>
                   )}
                 </div>
                 <span style={{
@@ -156,26 +155,7 @@ export default function Inicio({ materia, banco, cargando, onIniciar, onRepaso }
           </div>
         )}
 
-        {/* Gestión de progreso */}
-        <div className="card">
-          <div style={{ color:'#64748b', fontSize:11, letterSpacing:1, marginBottom:12 }}>
-            GESTIONAR PROGRESO
-          </div>
-          <div style={{ display:'flex', gap:8, flexWrap:'wrap' }}>
-            <Btn variante="ghost" onClick={exportarProgreso}>↓ EXPORTAR</Btn>
-            <label style={{
-              background:'#1e293b', color:'#94a3b8', border:'1px solid #334155',
-              padding:'10px 18px', borderRadius:6, cursor:'pointer',
-              fontSize:13, fontFamily:'var(--font-mono)',
-            }}>
-              ↑ IMPORTAR
-              <input type="file" accept=".json" onChange={manejarImportar} style={{ display:'none' }} />
-            </label>
-            <Btn variante="danger" onClick={manejarLimpiar}>
-              {confirmLimpiar ? '¿CONFIRMAR?' : '✕ LIMPIAR TODO'}
-            </Btn>
-          </div>
-        </div>
+
 
       </div>
     </div>

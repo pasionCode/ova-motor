@@ -83,14 +83,14 @@ export default function Quiz({ preguntas, materia, parcial, modoBanco, onFinaliz
       <div className="container">
         <div className="card">
           {/* Número de control — sale del campo id del JSON, no del índice del arreglo */}
-          <div style={{ fontFamily:'var(--font-mono)', fontSize:10, color:'#334155',
+          <div style={{ fontFamily:'var(--font-mono)', fontSize:10, color:'#94a3b8',
             letterSpacing:'1px', marginBottom:8 }}>
             #{pregunta.id}
           </div>
 
           <div style={{ display:'flex', gap:8, alignItems:'center', marginBottom:14, flexWrap:'wrap' }}>
             <Badge tipo={pregunta.tipo} />
-            <span style={{ color:'#475569', fontSize:11 }}>{pregunta.tema}</span>
+            <span style={{ color:'#94a3b8', fontSize:11 }}>{pregunta.tema}</span>
           </div>
 
           <div style={{ fontSize:15, lineHeight:1.7, whiteSpace:'pre-line', marginBottom:20, color:'#e2e8f0' }}>
@@ -100,7 +100,7 @@ export default function Quiz({ preguntas, materia, parcial, modoBanco, onFinaliz
           {/* MC */}
           {pregunta.tipo==='MC' && !mostrarRetro && pregunta.opciones?.map((op,i) => (
             <button key={i} style={sOp(opcion,i)} onClick={() => setOpcion(i)}>
-              <span style={{ color:'#475569', marginRight:8 }}>{String.fromCharCode(65+i)})</span>{op}
+              <span style={{ color:'#94a3b8', marginRight:8 }}>{String.fromCharCode(65+i)})</span>{op}
             </button>
           ))}
           {pregunta.tipo==='MC' && mostrarRetro && pregunta.opciones?.map((op,i) => {
@@ -115,7 +115,7 @@ export default function Quiz({ preguntas, materia, parcial, modoBanco, onFinaliz
             <div style={{ display:'flex', gap:12 }}>
               {['VERDADERO','FALSO'].map(v => (
                 <button key={v}
-                  style={{ ...(respuestaTexto===v ? {background:'#1e40af',color:'#e2e8f0'} : {background:'#0a1929',color:'#475569',border:'1px solid #1e3a5f'}), flex:1, padding:14, borderRadius:6, fontSize:14, fontFamily:'var(--font-mono)' }}
+                  style={{ ...(respuestaTexto===v ? {background:'#1e40af',color:'#e2e8f0'} : {background:'#0a1929',color:'#94a3b8',border:'1px solid #1e3a5f'}), flex:1, padding:14, borderRadius:6, fontSize:14, fontFamily:'var(--font-mono)' }}
                   onClick={() => setTexto(v)}>
                   {v==='VERDADERO' ? '✓ VERDADERO' : '✗ FALSO'}
                 </button>
@@ -130,7 +130,7 @@ export default function Quiz({ preguntas, materia, parcial, modoBanco, onFinaliz
                 return <div key={v} style={{ flex:1, padding:14, borderRadius:6, textAlign:'center', fontSize:14, fontFamily:'var(--font-mono)',
                   background: esC?'#064e3b':(esS&&!esC)?'#450a0a':'#0a1929',
                   border:`1px solid ${esC?'#059669':(esS&&!esC)?'#dc2626':'#1e3a5f'}`,
-                  color: esC?'#6ee7b7':(esS&&!esC)?'#fca5a5':'#475569' }}>{v}</div>;
+                  color: esC?'#6ee7b7':(esS&&!esC)?'#fca5a5':'#94a3b8' }}>{v}</div>;
               })}
             </div>
           )}
@@ -150,7 +150,7 @@ export default function Quiz({ preguntas, materia, parcial, modoBanco, onFinaliz
                 <div style={{ fontWeight:700, color:correcto?'#6ee7b7':'#fca5a5', fontFamily:'var(--font-mono)' }}>
                   {correcto ? '✓ CORRECTO' : '✗ INCORRECTO'}
                 </div>
-                <span style={{ fontFamily:'var(--font-mono)', fontSize:10, color:'#334155' }}>
+                <span style={{ fontFamily:'var(--font-mono)', fontSize:10, color:'#94a3b8' }}>
                   #{pregunta.id}
                 </span>
               </div>

@@ -27,7 +27,7 @@ export default function Historial({ onVolver }) {
 
         {historial.length === 0 ? (
           <div className="card" style={{ textAlign:'center', padding:40 }}>
-            <div style={{ color:'#475569', fontSize:14 }}>Sin sesiones registradas aún.</div>
+            <div style={{ color:'#94a3b8', fontSize:14 }}>Sin sesiones registradas aún.</div>
           </div>
         ) : (
           <>
@@ -39,7 +39,7 @@ export default function Historial({ onVolver }) {
                   <div style={{ display:'flex', justifyContent:'space-between', alignItems:'center', marginBottom:10 }}>
                     <div>
                       <div style={{ fontFamily:'var(--font-mono)', color:'#93c5fd', fontSize:14 }}>{mat}</div>
-                      <div style={{ color:'#475569', fontSize:11 }}>{sesiones.length} sesiones · promedio {promedio}%</div>
+                      <div style={{ color:'#94a3b8', fontSize:11 }}>{sesiones.length} sesiones · promedio {promedio}%</div>
                     </div>
                     <div style={{ fontFamily:'var(--font-mono)', fontSize:28, fontWeight:700,
                       color: promedio>=75?'#34d399':promedio>=60?'#fbbf24':'#f87171' }}>
@@ -58,8 +58,8 @@ export default function Historial({ onVolver }) {
                           {h.modoBanco === 'demo' && (
                             <span style={{ color:'#d97706', fontSize:10, fontFamily:'var(--font-mono)' }}>DEMO</span>
                           )}
-                          <span style={{ color:'#475569' }}>{h.correctas}/{h.total}</span>
-                          <span style={{ color:'#334155', fontSize:11 }}>{h.fecha}</span>
+                          <span style={{ color:'#94a3b8' }}>{h.correctas}/{h.total}</span>
+                          <span style={{ color:'#94a3b8', fontSize:11 }}>{h.fecha}</span>
                         </div>
                         <span style={{ fontFamily:'var(--font-mono)', fontWeight:700, flexShrink:0,
                           color: h.pct>=75?'#34d399':h.pct>=60?'#fbbf24':'#f87171' }}>

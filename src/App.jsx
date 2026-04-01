@@ -17,6 +17,8 @@
  */
 
 import { useState, useEffect } from 'react';
+import { initAuth, cerrarSesion, usuarioActual } from './auth.js';
+import Login from './components/screens/Login.jsx';
 import './styles/theme.css';
 
 import Inicio       from './components/screens/Inicio.jsx';
@@ -85,6 +87,18 @@ function useBanco(materia, modoBanco) {
 }
 
 // ── SESIÓN VACÍA ──────────────────────────────────────────────
+// ── AUTH ─────────────────────────────────────────────────────
+function useAuth() {
+  const [usuario, setUsuario] = useState(() => usuarioActual());
+  useEffect(() => {
+    initAuth({
+      onLogin:  user => setUsuario(user),
+      onLogout: ()   => setUsuario(null),
+    });
+  }, []);
+  return { usuario };
+}
+
 const SESION_VACIA = {
   preguntas:   [],
   resultados:  [],
@@ -96,6 +110,9 @@ const SESION_VACIA = {
 
 // ── COMPONENTE PRINCIPAL ──────────────────────────────────────
 export default function App() {
+  const { usuario } = useAuth();
+  if (!usuario) return <Login />;
+
   const [pantalla,        setPantalla]        = useState('inicio');
   const [materiaActiva,   setMateriaActiva]   = useState(MATERIAS_DISPONIBLES[0]);
   const [modoBancoActivo, setModoBancoActivo] = useState('full');
@@ -208,8 +225,8 @@ export default function App() {
       fontSize:13, padding:24, textAlign:'center', gap:8 }}>
       <div style={{ fontSize:36 }}>⚠</div>
       <div>Error al cargar el banco</div>
-      <div style={{ color:'#475569' }}>{error}</div>
-      <div style={{ color:'#334155', fontSize:11, marginTop:8 }}>
+      <div style={{ color:'#94a3b8' }}>{error}</div>
+      <div style={{ color:'#94a3b8', fontSize:11, marginTop:8 }}>
         Verifica que los JSON estén en /public/bancos/
       </div>
     </div>
@@ -250,7 +267,7 @@ export default function App() {
         {esQuiz ? (
           // Barra compacta durante quiz
           <>
-            <span style={{ color:'#475569', fontSize:11, fontFamily:'var(--font-mono)' }}>
+            <span style={{ color:'#94a3b8', fontSize:11, fontFamily:'var(--font-mono)' }}>
               QUIZ ACTIVO:
             </span>
             <span style={{ color:'#93c5fd', fontSize:12, fontFamily:'var(--font-mono)', fontWeight:700 }}>
@@ -263,7 +280,7 @@ export default function App() {
                 onClick={() => solicitarCambioMateria(m)}
                 style={{
                   background: materiaActiva?.id===m.id ? '#1e3a5f':'transparent',
-                  color: materiaActiva?.id===m.id ? '#93c5fd':'#475569',
+                  color: materiaActiva?.id===m.id ? '#93c5fd':'#94a3b8',
                   border:`1px solid ${materiaActiva?.id===m.id ? '#1e40af':'transparent'}`,
                   padding:'4px 10px', borderRadius:4, fontSize:11,
                   fontFamily:'var(--font-mono)', whiteSpace:'nowrap',
@@ -283,7 +300,7 @@ export default function App() {
         ) : (
           // Barra completa fuera del quiz
           <>
-            <span style={{ color:'#334155', fontSize:11, fontFamily:'var(--font-mono)', marginRight:4, whiteSpace:'nowrap' }}>
+            <span style={{ color:'#94a3b8', fontSize:11, fontFamily:'var(--font-mono)', marginRight:4, whiteSpace:'nowrap' }}>
               MATERIA:
             </span>
             {MATERIAS_DISPONIBLES.map(m => (
@@ -291,7 +308,7 @@ export default function App() {
                 onClick={() => solicitarCambioMateria(m)}
                 style={{
                   background: materiaActiva?.id===m.id ? '#1e3a5f':'transparent',
-                  color: materiaActiva?.id===m.id ? '#93c5fd':'#475569',
+                  color: materiaActiva?.id===m.id ? '#93c5fd':'#94a3b8',
                   border:`1px solid ${materiaActiva?.id===m.id ? '#1e40af':'transparent'}`,
                   padding:'5px 12px', borderRadius:4, fontSize:12,
                   whiteSpace:'nowrap', fontFamily:'var(--font-mono)',
@@ -304,7 +321,7 @@ export default function App() {
               onClick={() => setPantalla(p => p==='historial' ? 'inicio' : 'historial')}
               style={{
                 background: pantalla==='historial' ? '#1e3a5f':'transparent',
-                color: pantalla==='historial' ? '#93c5fd':'#475569',
+                color: pantalla==='historial' ? '#93c5fd':'#94a3b8',
                 border:`1px solid ${pantalla==='historial' ? '#1e40af':'transparent'}`,
                 padding:'5px 12px', borderRadius:4, fontSize:12,
                 fontFamily:'var(--font-mono)', marginLeft:'auto', flexShrink:0,

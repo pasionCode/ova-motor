@@ -128,14 +128,14 @@ export default function Config({
 
   const chip = (activo) => ({
     background:  activo ? '#1e40af' : '#0a1929',
-    color:       activo ? '#e2e8f0' : '#475569',
+    color:       activo ? '#e2e8f0' : '#94a3b8',
     border:     `1px solid ${activo ? '#60a5fa' : '#1e3a5f'}`,
     padding: '7px 12px', borderRadius: 6, cursor: 'pointer',
     fontSize: 12, fontFamily: 'var(--font-mono)', transition: 'all 0.15s',
   });
 
   const lbl = {
-    color: '#64748b', fontSize: 11, letterSpacing: 1,
+    color: '#94a3b8', fontSize: 11, letterSpacing: 1,
     marginBottom: 8, display: 'block', fontFamily: 'var(--font-mono)',
   };
 
@@ -216,7 +216,7 @@ export default function Config({
                 <span style={lbl}>TEMAS — opcional</span>
                 {filtros.temas.length > 0 && (
                   <button onClick={() => set('temas',[])}
-                    style={{ background:'none', color:'#475569', border:'none', fontSize:11, cursor:'pointer' }}>
+                    style={{ background:'none', color:'#94a3b8', border:'none', fontSize:11, cursor:'pointer' }}>
                     limpiar
                   </button>
                 )}
@@ -251,14 +251,14 @@ export default function Config({
         <div className="card" style={{ borderColor: iniciarBloqueado ? '#1e293b' : '#1e40af' }}>
           <div style={{ display:'flex', justifyContent:'space-between', alignItems:'center', marginBottom:16 }}>
             <div>
-              <div style={{ color:'#64748b', fontSize:11, letterSpacing:1 }}>DISPONIBLES</div>
+              <div style={{ color:'#94a3b8', fontSize:11, letterSpacing:1 }}>DISPONIBLES</div>
               <div style={{ fontFamily:'var(--font-mono)', fontSize:28,
-                color: bancoPendiente ? '#475569' : '#93c5fd' }}>
+                color: bancoPendiente ? '#94a3b8' : '#93c5fd' }}>
                 {bancoPendiente ? '…' : preview}
               </div>
             </div>
             <div style={{ textAlign:'right' }}>
-              <div style={{ color:'#64748b', fontSize:11, letterSpacing:1 }}>SE EVALUARÁN</div>
+              <div style={{ color:'#94a3b8', fontSize:11, letterSpacing:1 }}>SE EVALUARÁN</div>
               <div style={{ fontFamily:'var(--font-mono)', fontSize:28, color:'#60a5fa' }}>
                 {bancoPendiente ? '…' : cantidadFinal}
               </div>

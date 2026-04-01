@@ -41,7 +41,7 @@ export default function Resultado({ resultados, materia, parcial, modoBanco, dur
           <div style={{ color:resumen.nivel.color, letterSpacing:3, fontSize:14, fontFamily:'var(--font-mono)', marginTop:4 }}>
             {resumen.nivel.label}
           </div>
-          <div style={{ color:'#475569', fontSize:13, marginTop:6 }}>
+          <div style={{ color:'#94a3b8', fontSize:13, marginTop:6 }}>
             {resumen.correctas} de {resumen.total} correctas
             {duracion ? ` · ${Math.floor(duracion/60)}m ${duracion%60}s` : ''}
           </div>
@@ -53,7 +53,7 @@ export default function Resultado({ resultados, materia, parcial, modoBanco, dur
             ].map(([n,label,color]) => (
               <div key={label} style={{ background:'#0a1929', border:'1px solid #1e3a5f', borderRadius:6, padding:12 }}>
                 <div style={{ fontFamily:'var(--font-mono)', fontSize:26, fontWeight:700, color }}>{n}</div>
-                <div style={{ fontSize:10, color:'#475569', letterSpacing:1 }}>{label}</div>
+                <div style={{ fontSize:10, color:'#94a3b8', letterSpacing:1 }}>{label}</div>
               </div>
             ))}
           </div>
@@ -62,7 +62,7 @@ export default function Resultado({ resultados, materia, parcial, modoBanco, dur
         {/* Desglose por tema */}
         {porTema.length > 0 && (
           <div className="card">
-            <div style={{ color:'#64748b', fontSize:11, letterSpacing:1, marginBottom:12, fontFamily:'var(--font-mono)' }}>
+            <div style={{ color:'#94a3b8', fontSize:11, letterSpacing:1, marginBottom:12, fontFamily:'var(--font-mono)' }}>
               RENDIMIENTO POR TEMA
             </div>
             {porTema.map(t => (
@@ -87,7 +87,7 @@ export default function Resultado({ resultados, materia, parcial, modoBanco, dur
             </div>
             {resultados.filter(r => !r.correcto).map(r => (
               <div key={r.pregunta.id} style={{ background:'#0a1929', border:'1px solid #1e3a5f', borderRadius:6, padding:'10px 12px', marginBottom:8, fontSize:12 }}>
-                <div style={{ color:'#64748b', fontFamily:'var(--font-mono)', fontSize:11, marginBottom:4 }}>
+                <div style={{ color:'#94a3b8', fontFamily:'var(--font-mono)', fontSize:11, marginBottom:4 }}>
                   #{r.pregunta.id} · {r.pregunta.tema} · {r.pregunta.parcial}
                 </div>
                 <div style={{ color:'#94a3b8', lineHeight:1.5 }}>
