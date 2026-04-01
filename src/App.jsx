@@ -17,8 +17,6 @@
  */
 
 import { useState, useEffect } from 'react';
-import { initAuth, cerrarSesion, usuarioActual } from './auth.js';
-import Login from './components/screens/Login.jsx';
 import './styles/theme.css';
 
 import Inicio       from './components/screens/Inicio.jsx';
@@ -87,18 +85,6 @@ function useBanco(materia, modoBanco) {
 }
 
 // ── SESIÓN VACÍA ──────────────────────────────────────────────
-// ── AUTH ─────────────────────────────────────────────────────
-function useAuth() {
-  const [usuario, setUsuario] = useState(() => usuarioActual());
-  useEffect(() => {
-    initAuth({
-      onLogin:  user => setUsuario(user),
-      onLogout: ()   => setUsuario(null),
-    });
-  }, []);
-  return { usuario };
-}
-
 const SESION_VACIA = {
   preguntas:   [],
   resultados:  [],
@@ -110,9 +96,6 @@ const SESION_VACIA = {
 
 // ── COMPONENTE PRINCIPAL ──────────────────────────────────────
 export default function App() {
-  const { usuario } = useAuth();
-  if (!usuario) return <Login />;
-
   const [pantalla,        setPantalla]        = useState('inicio');
   const [materiaActiva,   setMateriaActiva]   = useState(MATERIAS_DISPONIBLES[0]);
   const [modoBancoActivo, setModoBancoActivo] = useState('full');
