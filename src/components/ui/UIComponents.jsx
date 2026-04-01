@@ -92,7 +92,7 @@ export function Header({ titulo, subtitulo, onVolver, children }) {
           </div>
         )}
         {subtitulo && (
-          <div style={{ color: '#475569', fontSize: 11, letterSpacing: '1px', marginTop: 2 }}>
+          <div style={{ color: '#94a3b8', fontSize: 11, letterSpacing: '1px', marginTop: 2 }}>
             {subtitulo}
           </div>
         )}
@@ -108,8 +108,8 @@ export function StatusDot({ activo, label }) {
   return (
     <span style={{
       background: activo ? '#064e3b' : '#1e293b',
-      color: activo ? '#6ee7b7' : '#475569',
-      border: `1px solid ${activo ? '#059669' : '#334155'}`,
+      color: activo ? '#6ee7b7' : '#94a3b8',
+      border: `1px solid ${activo ? '#059669' : '#94a3b8'}`,
       padding: '2px 8px',
       borderRadius: 4,
       fontSize: 11,
