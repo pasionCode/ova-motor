@@ -38,12 +38,10 @@ const MATERIAS_DISPONIBLES = [
     docente: 'Carlos Augusto Jaramillo G.',
     bancos: {
       full: [
-        '/bancos/criminalistica-p1.json',
-        '/bancos/criminalistica-p2.json',
+        '/bancos/criminalistica-banco-unificado.json',
       ],
       demo: [
         '/bancos/criminalistica-p1.demo.json',
-        '/bancos/criminalistica-p2.demo.json',
       ],
     },
   },
